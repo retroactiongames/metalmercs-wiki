@@ -6,10 +6,7 @@ theme:
     scheme: slate
     primary: black
     accent: amber
-  features:
-    - navigation.sections
-    - navigation.expand
-    - search.highlight
+
 
 extra_css:
   - stylesheets/extra.css

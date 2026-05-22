@@ -1,0 +1,10 @@
+site_name: MetalMercs Corepedia
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Factions:
+      - Helios Sovereignty: factions/helios-sovereignty.md
+  - Society:
+      - Mercenaries: society/mercenaries.md

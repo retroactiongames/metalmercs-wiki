@@ -1,12 +1,28 @@
 site_name: MetalMercs Corepedia
+site_description: The definitive archive of the MetalMercs universe.
 
 theme:
   name: material
-  palette:
-    scheme: slate
-    primary: black
-    accent: amber
+  logo: assets/mm_logo.png
+  favicon: assets/favicon.png
 
+  palette:
+    scheme: default
+    primary: custom
+    accent: custom
+
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+    - search.suggest
+    - content.action.edit
 
 extra_css:
   - stylesheets/extra.css

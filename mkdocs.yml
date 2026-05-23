@@ -1,35 +1,97 @@
 site_name: MetalMercs Corepedia
-site_description: The definitive archive of the MetalMercs universe.
 
 theme:
   name: material
   logo: assets/mm_logo.png
   favicon: assets/favicon.png
+  language: en
+  custom_dir: docs/overrides
 
   palette:
     scheme: default
     primary: custom
     accent: custom
 
-  font:
-    text: Roboto
-    code: Roboto Mono
-
   features:
-    - navigation.tabs
-    - navigation.sections
-    - navigation.expand
+    - navigation.path
     - navigation.top
-    - search.highlight
     - search.suggest
-    - content.action.edit
+    - search.highlight
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra:
+  social: []
+  generator: false
+
+plugins:
+  - search
 
 extra_css:
   - stylesheets/extra.css
 
 nav:
   - Home: index.md
-  - Factions:
+
+  - The Core:
+      - Overview: core/overview.md
+      - Star Regency: core/star-regency.md
+      - StarCom: factions/starcom.md
+      - History: core/history.md
+
+  - Great Houses:
       - Helios Sovereignty: factions/helios-sovereignty.md
+      - Starcrest Protectorate: factions/starcrest-protectorate.md
+      - Confederate Vanguard Union: factions/confederate-vanguard-union.md
+      - Omnisphere Imperium: factions/omnisphere-imperium.md
+      - Orion Corporate: factions/orion-corporate.md
+  
+  - Mercenaries:
+      - Overview: mercenaries/overview.md
+      - Mercenary Guild: mercenaries/mercenary-guild.md
+      - Greater Mercenary Units: mercenaries/greater-mercenary-units.md
+      - Lesser Mercenary Units: mercenaries/lesser-mercenary-units.md
+
+  - Technology:
+      - Mechs: technology/mechs.md
+      - Weapons: technology/weapons.md
+      - Space Warfare: technology/space-warfare.md
+      - Jump Technology: technology/jump-drive.md
+
+  - Military:
+      - Military Organization: military/organization.md
+      - Military Ranks: military/ranks.md
+      - Fleet Structure: military/fleet-structure.md
+  
   - Society:
-      - Mercenaries: society/mercenaries.md
+      - Life in the Core: society/life-in-the-core.md
+      - Cities of the Core: society/cities-of-the-core.md
+      - Ruins of the Empire: society/ruins-of-the-empire.md
+      - Mercenary Culture: society/mercenary-culture.md
+      - Pirates and Raiders: society/pirates-and-raiders.md
+      - CoreNet: society/core-net.md
+
+  - Places:
+      - Drake's Landing: places/drakes-landing.md
+      - Titan Prime: places/titan-prime.md
+    
+  - People:
+      - Jada Lytherius: people/jada-lytherius.md
+      - Victor Hawkins: people/victor-hawkins.md
+      - Deckard Nodack: people/deckard-nodack.md
+      - Arthur Payne: people/arthur-payne.md
+      
+  - The Fringe:
+      - Fringe Worlds: society/fringe-worlds.md
+      - The Frontier: places/the-frontier.md
+      - The Deep Fringe: society/deep-fringe.md
+  
+  - History & Religion:
+      - History of Humanity: history/lost-history-of-humanity.md
+      - Religions of the Core: history/religions.md
+      - Other Beliefs: history/lesser-religions.md

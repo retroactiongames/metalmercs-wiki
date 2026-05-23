@@ -61,6 +61,12 @@ Throughout civilized space, mechs are viewed simultaneously as:
 
 For many citizens of the Core, the silhouette of a mech standing watch over a city skyline represents civilization itself.
 
+## Mech Registries
+
+- [Mechs of the Core](mechs-of-the-core.md)
+
+The following registries catalog the major mech chassis used throughout the Core Worlds, including both common mech platforms and faction-specific war machines.
+
 ## Why Mechs Dominate Warfare
 
 Modern military doctrine throughout the Core is built around mech warfare.
@@ -210,6 +216,7 @@ The true origins of mech technology remain one of the great unresolved historica
 Although all major factions utilize mechs, each approaches mech warfare differently.
 
 ### Confederate Vanguard Union
+- [Confederate Vanguard Union Mechs](confederate-vanguard-union-mechs.md)
 
 The Union emphasizes:
 - mass deployment
@@ -220,6 +227,7 @@ The Union emphasizes:
 Union mech doctrine prioritizes overwhelming force and operational momentum.
 
 ### Helios Sovereignty
+- [Helios Sovereignty Mechs](helios-sovereignty-mechs.md)
 
 The Sovereignty favors:
 - polished military formations
@@ -230,6 +238,7 @@ The Sovereignty favors:
 Sovereignty mech units are often viewed as symbols of status as much as military assets.
 
 ### Omnisphere Imperium
+- [Omnisphere Imperium Mechs](omnisphere-imperium-mechs.md)
 
 The Imperium maintains some of the oldest continuous mech traditions in the Core.
 
@@ -243,6 +252,7 @@ Imperium doctrine emphasizes:
 Fire symbolism remains deeply embedded within many Imperium mech traditions.
 
 ### Starcrest Protectorate
+- [Starcrest Protectorate Mechs](starcrest-protectorate-mechs.md)
 
 Protectorate doctrine focuses heavily upon:
 - defensive warfare
@@ -253,6 +263,7 @@ Protectorate doctrine focuses heavily upon:
 Protectorate mech units are widely respected for their durability and defensive coordination.
 
 ### Orion Corporate
+- [Orion Corporate Mechs](orion-corporate-mechs.md)
 
 Orion mech doctrine emphasizes:
 - technological precision

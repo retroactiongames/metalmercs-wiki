@@ -14,6 +14,7 @@ theme:
 
   features:
     - navigation.path
+    - navigation.indexes
     - navigation.top
     - search.suggest
     - search.highlight
@@ -58,7 +59,15 @@ nav:
       - Lesser Mercenary Units: mercenaries/lesser-mercenary-units.md
 
   - Technology:
-      - Mechs: technology/mechs.md
+      - technology/index.md
+      - Mechs:
+          - mechs/index.md
+          - Mechs of the Core: mechs/mechs-of-the-core.md
+          - Confederate Vanguard Union Mechs: mechs/confederate-vanguard-union-mechs.md
+          - Helios Sovereignty Mechs: mechs/helios-sovereignty-mechs.md
+          - Starcrest Protectorate Mechs: mechs/starcrest-protectorate-mechs.md
+          - Omnisphere Imperium Mechs: mechs/omnisphere-imperium-mechs.md
+          - Orion Corporate Mechs: mechs/orion-corporate-mechs.md
       - Weapons: technology/weapons.md
       - Space Warfare: technology/space-warfare.md
       - Jump Technology: technology/jump-drive.md

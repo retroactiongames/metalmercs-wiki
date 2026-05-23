@@ -198,6 +198,11 @@ html {
    Do not apply these rules to the mobile drawer.
 ========================= */
 
+/* Add breathing room at bottom of left sidebar */
+.md-sidebar--primary .md-sidebar__scrollwrap {
+  padding-bottom: 4rem !important;
+}
+
 @media screen and (min-width: 76.25em) {
 
   /* hide sticky white title box on desktop only */
@@ -1234,4 +1239,33 @@ html {
 
   background: transparent !important;
   box-shadow: none !important;
+}
+
+@media screen and (max-width: 76.1875em) {
+
+  /* Fix mobile navigation.indexes section alignment */
+  .md-sidebar--primary
+  .md-nav--primary
+  > .md-nav__list
+  > .md-nav__item
+  > .md-nav__container
+  > a.md-nav__link {
+    padding-left: 0.7rem !important;
+    margin-left: 0 !important;
+  }
+
+}
+
+@media screen and (max-width: 76.1875em) {
+
+  /* Fix nested navigation.indexes rows like MECHS */
+  .md-sidebar--primary
+  .md-nav--primary
+  .md-nav__item
+  > .md-nav__container
+  > a.md-nav__link {
+    padding-left: 0.7rem !important;
+    margin-left: 0 !important;
+  }
+
 }

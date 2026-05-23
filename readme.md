@@ -3,7 +3,7 @@
 > *"Knowledge is all that survives."*  
 > — StarCom Archival Directive 01
 
-The **Corepedia** is an in-universe archival wiki for the world of **Metal Mercs**, a retro-inspired science fiction setting centered around declining interstellar civilizations, ancient technologies, mercenary warfare, political intrigue, and the mysteries surrounding humanity’s forgotten origins.
+The **Corepedia** is an in-universe archival wiki for the world of **Metal Mercs**, a retro-inspired military science fiction setting centered around mech warfare, declining interstellar civilizations, political intrigue, mercenary conflict, and the mysteries surrounding humanity’s forgotten past.
 
 This repository contains markdown articles representing public records accessible through the fictional **StarCom CoreNet archival system**. Entries are written in-universe and are intended to resemble historical, political, military, and technical records maintained by StarCom archivists.
 
@@ -13,13 +13,27 @@ This repository contains markdown articles representing public records accessibl
 
 Metal Mercs takes place in the year **5016**, during a period of growing instability across the Core.
 
-Human civilization spans hundreds of star systems connected by ancient Faster-Than-Light jump technology inherited from a long-lost civilization known only as the **Ancient Engineers**. Though technologically advanced, modern humanity no longer fully understands many of the systems upon which civilization depends.
+Human civilization spans hundreds of star systems connected by ancient Faster-Than-Light jump technology. Though technologically advanced, modern humanity no longer fully understands many of the systems upon which civilization depends.
+
+At the center of warfare throughout the Core stand massive armored combat walkers known as **mechs**. Originally developed during earlier periods of interstellar conflict, mechs have become the dominant land warfare platform of the modern age due to their versatility, survivability, and psychological impact on the battlefield.
+
+Modern mech warfare ranges from:
+- towering frontline assault mechs
+- fast reconnaissance walkers
+- missile carriers and artillery platforms
+- industrial conversion mechs
+- ancient relic war machines maintained for centuries
+- custom mercenary designs assembled from salvaged components
+
+Because advanced military manufacturing has declined since the height of the Empire, many active mech designs are heavily modified descendants of much older chassis. Maintaining operational mech forces requires enormous industrial support, technical expertise, and salvage recovery operations.
+
+As a result, skilled mech pilots and mercenary companies have become some of the most influential military assets within human space.
 
 The great powers of the Core exist in an uneasy balance maintained through:
 - fragile political alliances
 - deterrence-based warfare
 - mercenary proxy conflicts
-- economic rivalry
+- control of strategic jump routes
 - ancient infrastructure inherited from fallen empires
 
 Beyond the Core lie the Fringe Worlds and the mysterious Frontier, where civilization becomes increasingly fragmented and lawless.
@@ -33,7 +47,8 @@ At the edge of known space waits the **Beyond** — a region of warped spacetime
 The wiki currently contains entries concerning:
 
 - The Great Houses and major political powers
-- Mercenary organizations and military doctrine
+- Mech warfare and military doctrine
+- Mercenary organizations and battlefield operations
 - Interstellar warfare and succession conflicts
 - Faster-Than-Light jump technology
 - Ancient Imperial ruins and lost history
@@ -95,8 +110,9 @@ Most entries are written as standalone markdown (`.md`) documents intended for s
 Typical categories include:
 - factions
 - history
-- technology
 - military
+- mechs
+- technology
 - characters
 - planets
 - religion
@@ -108,7 +124,7 @@ Typical categories include:
 
 This repository is a fictional creative project.
 
-All organizations, technologies, governments, religions, and historical events described within the archive are fictional.
+All organizations, technologies, governments, religions, historical events, and characters described within the archive are fictional.
 
 ---
 

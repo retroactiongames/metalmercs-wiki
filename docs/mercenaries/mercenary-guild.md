@@ -15,8 +15,8 @@ related_entries:
 
 # Mercenary Guild
 
-> *“Without contracts, every frontier dispute becomes a House war.”*  
-> — Guild arbitration saying
+> *“Where words bind war.”*  
+> — Guild motto
 
 ## :material-scale-balance: Overview
 

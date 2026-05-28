@@ -7,8 +7,11 @@ key_philosophy: "Forged From Victory."
 
 # Confederate Vanguard Union
 
-> *“From the ashes of victory, we endure.”*  
-> — Confederate military saying
+> *“We are not soldiers. We are conquerors.”*  
+> — Ryder Hawkins
+
+![Union Splash](../../assets/images/union/union_splash_wide2.png)
+*State propaganda illustration depicting Victor Hawkins (center) and his children, Maximus (left) and Ryder (right) Hawkins, standing before the military strength of the Confederate Vanguard Union. Images of this kind are commonly displayed throughout Confederate space to symbolize unity, strength, and reverence for House Hawkins.*
 
 ## :material-hammer-wrench: Overview
 

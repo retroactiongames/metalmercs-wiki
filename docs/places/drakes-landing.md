@@ -15,7 +15,7 @@ related_entries:
 
 # Drake's Landing
 
-> *“Landing gives every merc a shot. It does not promise a second one.”*  
+> *“Every merc gets a shot. No promises on a second one.”*  
 > — Dockside saying
 
 ## :material-space-station: Overview
@@ -34,6 +34,7 @@ Drake’s Landing is one of the most important mercenary worlds in the Core.
 Although located within the borders of the Starcrest Protectorate, the world is recognized as neutral ground for mercenary activity, contract negotiation, recruitment, and inter-faction dealings.
 
 Its neutrality has allowed it to become a central gathering point for:
+
 - mercenary companies
 - independent soldiers of fortune
 - employers
@@ -51,6 +52,7 @@ The modern use of Drake’s Landing as a neutral mercenary hub has transformed i
 Its open ports and inclusive contract culture allow individuals from many backgrounds to gather, exchange skills, recruit talent, and arrange complex operations.
 
 The world supports:
+
 - contract exchanges
 - military training
 - recruitment halls
@@ -80,6 +82,7 @@ Instead, Drake turned the campaign into one of the most famous mercenary actions
 Facing overwhelming odds, Drake used the planet’s rugged terrain to deny the enemy a clean victory.
 
 His unit relied upon:
+
 - guerrilla tactics
 - ambushes
 - hit-and-run strikes
@@ -112,6 +115,7 @@ Its association with Drake’s victory deterred future invasions and attracted o
 Over time, the world transformed from a defended military outpost into a growing center of mercenary culture.
 
 Mercenary companies came to Drake’s Landing for:
+
 - shelter
 - repair
 - recruitment
@@ -132,6 +136,7 @@ The Guild regulates contract arbitration, company registration, reputation recor
 On Drake’s Landing, Guild authority is stronger than anywhere else in civilized space.
 
 The planet’s contract halls and Open Board exchanges are among the busiest in the Core, drawing:
+
 - Great House agents
 - frontier governors
 - corporate employers
@@ -144,25 +149,18 @@ Although Drake’s Landing remains famously rough, its Guild presence prevents t
 
 ## Myth vs. Reality
 
-The precise truth of Drake’s life is uncertain.
+The precise truth of Drake’s life is uncertain. The names of his employer, the invading force, and many of the campaign’s details have been obscured by generations of retelling.
 
-The names of his employer, the invading force, and many of the campaign’s details have been obscured by generations of retelling.
+Some versions describe Drake as a noble commander. Others depict him as a ruthless contract fighter who happened to choose the right battlefield. Some even portray him in a negative light, suggesting he might not have been a legitimate mercenary at all but instead an invader himself, who attacked the planet known as Drake's Landing in an effort to seize it. In this depiction, after a relentless campaign of harrassment he was given Drake's Landing in a capitulation and in order to have him cease his prolonged guerilla attacks on the planet.
 
-Some versions describe Drake as a noble commander. Others depict him as a ruthless contract fighter who happened to choose the right battlefield.
-
-Historians generally agree that the core of the story reflects real events, but many details have become legend.
-
-Among the people of Drake’s Landing, this distinction matters little.
-
-The legend itself has become part of the world’s identity.
-
-Drake’s Landing does not merely preserve the memory of Drake’s victory; it lives inside it.
+Whatever the truth, historians generally agree that the core of the story reflects real events, but many details have become legend. Among the people of Drake’s Landing, this distinction matters little. The legend itself has become part of the world’s identity. Drake’s Landing does not merely preserve the memory of Drake’s victory; it lives inside it.
 
 ## Culture
 
 Drake’s Landing is defined by mercenary culture.
 
 The world values:
+
 - independence
 - tactical intelligence
 - courage
@@ -183,6 +181,7 @@ A company that breaks terms, abandons clients, or gets pilots killed for nothing
 ## Public Reputation
 
 Throughout the Core, Drake’s Landing is viewed as:
+
 - independent
 - dangerous
 - strategic

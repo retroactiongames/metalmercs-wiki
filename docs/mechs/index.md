@@ -17,8 +17,10 @@ related_entries:
 
 # Mechs
 
-> *“The first mech did not simply change warfare. It changed civilization.”*  
+> *“The first mech did not change warfare. It changed civilization.”*  
 > — StarCom military archive
+
+![Monarch Mech](../../assets/images/mechs/monarch_alt1.png)
 
 ## :material-robot-industrial: Overview
 

@@ -15,8 +15,11 @@ related_entries:
 
 # Orion Corporate
 
-> *“Civilization survives not by preserving the past alone, but by building the future.”*  
+> *“They who control the present, control the future.”*  
 > — Orion Corporate doctrine
+
+![Corporate Splash](../../assets/images/corporate/corporate_splash3.png)
+*Corporate propaganda illustration depicting Prodirector Deckard Noddack standing at the center of the Orion Corporate Directorate alongside his wife, Dr. Alise Noddack (right), Zyce Noddack-Voss (left) head of the Corporate Internal Security Forces, and Celeste Noddack (far right) the daughter and heir of the Corporate. Behind them loom the sleek cyclopean mechs of the Orion Corporate, their glowing mono-eye sensors watching over the technological heart of the Core.*
 
 ## :material-flask-outline: Overview
 

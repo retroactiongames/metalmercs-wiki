@@ -9,11 +9,11 @@ title: Corepedia
 
 Welcome citizen to the official StarCom archival network.
 
-The Corepedia is the largest surviving publicly accessible historical, technical, and political archive within civilized human space. Distributed through approved CoreNet terminals, relay hubs, educational institutions, and licensed vendor systems, the archive preserves the collective record of the Core and surrounding frontier regions.
+The Corepedia is the largest surviving publicly accessible historical, technical, and political archive within civilized human space. Distributed through approved CoreNet terminals, relay hubs, educational institutions, and licensed vendor systems, this archive preserves the collective record of the Core and surrounding frontier regions.
 
 ## About the Archive
 
-StarCom historians, navigators, military analysts, archivists, and intelligence specialists continuously maintain and expand the archive using recovered Imperial records, government transmissions, navigational logs, battlefield reports, diplomatic archives, and verified civilian documentation.
+StarCom historians, navigators, military analysts, archivists, and intelligence specialists continuously maintain and expand this archive using recovered Empire-era records, government transmissions, navigational logs, battlefield reports, diplomatic archives, and verified civilian documentation.
 
 The Corepedia contains records concerning:
 

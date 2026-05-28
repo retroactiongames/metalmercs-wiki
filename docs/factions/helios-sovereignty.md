@@ -15,8 +15,11 @@ related_entries:
 
 # Helios Sovereignty
 
-> *“Civilization is not preserved through strength alone, but through order, prosperity, and enlightened rule.”*  
-> — Sovereignty state doctrine
+> *“Strength wins battles. Wealth wins wars.”*  
+> — Arthur Payne
+
+![Imperium Splash](../../assets/images/sovereignty/sovereignty_splash3.png)
+*Archon Alissa Aerin and Lord Arthur Payne standing united at the center of the Helios Sovereignty, surrounded by the heirs and bloodlines of Houses Aerin and Payne. From left to right stand Archer Payne, Torrin Payne, Alexander Payne, Alissa Aerin, Arthur Payne, Elara Aerin, Lex Aerin, Ravin Aerin, and Aurora Aerin, with the towering war machines of the Sovereignty looming behind them.*
 
 ## :material-crown: Overview
 

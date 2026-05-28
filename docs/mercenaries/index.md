@@ -18,7 +18,7 @@ related_entries:
 > *“No war is won for free.”*  
 > — Mercenary saying
 
-![Mercenaries](../../assets/images/mercs/merc_lounge.png)
+![Mercenaries](../assets/images/mercs/merc_lounge.png)
 
 ## :material-sword-cross: Overview
 

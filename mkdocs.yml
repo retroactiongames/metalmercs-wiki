@@ -40,12 +40,13 @@ nav:
   - Home: index.md
 
   - The Core:
-      - Overview: core/overview.md
-      - Star Regency: core/star-regency.md
+      - core/index.md
       - StarCom: factions/starcom.md
       - History: core/history.md
 
   - Great Houses:
+      - factions/index.md
+      - Star Regent: factions/star-regent.md
       - Helios Sovereignty: factions/helios-sovereignty.md
       - Starcrest Protectorate: factions/starcrest-protectorate.md
       - Confederate Vanguard Union: factions/confederate-vanguard-union.md
@@ -53,10 +54,12 @@ nav:
       - Orion Corporate: factions/orion-corporate.md
   
   - Mercenaries:
-      - Overview: mercenaries/overview.md
+      - mercenaries/index.md
       - Mercenary Guild: mercenaries/mercenary-guild.md
       - Greater Mercenary Units: mercenaries/greater-mercenary-units.md
       - Lesser Mercenary Units: mercenaries/lesser-mercenary-units.md
+      - Minor Mercenary Units: mercenaries/minor-mercenary-units.md
+      - Free Jacks: mercenaries/free-jacks.md
 
   - Technology:
       - technology/index.md

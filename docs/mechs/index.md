@@ -20,7 +20,7 @@ related_entries:
 > *“The first mech did not change warfare. It changed civilization.”*  
 > — StarCom military archive
 
-![Monarch Mech](../../assets/images/mechs/monarch_alt1.png)
+![Monarch Mech](../assets/images/mechs/monarch_alt1.png)
 
 ## :material-robot-industrial: Overview
 

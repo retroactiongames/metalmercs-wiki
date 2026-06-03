@@ -8,12 +8,12 @@ The Core is dominated by ancient mech traditions, house arsenals, mercenary salv
 
 | Category | Designs | Notes |
 |---|---:|---|
-| [Common Core Mechs](../common.md) | 12 | These widely circulated designs are not exclusive to any one Great House. They appear across mercenary rosters, house garrisons, security contracts, and older battlefield formations throughout the Core. |
-| [Confederate Vanguard Union Mechs](../union.md) | 18 | Union designs emphasize durability, direct firepower, disciplined battlefield roles, and rugged logistics. Their mechs tend to favor practical weapons, thick armor, and formations built around coordinated pressure. |
-| [Helios Sovereignty Mechs](../helios.md) | 18 | Sovereignty machines are prestige weapons as much as battlefield assets: imposing, polished, and expensive, with elite formations built around decisive strikes and symbols of noble power. |
-| [Omnisphere Imperium Mechs](../imperium.md) | 18 | Imperium mechs reflect ancient traditions of martial spectacle and aristocratic warfare. Their machines often combine elegant mobility with vicious close-range killing power. |
-| [Orion Corporate Mechs](../orion.md) | 18 | Corporate mechs showcase Orion’s technical edge: prismatic weapons, advanced shielding, predictive systems, and carefully engineered battlefield efficiency. |
-| [Starcrest Protectorate Mechs](../starcrest.md) | 18 | Protectorate designs are brutal and workmanlike, favoring armor, intimidation, and close-range violence. Many are built to survive ugly fights on industrial worlds and contested borders. |
+| [Common Core Mechs](../common/index.md) | 12 | These widely circulated designs are not exclusive to any one Great House. They appear across mercenary rosters, house garrisons, security contracts, and older battlefield formations throughout the Core. |
+| [Confederate Vanguard Union Mechs](../union/index.md) | 18 | Union designs emphasize durability, direct firepower, disciplined battlefield roles, and rugged logistics. Their mechs tend to favor practical weapons, thick armor, and formations built around coordinated pressure. |
+| [Helios Sovereignty Mechs](../helios/index.md) | 18 | Sovereignty machines are prestige weapons as much as battlefield assets: imposing, polished, and expensive, with elite formations built around decisive strikes and symbols of noble power. |
+| [Omnisphere Imperium Mechs](../imperium/index.md) | 18 | Imperium mechs reflect ancient traditions of martial spectacle and aristocratic warfare. Their machines often combine elegant mobility with vicious close-range killing power. |
+| [Orion Corporate Mechs](../orion/index.md) | 18 | Corporate mechs showcase Orion’s technical edge: prismatic weapons, advanced shielding, predictive systems, and carefully engineered battlefield efficiency. |
+| [Starcrest Protectorate Mechs](../starcrest/index.md) | 18 | Protectorate designs are brutal and workmanlike, favoring armor, intimidation, and close-range violence. Many are built to survive ugly fights on industrial worlds and contested borders. |
 
 ## Full Roster by Mass
 

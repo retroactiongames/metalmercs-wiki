@@ -17,8 +17,8 @@ related_entries:
 
 # Greater Mercenary Companies
 
-> *“The Houses rule worlds. The Greater Companies decide who survives between them.”*  
-> — Guild strategic assessment
+> *“The Great Houses keep the Core in line. The Great Companies keep the Houses in line.”*  
+> — Old Mercenary Proverb
 
 ## :material-fort: Overview
 

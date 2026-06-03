@@ -54,6 +54,25 @@ At the center of nearly all modern military organization stands the mech.
 
 ## Structure and Hierarchy
 
+| Formation | Typical Size | Typical Responsibility |
+|------------|------------|------------|
+| Column | 4-12 Mechs | Tactical operations |
+| Company | 40-120 Mechs | Local operations |
+| Ward | 200-600 Mechs | Regional operations |
+| March | 1,000-3,000 Mechs | Planetary campaigns |
+| Brigade | 1,000-2,000 Mechs | Defense of one or more worlds |
+| Division | ~10,000 Mechs | Sector command |
+| Corps | 50,000-75,000 Mechs | Major border or theater command |
+| Command | 200,000-350,000 Mechs | National military authority |
+
+## Strategic Commands
+
+Commands represent the largest military organizations maintained by the Great Houses.
+
+A Command frequently controls multiple corps, divisions, and fleets while coordinating military operations across dozens of worlds.
+
+The military strength of a Great House is often measured by the number and quality of commands it can deploy.
+
 Military organization throughout the Core is based upon nested command structures in which each level controls several subordinate formations. :contentReference[oaicite:1]{index=1}
 
 This hierarchy exists to provide:
@@ -175,20 +194,36 @@ At the upper levels of military organization, formations scale into truly enormo
 These formations include:
 
 ### Brigade
+Planetary operations
+
 - 1,000–2,000 mechs
 - 7–10 Marches
 
+A major independent military formation. Often assigned responsibility for a strategic world, a major campaign, or a cluster of worlds. A brigade might garrison one or two planets or serve as the primary invasion force for a planetary assault.
+
 ### Division
+Sector command
+
 - approximately 10,000 mechs
 - 4–5 Brigades
 
+Controls operations across an entire sector of space. Divisions coordinate multiple brigades, oversee logistics, and maintain readiness across several worlds. Most sector governors work directly with a divisional headquarters.
+
 ### Corps
+Regional/frontier command
+
 - approximately 50,000–75,000 mechs
 - 5–7 Divisions
 
+Responsible for a major theater of war. Corps frequently defend entire borders between Great Houses or command massive offensives involving multiple sectors. During major wars, a corps may contain dozens of active battlefronts.
+
 ### Command
+National military command
+
 - approximately 200,000–300,000 mechs
 - 3–6 Corps
+
+The highest military formation maintained by a Great House. Commands direct all military operations within a region of space and may represent the entirety of a House's armed forces. House armies are typically organized into several commands, each answering directly to the ruling government.
 
 These immense formations require:
 - planetary-scale logistics
@@ -197,6 +232,13 @@ These immense formations require:
 - strategic command infrastructure
 
 Few modern conflicts involve full Command-level deployments due to their staggering economic and logistical requirements.
+
+### Battlestars
+Independent strategic formationm, between a Division and a Corps
+
+- varies between 10,000-30,000 mechs
+
+Battlestars are among the most powerful warships ever constructed. Possessing the firepower, logistics, aerospace capacity, and command facilities of a major military formation, a single Battlestar is often assigned operational control over an entire division. During major campaigns, divisional headquarters may be embarked aboard a Battlestar, allowing it to function as a mobile fortress, command center, and invasion platform capable of projecting power across multiple star systems.
 
 ## The Scale of Modern Warfare
 

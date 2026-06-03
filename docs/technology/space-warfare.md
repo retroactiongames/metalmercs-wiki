@@ -142,6 +142,8 @@ The destruction of a major battleship can become a civilization-defining politic
 
 ### Battlestars
 
+→ See also: [Battlestars](../../military/battlestars/)
+
 Battlestars are the largest and most feared military vessels in known space.
 
 These colossal warships combine:

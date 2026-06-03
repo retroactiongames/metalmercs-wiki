@@ -15,7 +15,7 @@ related_entries:
 
 # The Core
 
-![Political Map of the Core](../../assets/images/core_map_5016b.png)
+![Political Map of the Core](../../assets/images/core_map_5016c.png)
 
 > *“Civilization survives only so long as the Core endures.”*  
 > — StarCom archival proverb
@@ -169,3 +169,25 @@ Among the most notable are:
 - [Titan Prime](../../places/titan-prime/), the famed gladiator world
 
 These worlds exert substantial influence over military culture, trade, and mercenary activity throughout the wider Core.
+
+## The Myth of Civilization
+
+Most citizens of the Core believe they live within the restored heart of human civilization.
+
+This belief is not entirely unfounded. The Core is wealthy, technologically advanced, and militarily powerful. Trade routes are secure, governments are stable, and the Great Houses maintain the strongest known military forces in human space.
+
+Yet many historians argue that the Core has not restored the Empire so much as inherited its ruins.
+
+The Core governs only a fraction of the territory once controlled by Imperial authorities. Vast regions of human space remain poorly mapped, weakly governed, or entirely outside House influence.
+
+To its citizens, the Core represents civilization.
+
+To many historians, it represents civilization's most successful remnant.
+
+## Demographics and Settlement
+
+Although the Core contains more than sixty billion inhabitants, most worlds remain surprisingly undeveloped outside major population centers.
+
+A typical Core world may contain one or two enormous cities surrounded by vast regions of wilderness, agricultural land, mining territories, abandoned Imperial infrastructure, and frontier settlements.
+
+As a result, exploration, piracy, salvage operations, and mercenary activity remain common even within House territory.

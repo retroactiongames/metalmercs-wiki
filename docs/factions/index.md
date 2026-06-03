@@ -4,9 +4,9 @@ hide:
   - toc
 ---
 
-# Great Houses and Major Powers
+# Major Powers in the Core
 
-> *“The Core does not survive through unity. The Houses fear open war more than they desire victory.”*  
+> *“The Core does not survive through unity. The Core survives because the Houses fear open war more than they desire victory.”*  
 > — StarCom political analysis archive
 
 The modern Core Worlds are dominated by five Great Houses operating beneath the authority of the Star Regency. Though united under the Stellar Conclave, the Houses remain divided by ideology, culture, history, and competing visions for humanity’s future.
@@ -15,7 +15,21 @@ Alongside these powers stand major interstellar institutions whose influence riv
 
 ---
 
-## Great Houses
+## Supranational Powers and Institutions
+
+### [The Star Regency](./star-regent/)
+*"Rule Above All."*
+
+The central governing authority of the Core Worlds under House Caledon. The Regency exists to preserve stability and prevent open war between the Great Houses. :contentReference[oaicite:5]{index=5}
+
+### [StarCom](./starcom/)
+*"To Know the Future."*
+
+The neutral communications and navigation authority that maintains the infrastructure of interstellar civilization itself. Without StarCom, the modern Core could not function. :contentReference[oaicite:6]{index=6}
+
+---
+
+## The Great Houses
 
 ### [Confederate Vanguard Union](./confederate-vanguard-union/)
 *"Forged From Victory."*
@@ -41,20 +55,6 @@ A harsh frontier military state forged through survival during the Collapse. The
 *"For Futures Yet To Come."*
 
 The technological powerhouse of the Core. Orion Corporate believes civilization survives only through scientific advancement, rational governance, and continued progress. :contentReference[oaicite:4]{index=4}
-
----
-
-## Supranational Powers and Institutions
-
-### [The Star Regency](./star-regent/)
-*"Rule Above All."*
-
-The central governing authority of the Core Worlds under House Caledon. The Regency exists to preserve stability and prevent open war between the Great Houses. :contentReference[oaicite:5]{index=5}
-
-### [StarCom](./starcom/)
-*"To Know the Future."*
-
-The neutral communications and navigation authority that maintains the infrastructure of interstellar civilization itself. Without StarCom, the modern Core could not function. :contentReference[oaicite:6]{index=6}
 
 ---
 

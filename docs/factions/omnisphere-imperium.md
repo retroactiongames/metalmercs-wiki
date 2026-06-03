@@ -15,7 +15,7 @@ related_entries:
 
 # Omnisphere Imperium
 
-> *“When the stars went dark, the Imperium carries the flame of civilization.”*  
+> *“When the stars went dark, the Imperium carried the flame of civilization.”*  
 > — Imperial remembrance inscription
 
 ![Imperium Splash](../../assets/images/imperium/imperium_splash2.png)

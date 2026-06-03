@@ -2,7 +2,7 @@
 title: StarCom
 category: Organization
 
-key_philosophy: "To Know the Future, Trust in StarCom."
+key_philosophy: "To Know the Future."
 
 related_entries:
   - title: The Core
@@ -15,7 +15,7 @@ related_entries:
 
 # StarCom
 
-> *“Civilization survives through communication.”*  
+> *“To Know the Future.”*  
 > — StarCom Foundational Doctrine
 
 ## :material-satellite-variant: Overview
@@ -27,7 +27,7 @@ related_entries:
 | :material-map-marker: **Primary Headquarters** | Classified |
 | :material-transit-connection-variant: **Primary Responsibilities** | Communications, Navigation, Infrastructure Coordination |
 | :material-shield-lock: **Political Alignment** | Neutral under the Star Regency |
-| :material-book-open-page-variant: **Official Motto** | “To Know the Future, Trust in StarCom.” |
+| :material-book-open-page-variant: **Official Motto** | “To Know the Future.” |
 
 StarCom is the primary communications, navigation, and interstellar coordination authority of the Core Worlds.
 
@@ -195,6 +195,18 @@ Such claims are generally regarded by mainstream observers as speculative and un
 
 Even among critics, however, few seriously dispute the organization’s importance to the continued stability of the Core.
 
+## Beyond the Maps
+
+Unlike the Great Houses, StarCom maintains extensive exploration and survey programs beyond established Core territories.
+
+As a result, StarCom personnel are often among the first to recognize discrepancies between popular assumptions and reality.
+
+Many within StarCom privately acknowledge that humanity's understanding of its own territory remains incomplete.
+
+New settlements, forgotten colonies, abandoned Imperial installations, and previously unknown navigation routes continue to be discovered with surprising frequency.
+
+This perspective has occasionally placed StarCom at odds with political leaders who prefer to portray the boundaries of civilization as settled and secure.
+
 ## Modern Outlook
 
 As tensions between the Great Houses continue to rise and instability spreads throughout frontier space, StarCom’s role has only grown more important.
@@ -209,3 +221,4 @@ Many historians believe the survival of the modern Core would be impossible with
 For this reason, the organization’s guiding principle remains unchanged since the earliest years of the Restoration:
 
 > *“StarCom, To Know the Future.”*
+

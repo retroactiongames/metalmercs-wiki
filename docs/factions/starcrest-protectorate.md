@@ -15,8 +15,8 @@ related_entries:
 
 # Starcrest Protectorate
 
-> *“Civilization is forged in smoke and steel.”*  
-> — Protectorate military proverb
+> *“We stand where others would flee.”*  
+> — Riker Konnen
 
 ![Protectorate Splash](../../assets/images/protectorate/protectorate_splash5.png)
 *Herzog Riker Konnen and Lady Konnen (center) standing at the center of House Konnen, rulers of the Starcrest Protectorate, surrounded by their bloodline and heirs. Riker's son and heir Korvan Konnen (left), and daughters Lyra and Selene Konnen (far right), stand with the armored ranks of the Storm Guards and the colossal war machines of the Protectorate looming behind them beneath the frozen peaks and fortress-palaces of Khorhall.*

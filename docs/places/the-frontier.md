@@ -19,3 +19,13 @@ The deeper regions of the Frontier remain almost entirely unknown to the Core. E
 For the Great Houses, the Frontier represents both risk and opportunity. Though difficult to control directly, the region contains valuable resources, potential trade routes, salvage sites, and strategic locations. At the same time its vast distances and fragmented political landscape make large-scale military operations extremely difficult.
 
 To most citizens of the Core however, the Frontier remains less a clearly defined region than an idea: the edge of civilization, where the authority of the Houses fades and humanity disappears into the darkness between the stars.
+
+## How the Core Sees the Frontier
+
+Popular Core media often depicts the Frontier as a lawless wilderness populated exclusively by pirates, raiders, smugglers, and failed colonies.
+
+While such groups certainly exist, the reality is considerably more complex.
+
+Numerous Frontier societies possess rich histories, functioning governments, established trade networks, and cultural traditions entirely independent of the Great Houses.
+
+Many Frontier citizens view the Core with the same suspicion and condescension that Core citizens direct toward them.

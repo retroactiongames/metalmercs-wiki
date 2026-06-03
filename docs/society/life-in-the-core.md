@@ -15,3 +15,15 @@ Despite the relative safety of the Core, political tensions between the Great Ho
 Beyond the authority of the Great Houses lie the Fringe Worlds and the distant Frontier. To many Core citizens these regions are viewed with a mixture of fascination and suspicion. Stories of pirates, frontier warlords, ancient ruins, and unexplored systems remain popular subjects throughout Core media and entertainment.
 
 Though the modern Core remains powerful and civilized, it exists in the shadow of the Empire that came before. Humanity survives not through expansion, but through preservation. Much of daily life within the Core revolves around maintaining the immense infrastructure, technology, and institutions inherited from earlier ages.
+
+## The Core Dream
+
+Most citizens believe they live in the greatest civilization humanity has ever known.
+
+Children are taught that the Great Houses restored order following the collapse of the Empire and safeguarded civilization from centuries of chaos.
+
+This narrative contains elements of truth.
+
+The Core is safer, wealthier, and more stable than most regions of known space.
+
+Yet historians continue to debate whether modern society represents a restoration of Imperial civilization or merely its most successful surviving fragment.

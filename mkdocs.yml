@@ -41,10 +41,17 @@ nav:
 
   - The Core:
       - core/index.md
-      - StarCom: factions/starcom.md
-      - History: core/history.md
-
-  - Great Houses:
+      - History: 
+          - core/history/index.md
+          - Early History: core/history/early-history.md
+          - The Empire: core/history/age-of-empire.md
+          - The Collapse: core/history/the-collapse.md
+          - The Dark Age: core/history/dark-age.md
+          - The Great Restoration: core/history/restoration.md
+          - Modern Era: core/history/modern-era.md
+      - Demographics: core/demographics.md
+      
+  - Major Powers:
       - factions/index.md
       - Star Regent: factions/star-regent.md
       - Helios Sovereignty: factions/helios-sovereignty.md
@@ -52,10 +59,16 @@ nav:
       - Confederate Vanguard Union: factions/confederate-vanguard-union.md
       - Omnisphere Imperium: factions/omnisphere-imperium.md
       - Orion Corporate: factions/orion-corporate.md
-  
+      - StarCom: factions/starcom.md
+      
   - Mercenaries:
       - mercenaries/index.md
-      - Mercenary Guild: mercenaries/mercenary-guild.md
+      - Mercenary Guild: 
+          - mercenaries/guild/index.md
+          - Charter: mercenaries/guild/charter.md
+          - Contracts: mercenaries/guild/contracts-and-arbitration.md
+          - Reputation: mercenaries/guild/reputation-and-blacklisting.md
+          - Salvage: mercenaries/guild/salvage-rights.md
       - Greater Mercenary Units: mercenaries/greater-mercenary-units.md
       - Lesser Mercenary Units: mercenaries/lesser-mercenary-units.md
       - Minor Mercenary Units: mercenaries/minor-mercenary-units.md
@@ -66,20 +79,177 @@ nav:
       - Mechs:
           - mechs/index.md
           - Mechs of the Core: mechs/mechs-of-the-core.md
-          - Confederate Vanguard Union Mechs: mechs/confederate-vanguard-union-mechs.md
-          - Helios Sovereignty Mechs: mechs/helios-sovereignty-mechs.md
-          - Starcrest Protectorate Mechs: mechs/starcrest-protectorate-mechs.md
-          - Omnisphere Imperium Mechs: mechs/omnisphere-imperium-mechs.md
-          - Orion Corporate Mechs: mechs/orion-corporate-mechs.md
-      - Weapons: technology/weapons.md
-      - Space Warfare: technology/space-warfare.md
+          - Battlefield Roles: mechs/battlefield-roles.md
+          - Common Mechs:
+              - mechs/common/index.md
+              - Bulldog: mechs/common/bulldog.md
+              - Champion: mechs/common/champion.md
+              - Gladiator: mechs/common/gladiator.md
+              - Hornet: mechs/common/hornet.md
+              - Kingsguard: mechs/common/kingsguard.md
+              - Lancer: mechs/common/lancer.md
+              - Lineman: mechs/common/lineman.md
+              - Longstrike: mechs/common/longstrike.md
+              - Lynx: mechs/common/lynx.md
+              - Marksman: mechs/common/marksman.md
+              - Outrider: mechs/common/outrider.md
+              - Yeoman: mechs/common/yeoman.md
+          - Union Mechs:
+              - mechs/union/index.md
+              - Alpha Wolf: mechs/union/alpha-wolf.md
+              - Brigadier: mechs/union/brigadier.md
+              - Bulwark: mechs/union/bulwark.md
+              - Challenger: mechs/union/challenger.md
+              - Crossfire: mechs/union/crossfire.md
+              - Dragoon: mechs/union/dragoon.md
+              - Firebrand: mechs/union/firebrand.md
+              - Gallimagus: mechs/union/gallimagus.md
+              - Hammerhead: mechs/union/hammerhead.md
+              - Jackman: mechs/union/jackman.md
+              - Liberator: mechs/union/liberator.md
+              - Maverick: mechs/union/maverick.md
+              - Patriot: mechs/union/patriot.md
+              - Punisher: mechs/union/punisher.md
+              - Raptor: mechs/union/raptor.md
+              - Slugger: mechs/union/slugger.md
+              - Sword Breaker: mechs/union/sword-breaker.md
+              - Vagabond: mechs/union/vagabond.md
+          - Sovereignty Mechs:
+              - mechs/helios/index.md
+              - Colossus: mechs/helios/colossus.md
+              - Dark Knight: mechs/helios/dark-knight.md
+              - Excalibur: mechs/helios/excalibur.md
+              - Great Sword: mechs/helios/great-sword.md
+              - Herald: mechs/helios/herald.md
+              - Icarus: mechs/helios/icarus.md
+              - Lamplighter: mechs/helios/lamplighter.md
+              - Lancelot: mechs/helios/lancelot.md
+              - Legionnaire: mechs/helios/legionnaire.md
+              - Lionheart: mechs/helios/lionheart.md
+              - Messenger: mechs/helios/messenger.md
+              - Monarch: mechs/helios/monarch.md
+              - Olympian: mechs/helios/olympian.md
+              - Paladin: mechs/helios/paladin.md
+              - Pegasus: mechs/helios/pegasus.md
+              - Protector: mechs/helios/protector.md
+              - Sentry: mechs/helios/sentry.md
+              - Warden: mechs/helios/warden.md
+          - Protectorate Mechs:
+              - mechs/starcrest/index.md
+              - Barbarian: mechs/starcrest/barbarian.md
+              - Beast: mechs/starcrest/beast.md
+              - Berserker: mechs/starcrest/berserker.md
+              - Brute Machine: mechs/starcrest/brute-machine.md
+              - Cromagnon: mechs/starcrest/cromagnon.md
+              - Doomhammer: mechs/starcrest/doomhammer.md
+              - Harbinger: mechs/starcrest/harbinger.md
+              - Infernal: mechs/starcrest/infernal.md
+              - Instigator: mechs/starcrest/instigator.md
+              - Jackal: mechs/starcrest/jackal.md
+              - Juggernaut: mechs/starcrest/juggernaut.md
+              - Neanderthal: mechs/starcrest/neanderthal.md
+              - Overlord: mechs/starcrest/overlord.md
+              - Ragnarok: mechs/starcrest/ragnarok.md
+              - Razorback: mechs/starcrest/razorback.md
+              - Reaver: mechs/starcrest/reaver.md
+              - Thunder God: mechs/starcrest/thunder-god.md
+              - War Dog: mechs/starcrest/war-dog.md
+          - Imperium Mechs:
+              - mechs/imperium/index.md
+              - Drake: mechs/imperium/drake.md
+              - Drakkon: mechs/imperium/drakkon.md
+              - Incursor: mechs/imperium/incursor.md
+              - Jaguar: mechs/imperium/jaguar.md
+              - Nagara: mechs/imperium/nagara.md
+              - Neomech: mechs/imperium/neomech.md
+              - Nightwing: mechs/imperium/nightwing.md
+              - Ocelot: mechs/imperium/ocelot.md
+              - Onagor: mechs/imperium/onagor.md
+              - Ordosmech: mechs/imperium/ordosmech.md
+              - Praetorian: mechs/imperium/praetorian.md
+              - Pyrefox: mechs/imperium/pyrefox.md
+              - Redeemer: mechs/imperium/redeemer.md
+              - Ronin: mechs/imperium/ronin.md
+              - Star Slayer: mechs/imperium/star-slayer.md
+              - Umbrantarch: mechs/imperium/umbrantarch.md
+              - Warclaw: mechs/imperium/warclaw.md
+              - Zephyr: mechs/imperium/zephyr.md
+          - Corporate Mechs:
+              - mechs/orion/index.md
+              - Aeon: mechs/orion/aeon.md
+              - Blaze Bringer: mechs/orion/blaze-bringer.md
+              - Cobalt: mechs/orion/cobalt.md
+              - Darius: mechs/orion/darius.md
+              - Deviance: mechs/orion/deviance.md
+              - Echelon: mechs/orion/echelon.md
+              - Endermech: mechs/orion/endermech.md
+              - Eradicator: mechs/orion/eradicator.md
+              - Markov: mechs/orion/markov.md
+              - Nebuchadnezzar: mechs/orion/nebuchadnezzar.md
+              - Photon: mechs/orion/photon.md
+              - Reckoner: mechs/orion/reckoner.md
+              - Rift Master: mechs/orion/rift-master.md
+              - Tachyon: mechs/orion/tachyon.md
+              - Watcher: mechs/orion/watcher.md
+              - Xerxes: mechs/orion/xerxes.md
+              - Zealot: mechs/orion/zealot.md
+              - Zeno: mechs/orion/zeno.md
+      - Weapons:
+          - technology/weapons/index.md
+          - Autocannons: technology/weapons/autocannons.md
+          - Heavy Autoguns: technology/weapons/heavy-autoguns.md
+          - Machine Guns: technology/weapons/machine-guns.md
+          - Lasers: technology/weapons/lasers.md
+          - Prismatic Lasers: technology/weapons/prismatic-lasers.md
+          - Missiles: technology/weapons/missiles.md
+          - Rockets: technology/weapons/rockets.md
+          - Particle Weapons: technology/weapons/particle-weapons.md
+          - Gauss Weapons: technology/weapons/gauss-weapons.md
+          - Plasma Weapons: technology/weapons/plasma-weapons.md
+          - Melee Weapons: technology/weapons/melee-weapons.md
+          - Defensive Systems: technology/weapons/defensive-systems.md
+      - Space Travel: technology/space-warfare.md
       - Jump Technology: technology/jump-drive.md
+      - Communications: technology/communications.md
+      - Industry: technology/industry.md
 
   - Military:
       - Military Organization: military/organization.md
       - Military Ranks: military/ranks.md
       - Fleet Structure: military/fleet-structure.md
-  
+      - Battlestars: 
+          - military/battlestars/index.md
+          - Odin: military/battlestars/odin.md
+          - Warden's Might: military/battlestars/wardens-might.md
+          - Valhalla II: military/battlestars/valhalla-ii.md
+          - Radiant Dawn: military/battlestars/radiant-dawn.md
+          - Sunfire: military/battlestars/sunfire.md
+          - Metaforge: military/battlestars/metaforge.md
+          - Chronex: military/battlestars/chronex.md
+          - Indomitable: military/battlestars/indomitable.md
+          - Wrath Bringer: military/battlestars/wrath-bringer.md
+          - Justice: military/battlestars/justice.md
+          - Eternity's Arcanum: military/battlestars/eternitys-arcanum.md
+          - Aetherius V: military/battlestars/aetherius-v.md
+
+  - Major Worlds:
+      - worlds/index.md
+      - Protectorate Worlds: worlds/protectorate-worlds.md
+      - Sovereignty Worlds: worlds/sovereignty-worlds.md
+      - Corporate Worlds: worlds/corporate-worlds.md
+      - Union Worlds: worlds/union-worlds.md
+      - Imperium Worlds: worlds/imperium-worlds.md
+      - Neutral Worlds:
+          - worlds/neutral/index.md
+          - Drake's Landing: places/drakes-landing.md
+          - Titan Prime: places/titan-prime.md
+
+  - Notable Individuals:
+      - Jada Lytherius: people/jada-lytherius.md
+      - Victor Hawkins: people/victor-hawkins.md
+      - Deckard Nodack: people/deckard-nodack.md
+      - Arthur Payne: people/arthur-payne.md
+    
   - Society:
       - Life in the Core: society/life-in-the-core.md
       - Cities of the Core: society/cities-of-the-core.md
@@ -87,23 +257,20 @@ nav:
       - Mercenary Culture: society/mercenary-culture.md
       - Pirates and Raiders: society/pirates-and-raiders.md
       - CoreNet: society/core-net.md
+      - Currency: society/currency.md
 
-  - Places:
-      - Drake's Landing: places/drakes-landing.md
-      - Titan Prime: places/titan-prime.md
-    
-  - People:
-      - Jada Lytherius: people/jada-lytherius.md
-      - Victor Hawkins: people/victor-hawkins.md
-      - Deckard Nodack: people/deckard-nodack.md
-      - Arthur Payne: people/arthur-payne.md
-      
-  - The Fringe:
-      - Fringe Worlds: society/fringe-worlds.md
+  - Beyond the Core:
+      - The Fringe: society/fringe-worlds.md
       - The Frontier: places/the-frontier.md
-      - The Deep Fringe: society/deep-fringe.md
+      - The Outer Worlds: society/deep-fringe.md
   
-  - History & Religion:
+  - Reflections on the Core:
+      - The Core Dream: society/the-core-dream.md
+      - The Old Empire: core/old-empire.md
+      - Ruins of the Empire: society/ruins-of-the-empire.md
+      - Common Misconceptions: core/common-misconceptions.md
+
+  - Ancient History & Religion:
       - History of Humanity: history/lost-history-of-humanity.md
       - Religions of the Core: history/religions.md
       - Other Beliefs: history/lesser-religions.md

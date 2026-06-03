@@ -29,7 +29,7 @@ related_entries:
 | :material-family-tree: **Ruling House** | House Caledon |
 | :material-map-marker: **Capital World** | Citadel |
 | :material-account-group: **Major Powers** | The Five Great Houses |
-| :material-star: **Current Era** | 5016 |
+| :material-star: **Current Era** | 5016 AE |
 | :material-book-open-page-variant: **Words of House Caledon** | “Rule Above All.” |
 
 The Core refers to the central region of known human civilization and the political, military, industrial, and cultural heart of interstellar society.

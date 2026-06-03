@@ -31,7 +31,7 @@ related_entries:
 | :material-account-group: **Population** | 18.7 billion |
 | :material-finance: **Primary Strength** | Commerce, administration, and diplomacy |
 | :material-lion: **Common Nickname** | The Lions |
-| :material-book-open-page-variant: **State Philosophy** | “Order Through Prosperity.” |
+| :material-book-open-page-variant: **House Words** | “Wealth is Power.” |
 
 The Helios Sovereignty is one of the five Great Houses of the Core and among the wealthiest and most politically influential powers in known space.
 

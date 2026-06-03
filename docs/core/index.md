@@ -44,13 +44,13 @@ While the Core remains the most prosperous and technologically advanced region o
 
 Five dominant powers comprise the political foundation of the modern Core:
 
-| Great House | Common Name | General Character |
+| Great House | Ruling House | General Character |
 |---|---|---|
-| [Confederate Vanguard Union](../../factions/confederate-vanguard-union/) | The Union | Militarized industrial state emphasizing strength, discipline, and collective sacrifice |
-| [Helios Sovereignty](../../factions/helios-sovereignty/) | The Sovereignty | Wealthy centralized power focused on stability, order, and economic influence |
-| [Omnisphere Imperium](../../factions/omnisphere-imperium/) | The Imperium | Ancient aristocratic realm preserving many old traditions of the Core |
-| [Starcrest Protectorate](../../factions/starcrest-protectorate/) | The Protectorate | Harsh frontier power built around resilience, honor, and martial duty |
-| [Orion Corporate](../../factions/orion-corporate/) | Orion Corporate | Technological and scientific authority focused on innovation and internal development |
+| [Confederate Vanguard Union](../../factions/confederate-vanguard-union/) | Hawkins | Militarized industrial state emphasizing strength, discipline, and collective sacrifice |
+| [Helios Sovereignty](../../factions/helios-sovereignty/) | Aerin & Payne | Wealthy centralized power focused on stability, order, and economic influence |
+| [Omnisphere Imperium](../../factions/omnisphere-imperium/) | Lytherius | Ancient aristocratic realm preserving many old traditions of the Core |
+| [Starcrest Protectorate](../../factions/starcrest-protectorate/) | Konnen | Harsh frontier power built around resilience, honor, and martial duty |
+| [Orion Corporate](../../factions/orion-corporate/) | Noddack | Technological and scientific authority focused on innovation and internal development |
 
 Together these powers form the Stellar Conclave, the governing alliance of the Core Worlds.
 

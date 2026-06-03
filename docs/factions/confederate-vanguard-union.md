@@ -18,13 +18,13 @@ key_philosophy: "Forged From Victory."
 |  |  |
 |---|---|
 | :material-bank: **Government Type** | Military State |
-| :material-map-marker: **Capital** | Hawkins |
+| :material-map-marker: **Capital** | [Starhold](../worlds/union-worlds.md/#starhold) |
 | :material-account-group: **Leadership** | Confederate Military Council |
 | :material-factory: **Primary Strength** | Industry and Mechanized Warfare |
 | :material-tank: **Military Specialty** | Heavy Mech Assault |
 | :material-book-open-page-variant: **National Motto** | “Forged From Victory.” |
 
-The Confederate Vanguard Union, commonly referred to simply as *the Union* or *the Confederates*, is one of the five dominant powers of the Core Worlds.
+The Confederate Vanguard Union, commonly referred to simply as *the Union*, is one of the five dominant powers of the Core Worlds.
 
 The Union is widely regarded as the most militarized state in the Core and possesses the largest standing mech force among the Great Houses. Its society is heavily shaped by military service, industrial labor, and state-directed nationalism.
 
@@ -34,28 +34,27 @@ While critics often describe the Union as authoritarian and expansionist, suppor
 
 ## History
 
-The origins of the Confederate Vanguard Union trace back to the collapse of the Golden Empire and the wars that followed.
+The origins of the Confederate Vanguard Union trace back to the collapse of [the Old Empire](../core/old-empire.md) and the wars that followed.
 
-During the chaos of the Succession Wars and the occupation of the Core by the Ophidian Supremacy, remnants of the Empire’s Vanguard military forces continued fighting long after many other regions had collapsed.
+During the chaos of [the Collapse](../core/history/the-collapse.md) and the occupation of the Core by the Ophidian Supremacy, remnants of the Empire’s Vanguard military forces fled the Core. For several generations the survivors lived in exile before eventually being led back to reclaim the Core in [the Great Restoration](../core/history/restoration.md).
 
-These surviving military commands eventually regrouped around the industrial world of Hawkins.
+Following the restoration and the destruction of the Ophidian Supremacy, the Star Regent was left with large portions of seized, ungoverned territories and granted statehood to his vanguard forces for their valiant actions during the war. The Confederate Vanguard Union was thus established to hold dominion over these new territories.
 
-Following the Great Purge and the destruction of the Ophidian Supremacy, these military remnants formed the foundation of the modern Confederate Vanguard Union.
+As a result, the Union continues to view itself not merely as another Core state, but as the rightful heir to the military traditions of the old Empire.
 
-As a result, the Union continues to view itself not merely as another successor state, but as the rightful heir to the military traditions of the old Empire.
+## Starhold
 
-## Hawkins
-
-Hawkins is the capital world of the Confederate Vanguard Union and one of the most heavily industrialized planets in the Core.
+Starhold is the capital world of the Confederate Vanguard Union and one of the most heavily industrialized planets in the Core.
 
 The planet is dominated by:
+
 - military foundries
 - mech assembly complexes
 - orbital shipyards
 - industrial arcologies
 - defense manufacturing zones
 
-Much of Hawkins is dedicated to sustaining the Union’s military infrastructure.
+Much of Starhold is dedicated to sustaining the Union’s military infrastructure.
 
 The world is also home to the Honor Guard, one of the oldest surviving military organizations in the Core.
 

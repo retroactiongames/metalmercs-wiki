@@ -78,7 +78,6 @@ nav:
       - technology/index.md
       - Mechs:
           - mechs/index.md
-          - Mechs of the Core: mechs/mechs-of-the-core.md
           - Battlefield Roles: mechs/battlefield-roles.md
           - Common Mechs:
               - mechs/common/index.md

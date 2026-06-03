@@ -3,3 +3,5 @@ People
 Famous Military/Merc Units
 
 Historic Battles
+
+Unique mech traits, heatsinks, jump, arcanite engines, etc.

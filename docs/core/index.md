@@ -8,7 +8,7 @@ related_entries:
   - title: The Star Regency
     url: ../star-regency/
   - title: StarCom
-    url: ../../factions/starcom/
+    url: ../factions/starcom/
   - title: History of the Core
     url: ../history/
 ---
@@ -46,11 +46,11 @@ Five dominant powers comprise the political foundation of the modern Core:
 
 | Great House | Ruling House | General Character |
 |---|---|---|
-| [Confederate Vanguard Union](../../factions/confederate-vanguard-union/) | Hawkins | Militarized industrial state emphasizing strength, discipline, and collective sacrifice |
-| [Helios Sovereignty](../../factions/helios-sovereignty/) | Aerin & Payne | Wealthy centralized power focused on stability, order, and economic influence |
-| [Omnisphere Imperium](../../factions/omnisphere-imperium/) | Lytherius | Ancient aristocratic realm preserving many old traditions of the Core |
-| [Starcrest Protectorate](../../factions/starcrest-protectorate/) | Konnen | Harsh frontier power built around resilience, honor, and martial duty |
-| [Orion Corporate](../../factions/orion-corporate/) | Noddack | Technological and scientific authority focused on innovation and internal development |
+| [Confederate Vanguard Union](../factions/confederate-vanguard-union/) | Hawkins | Militarized industrial state emphasizing strength, discipline, and collective sacrifice |
+| [Helios Sovereignty](../factions/helios-sovereignty/) | Aerin & Payne | Wealthy centralized power focused on stability, order, and economic influence |
+| [Omnisphere Imperium](../factions/omnisphere-imperium/) | Lytherius | Ancient aristocratic realm preserving many old traditions of the Core |
+| [Starcrest Protectorate](../factions/starcrest-protectorate/) | Konnen | Harsh frontier power built around resilience, honor, and martial duty |
+| [Orion Corporate](../factions/orion-corporate/) | Noddack | Technological and scientific authority focused on innovation and internal development |
 
 Together these powers form the Stellar Conclave, the governing alliance of the Core Worlds.
 
@@ -74,7 +74,7 @@ Critics occasionally argue that the Regency has become increasingly ceremonial i
 
 ## StarCom
 
-No institution exerts greater infrastructural influence across the Core than [StarCom](../../factions/starcom/).
+No institution exerts greater infrastructural influence across the Core than [StarCom](../factions/starcom/).
 
 Officially neutral and operating independently of the Great Houses, StarCom maintains:
 - communications relays
@@ -116,11 +116,11 @@ Modern warfare throughout the Core is dominated by:
 - covert operations
 - proxy engagements
 
-[Mechs](../../technology/mechs/) form the backbone of nearly all modern ground combat forces.
+[Mechs](../technology/mechs/) form the backbone of nearly all modern ground combat forces.
 
-Meanwhile, [mercenary companies](../../society/mercenaries/) — commonly referred to throughout civilized space as “Metal Mercs” — play a major role in frontier security, deniable military operations, and inter-house conflicts.
+Meanwhile, [mercenary companies](../society/mercenaries/) — commonly referred to throughout civilized space as “Metal Mercs” — play a major role in frontier security, deniable military operations, and inter-house conflicts.
 
-Large-scale [space warfare](../../military/space-warfare/) remains comparatively rare.
+Large-scale [space warfare](../military/space-warfare/) remains comparatively rare.
 
 Many historians believe the technological and industrial capabilities required to sustain massive fleet warfare were partially lost during the Collapse and the long dark age that followed.
 
@@ -165,8 +165,8 @@ While formally connected to the Core through trade and StarCom infrastructure, m
 Several important independent worlds exist outside direct Conclave authority.
 
 Among the most notable are:
-- [Drake’s Landing](../../places/drakes-landing/), the mercenary hub of civilized space
-- [Titan Prime](../../places/titan-prime/), the famed gladiator world
+- [Drake’s Landing](../places/drakes-landing/), the mercenary hub of civilized space
+- [Titan Prime](../places/titan-prime/), the famed gladiator world
 
 These worlds exert substantial influence over military culture, trade, and mercenary activity throughout the wider Core.
 

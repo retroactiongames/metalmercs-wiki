@@ -15,7 +15,7 @@ related_entries:
 
 # The Core
 
-![Political Map of the Core](../../assets/images/core_map_5016c.png)
+![Political Map of the Core](../assets/images/core_map_5016c.png)
 
 > *“Civilization survives only so long as the Core endures.”*  
 > — StarCom archival proverb

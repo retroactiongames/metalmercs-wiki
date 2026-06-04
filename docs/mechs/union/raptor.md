@@ -1,6 +1,6 @@
 # Raptor
 
-![Raptor](../../assets/images/mechs/placeholder_mech.png)
+![Raptor](../../assets/images/mechs/raptor.png)
 
 ## Specifications
 

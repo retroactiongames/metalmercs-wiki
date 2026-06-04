@@ -1,6 +1,6 @@
 # Liberator
 
-![Liberator](../../assets/images/mechs/placeholder_mech.png)
+![Liberator](../../assets/images/mechs/liberator-c.png)
 
 ## Specifications
 

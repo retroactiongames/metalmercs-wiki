@@ -67,9 +67,9 @@ Very little verifiable evidence from this age survives intact.
 
 Modern historians continue to debate how technologically advanced the Empire truly was, or whether many surviving stories have become exaggerated through centuries of retelling.
 
-## The Collapse
+## The Fall
 
-→ See also: [The Collapse](the-collapse.md)
+→ See also: [The Fall](the-empire.md#the-fall)
 
 At some point in the distant past, the Empire collapsed.
 
@@ -218,6 +218,7 @@ This origin continues to shape the Union’s identity as both a military state a
 The Helios Sovereignty emerged from the merchant houses, navigators, administrators, and economic coordinators who played a central role in rebuilding interstellar trade and civil infrastructure following the Restoration.
 
 House Caledon relied heavily upon these organizations to:
+
 - restore safe travel
 - stabilize commerce
 - rebuild economic systems

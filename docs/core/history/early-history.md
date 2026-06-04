@@ -56,6 +56,8 @@ As a result, the transition from the age of kingdoms and early empires to the Ag
 
 ## Humanity's Lost Origins
 
+→ See also: [Humanity's Lost Origins](../../history/lost-history-of-humanity.md)
+
 Among all the mysteries of early history, none is greater than the question of humanity's origin.
 
 No world can conclusively claim to be humanity's birthplace.

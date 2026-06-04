@@ -59,7 +59,9 @@ The tradition has inspired major schools of music and performance art throughout
 ## Older Myths
 
 Beyond organized religions exist numerous fragmented myths and more ancient traditions. These stories speak of incomprehensible entities, forgotten civilizations, impossible geometries, and regions of space where reality itself breaks down. Among the most famous legends are:
+
 - the Yellow King
+- the Queen at the End of Time
 - the Whispering Void
 - the Traveler and the Shadow
 

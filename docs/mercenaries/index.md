@@ -25,13 +25,13 @@ related_entries:
 |  |  |
 |---|---|
 | :material-domain: **Common Name** | Metal Mercs |
-| :material-map-marker: **Primary Hub** | Drake’s Landing |
-| :material-gavel: **Primary Authority** | Mercenary Guild |
-| :material-robot-industrial: **Primary Equipment** | Combat Mechs |
+| :material-map-marker: **Primary Hub** | [Drake’s Landing](../places/drakes-landing.md) |
+| :material-gavel: **Primary Authority** | [Mercenary Guild](guild/) |
+| :material-robot-industrial: **Primary Equipment** | [War Mechs](../mechs/) |
 | :material-cash: **Primary Occupation** | Private Military Contracting |
 | :material-book-open-page-variant: **Common Saying** | “No House Rules The Frontier.” |
 
-Mercenaries — commonly referred to throughout civilized space as *Metal Mercs* — are private military companies operating throughout the Core and frontier regions.
+Mercenaries — commonly referred to throughout civilized space as *Metal Mercs* — are private military companies operating throughout the Core and frontier regions. Mercenary units are designed around the deployment of [mechs](../mechs/), as mechs form the foundation of all modern warfare in the Core.
 
 Although officially independent, mercenary organizations play a central role in the political and military balance of the modern era.
 

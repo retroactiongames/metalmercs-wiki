@@ -2,9 +2,20 @@
 
 # Mechs of the Core
 
+> *"Fleets threaten worlds. Mechs take them."*  
+> — Military proverb of the Core
+
 ![Mechs in Battle](../assets/images/mechs/mechs-in-battle.png)
 
 The Core is dominated by ancient mech traditions, house arsenals, mercenary salvage, and the constant pressure of war. The designs below are grouped by origin rather than by current owner: common designs remain in their own category, while faction-specific machines are listed under the Great House or state most associated with their development and doctrine.
+
+## Why Mechs Dominate the Battlefield
+
+For over a thousand years, military planners have repeatedly predicted the end of the mech. Every time, reality has proven otherwise. While tanks, aircraft, and conventional vehicles remain important parts of modern armies, the mech occupies a unique role that no other platform has successfully replaced. A single trained pilot can command hundreds or even thousands of tons of armored firepower while retaining the flexibility, initiative, and adaptability of an individual soldier.
+
+Mechs thrive because they solve many of the problems that limit conventional armies. They can operate in cities, mountains, forests, swamps, industrial zones, and other terrain that hinders tracked or wheeled vehicles. Their compact fusion cores allow them to operate for months or even years without refueling, dramatically reducing logistical demands and enabling operations deep behind enemy lines. Most designs can be deployed directly from dropships, or even orbital drops, and require far less supporting infrastructure than traditional armored formations.
+
+Equally important, mechs are resilient, self-sufficient, and highly adaptable. Damaged machines can often be repaired in the field, rebuilt from salvaged components, or kept operational long after conventional vehicles would be abandoned. Their combination of mobility, endurance, firepower, and battlefield presence has ensured their dominance across the worlds of the Core for centuries.
 
 ## Core Mech Catalog
 

@@ -34,9 +34,9 @@ related_entries:
 
 The Core refers to the central region of known human civilization and the political, military, industrial, and cultural heart of interstellar society.
 
-The region is composed of several dozen densely populated and highly developed worlds governed collectively through the authority of the Star Regency and the alliance known as the Stellar Conclave.
+The region is composed of several dozen densely populated and highly developed worlds governed collectively through the authority of the [Star Regency](../factions/star-regent.md) and the alliance known as the Stellar Conclave.
 
-Although commonly spoken of as a unified civilization, the Core is in practice a complex balance of competing powers, ancient traditions, military alliances, industrial interests, and political rivalries held together through diplomacy, mutual dependence, and the stabilizing authority of House Caledon.
+Although commonly spoken of as a unified civilization, the Core is in practice a complex balance of competing powers, ancient traditions, military alliances, industrial interests, and political rivalries held together through diplomacy, mutual dependence, and the stabilizing authority of [House Caledon](../factions/star-regent.md).
 
 While the Core remains the most prosperous and technologically advanced region of known space, tensions between the Great Houses continue to shape nearly every aspect of interstellar politics.
 
@@ -58,6 +58,8 @@ Each maintains independent territory, militaries, economies, and political inter
 
 ## The Star Regency
 
+→ See also: [The Star Regency](../factions/star-regent.md)
+
 The Core is formally governed by the Star Regent from the capital world of Citadel.
 
 The current Star Regent is Jacob Caledon of House Caledon, the ancient ruling line responsible for re-establishing civilization during the Great Restoration.
@@ -74,9 +76,12 @@ Critics occasionally argue that the Regency has become increasingly ceremonial i
 
 ## StarCom
 
-No institution exerts greater infrastructural influence across the Core than [StarCom](../factions/starcom/).
+→ See also: [StarCom](../factions/starcom.md)
+
+No institution exerts greater infrastructural influence across the Core than StarCom.
 
 Officially neutral and operating independently of the Great Houses, StarCom maintains:
+
 - communications relays
 - navigational archives
 - hyperspace routing systems
@@ -109,6 +114,7 @@ However, increasing tensions between the Great Houses, expanding frontier instab
 ## Warfare
 
 Modern warfare throughout the Core is dominated by:
+
 - mechanized combat
 - mercenary operations
 - limited territorial conflicts
@@ -116,59 +122,61 @@ Modern warfare throughout the Core is dominated by:
 - covert operations
 - proxy engagements
 
-[Mechs](../technology/mechs/) form the backbone of nearly all modern ground combat forces.
+[Mechs](../technology/mechs/) form the backbone of nearly all modern ground combat forces. Meanwhile, [mercenary companies](../society/mercenaries/) — commonly referred to throughout civilized space as “Metal Mercs” — play a major role in frontier security, deniable military operations, and inter-house conflicts. Large-scale [space warfare](../military/space-warfare/) remains comparatively rare.
 
-Meanwhile, [mercenary companies](../society/mercenaries/) — commonly referred to throughout civilized space as “Metal Mercs” — play a major role in frontier security, deniable military operations, and inter-house conflicts.
-
-Large-scale [space warfare](../military/space-warfare/) remains comparatively rare.
-
-Many historians believe the technological and industrial capabilities required to sustain massive fleet warfare were partially lost during the Collapse and the long dark age that followed.
-
-As a result, modern powers generally avoid direct fleet attrition whenever possible.
+Many historians believe the technological and industrial capabilities required to sustain massive fleet warfare were partially lost during the Empire's collapse and the long dark age that followed. As a result, modern powers generally avoid direct fleet attrition whenever possible.
 
 ## History
 
-Much of the Core’s earliest history has been lost.
+→ See also: [The Empire](history/the-empire.md) and [The Dark Age](history/dark-age.md)
 
-According to surviving historical traditions, the Core was once united under a vast interstellar civilization commonly referred to simply as the Empire, though some records describe it as the Old Empire or the Golden Empire.
+Much of the Core's earliest history has been lost to time.
 
-Stories from the era describe a civilization far more technologically advanced than the modern Core, though few surviving records can verify such claims.
+According to surviving records, the Core was once the heartland of [the Golden Empire](history/the-empire.md), a vast interstellar civilization that united thousands of worlds through trade, military power, administration, and shared institutions. Ruled by the Star Emperor and supported by hundreds of noble houses, the Empire governed a territory far larger than the modern Core and achieved levels of technological and industrial development that have never been fully recovered.
 
-At some point in the distant past, the Empire collapsed during a catastrophic conflict associated with the mysterious Ophidian Supremacy.
+At its height, the Empire represented the largest and most powerful civilization in recorded human history.
 
-Very little reliable information concerning the Supremacy survives.
+Sometime around 4000 AE, the Empire collapsed during a catastrophic conflict associated with the mysterious Ophidian Supremacy. The exact nature of the Supremacy remains one of the greatest unanswered questions in human history. Traditional accounts describe the Ophidians as the force responsible for the destruction of the Empire and the subsequent occupation of much of the Core. However, surviving records from the era are fragmentary, contradictory, and often separated from the events they describe by centuries.
 
-Some accounts describe the Ophidians as invaders from beyond known space. Others claim they were merely rival human civilizations, political fabrications, or mythologized interpretations of the Collapse itself.
+Very little direct evidence of the Supremacy has ever been discovered. Some historians believe the Ophidians were a rival interstellar civilization that invaded from beyond known space. Others argue they were merely one factor among many in a broader collapse caused by internal conflict, economic decline, or civil war. More speculative theories range from the Supremacy being non-human in origin to the possibility that it never existed at all.
 
-No verified records from the era have ever fully confirmed the truth.
+Whatever the truth, the Fall was followed by several centuries of chaos known as [The Dark Age](history/dark-age.md).
 
-What is generally accepted is that the fall of the Empire was followed by a prolonged dark age during which much historical knowledge was lost and much of the Core fell into ruin.
+During this period, interstellar communications collapsed, trade networks disappeared, and much of the Core fragmented into isolated worlds and competing regional powers. Famine, piracy, warfare, and political instability became widespread. Entire worlds vanished from recorded history, while countless technologies, institutions, and historical records were lost. A handful of states endured the turmoil, most notably the Imperium, the Starcrest Protectorate, and the Orion Corporate, but much of the Core was consumed by centuries of decline and conflict.
 
-Centuries later, the exiled remnants of the Empire are said to have returned from the deep fringe under the leadership of House Caledon during the conflict now known as the Great Restoration.
+The Dark Age eventually came to an end with the Great Restoration. According to accepted history, exiled remnants of the Empire returned from the Deep Fringe under the leadership of House Caledon and gradually re-established stability throughout the Core. In the centuries that followed, the modern Great Houses emerged, the Stellar Conclave was established, and interstellar civilization began to recover.
 
-Following the Restoration, the modern Great Houses emerged, the Stellar Conclave was established, and the current era of Core civilization began.
+Most surviving historical records originate from the post-Restoration era. As a result, many details concerning the Empire, the Ophidian Supremacy, and the Dark Age remain subjects of ongoing scholarly debate.
 
-Most surviving historical records originate from this post-Restoration period.
+## Neutral Worlds
 
-## Frontier Worlds
-
-Beyond the Core lie vast frontier regions containing:
-- isolated colonies
-- mining worlds
-- pirate territories
-- mercenary enclaves
-- independent settlements
-- abandoned systems
-
-While formally connected to the Core through trade and StarCom infrastructure, many frontier regions operate with limited oversight from the Great Houses.
-
-Several important independent worlds exist outside direct Conclave authority.
+Not all neutral powers exist beyond the Core. Several important worlds maintain special political statuses despite being located within Core space.
 
 Among the most notable are:
-- [Drake’s Landing](../places/drakes-landing/), the mercenary hub of civilized space
-- [Titan Prime](../places/titan-prime/), the famed gladiator world
 
-These worlds exert substantial influence over military culture, trade, and mercenary activity throughout the wider Core.
+* [Drake's Landing](../places/drakes-landing/), the mercenary hub of the Core and headquarters of the Mercenary Guild.
+* [Titan Prime](../places/titan-prime/), the famed gladiator world and home to some of the most prestigious arena competitions in known space.
+
+Though located within territory claimed by the Starcrest Protectorate, both worlds maintain long-standing neutral statuses recognized by the Great Houses and protected by interstellar custom. Their strategic locations, economic importance, and political neutrality make them important meeting grounds for merchants, mercenaries, diplomats, and travelers from across the Core.
+
+These worlds exert substantial influence over military culture, trade, and mercenary activity throughout human space.
+
+## Beyond the Core
+
+→ See also: [The Fringe](../society/fringe-worlds.md) and [The Frontier](../places/the-frontier.md)
+
+Beyond the borders of the Core lie vast frontier regions containing:
+
+* isolated colonies
+* mining worlds
+* pirate territories
+* mercenary enclaves
+* independent settlements
+* abandoned systems
+
+While formally connected to the Core through trade and StarCom infrastructure, many frontier regions operate with limited oversight from the Great Houses. Some maintain close economic ties with the Core, while others are effectively independent in all but name.
+
+The Frontier remains a source of valuable resources, mercenary recruits, exploration opportunities, and occasional threats. Pirates, warlords, and independent powers are far more common beyond the Core than within it.
 
 ## The Myth of Civilization
 

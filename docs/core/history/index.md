@@ -22,12 +22,11 @@ related_entries:
 
 | Era | Common Description | Estimated Start | Estimated End |
 |---|---|---|---|
-| [Early History](early-history.md) | The early history of civilizations in the Core | - | 3000 AE |
-| [The Empire](age-of-empire.md) | The united civilization of humanity | 3000 AE | 4500 AE |
-| [The Collapse](the-collapse.md) | The fall of the Empire and beginning of the dark age | 4500 AE | - |
-| [The Dark Age](dark-age.md) | Occupation, fragmentation, and civilizational decline | 4500 AE | 4700 AE |
-| [The Great Restoration](restoration.md) | Return of the Regent and reclamation of the Core | 4700 AE | 4750 AE |
-| [The Modern Era](modern-era.md) | Rise of the Great Houses and the Stellar Conclave | 4570 AE | - |
+| [Early History](early-history.md) | The early history of civilizations in the Core | - | ??? AE |
+| [The Empire](the-empire.md) | The united civilization of humanity | ??? AE | ~4000 AE |
+| [The Dark Age](dark-age.md) | Occupation, fragmentation, and civilizational decline | ~4000 AE | ~4500 AE |
+| [The Great Restoration](restoration.md) | Return of the Regent and reclamation of the Core | ~4500 AE | - |
+| [The Modern Era](modern-era.md) | Rise of the Great Houses and the Stellar Conclave | ~4500 AE | - |
 
 The history of the Core is fragmented, contradictory, and often mythologized. Dates presented are in AE (After expansion). Dates are estimated based on historical records though not all dates ranges are agreed upon.
 
@@ -41,7 +40,7 @@ Nevertheless, a broad historical framework is generally accepted throughout civi
 
 ## The Empire
 
-→ See also: [The Empire](age-of-empire.md)
+→ See also: [The Empire](the-empire.md)
 
 Long before the modern Great Houses existed, the Core is believed to have been united beneath a vast interstellar civilization commonly referred to as *the Empire*.
 
@@ -121,6 +120,8 @@ While much of civilization collapsed, several powers survived in diminished form
 
 ### The Omnisphere Imperium
 
+→ See also: [The Omnisphere Imperium](../../factions/omnisphere-imperium.md)
+
 The Omnisphere Imperium is the only modern Great House widely acknowledged to have survived continuously from the time of the Empire itself.
 
 Though the Imperium lost significant territory during the Collapse, its core worlds successfully endured through a combination of defensive isolation, fortified infrastructure, and strict internal control.
@@ -130,6 +131,8 @@ Imperium records claim their ancestors resisted the Ophidian Supremacy directly 
 Because of this continuity, the Imperium often presents itself as the oldest legitimate civilization remaining within the Core.
 
 ### The Starcrest Protectorate
+
+→ See also: [The Starcrest Protectorate](../../factions/starcrest-protectorate.md)
 
 The origins of the modern Starcrest Protectorate trace back to a larger pre-Collapse polity that did not survive the dark age intact.
 
@@ -141,9 +144,12 @@ This legacy continues to shape Protectorate culture, which strongly emphasizes r
 
 ### The Orion Cooperative
 
+→ See also: [The Orion Corporate](../../factions/orion-corporate.md)
+
 The organization that would eventually become Orion Corporate first emerged during the dark age as a defensive alliance between three isolated worlds attempting to survive the widespread instability of the era.
 
 By pooling:
+
 - scientific expertise
 - industrial production
 - technological research
@@ -195,6 +201,8 @@ The modern Great Houses largely emerged during the decades following the Great R
 
 ### The Confederate Vanguard Union
 
+→ See also: [The Confederate Vanguard Union](../../factions/confederate-vanguard-union.md)
+
 The Confederate Vanguard Union originated directly from the Regent’s Vanguard military forces during the Restoration.
 
 As the returning armies reclaimed vast territories throughout the Core, House Caledon required a stable governing authority capable of administering these newly restored regions.
@@ -204,6 +212,8 @@ Statehood was therefore granted to the Vanguard military administration, eventua
 This origin continues to shape the Union’s identity as both a military state and a guardian of restored civilization.
 
 ### The Helios Sovereignty
+
+→ See also: [The Helios Sovereignty](../../factions/helios-sovereignty.md)
 
 The Helios Sovereignty emerged from the merchant houses, navigators, administrators, and economic coordinators who played a central role in rebuilding interstellar trade and civil infrastructure following the Restoration.
 
@@ -224,6 +234,8 @@ Members of Houses Aerin and Payne frequently serve as the Voice of the Regent �
 
 ### Orion Corporate
 
+→ See also: [The Orion Corporate](../../factions/orion-corporate.md)
+
 Following the Restoration, the technologically advanced Orion Cooperative aligned itself closely with the returning Regency.
 
 Its reliability, industrial coordination, and scientific capabilities earned it increasing territorial authority and political influence.
@@ -235,6 +247,7 @@ Over time, the Cooperative evolved into the modern Orion Corporate.
 → See also: [The Modern Era](modern-era.md)
 
 The current era began following the establishment of:
+
 - the Star Regency
 - the Stellar Conclave
 - the Great Houses

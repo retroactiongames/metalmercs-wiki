@@ -44,8 +44,7 @@ nav:
       - History: 
           - core/history/index.md
           - Early History: core/history/early-history.md
-          - The Empire: core/history/age-of-empire.md
-          - The Collapse: core/history/the-collapse.md
+          - The Empire: core/history/the-empire.md
           - The Dark Age: core/history/dark-age.md
           - The Great Restoration: core/history/restoration.md
           - Modern Era: core/history/modern-era.md

@@ -9,7 +9,7 @@ hide:
 > *“The Core does not survive through unity. The Core survives because the Houses fear open war more than they desire victory.”*  
 > — StarCom political analysis archive
 
-The modern Core Worlds are dominated by five Great Houses operating beneath the authority of the Star Regency. Though united under the Stellar Conclave, the Houses remain divided by ideology, culture, history, and competing visions for humanity’s future.
+The modern [Core Worlds](../core/) are dominated by five Great Houses operating beneath the authority of the [Star Regency](./star-regent.md). Though united under the Stellar Conclave, the Houses remain divided by ideology, culture, history, and competing visions for humanity’s future.
 
 Alongside these powers stand major interstellar institutions whose influence rivals that of entire nations.
 
@@ -25,7 +25,7 @@ The central governing authority of the Core Worlds under House Caledon. The Rege
 ### [StarCom](./starcom/)
 *"To Know the Future."*
 
-The neutral communications and navigation authority that maintains the infrastructure of interstellar civilization itself. Without StarCom, the modern Core could not function. :contentReference[oaicite:6]{index=6}
+The neutral communications and navigation authority that maintains the infrastructure of interstellar civilization itself. Without StarCom, the modern [Core](../core/) could not function. :contentReference[oaicite:6]{index=6}
 
 ---
 
@@ -62,7 +62,7 @@ The technological powerhouse of the Core. Orion Corporate believes civilization 
 
 The balance between these powers defines nearly every major conflict, alliance, trade agreement, proxy war, and frontier crisis throughout the Core Worlds.
 
-Although open war between the Great Houses is officially forbidden under Regency law, political rivalry remains constant. Competition over territory, industrial capacity, technological superiority, trade influence, and frontier influence continues to shape the modern era.
+Although open war between the Great Houses is officially forbidden under [Regency](./star-regent.md) law, political rivalry remains constant. Competition over territory, industrial capacity, technological superiority, trade influence, and frontier influence continues to shape the modern era.
 
 As a result, [Mercenaries](../mercenaries/) and [Mech combat](../mechs/) flourish throughout the Core and frontier regions alike. Mercenary companies are frequently employed by all major Houses to conduct raids, border conflicts, security operations, deniable offensives, and proxy wars without risking direct military escalation between House governments.
 

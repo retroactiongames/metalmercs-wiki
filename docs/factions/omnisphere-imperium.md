@@ -7,7 +7,7 @@ key_philosophy: "Fierce Beauty."
 related_entries:
   - title: History of the Core
     url: ../../core/history/
-  - title: The Star Regency
+  - title: The [Star Regency](star-regent.md)
     url: ../../core/star-regency/
   - title: Mechs
     url: ../../technology/mechs/
@@ -35,9 +35,9 @@ related_entries:
 | :material-sword-cross: **Hostilities** | Orion Corporate; Confederate Vanguard Union |
 | :material-book-open-page-variant: **Words** | “Fierce Beauty.” |
 
-The Omnisphere Imperium, often called *the Imperium* or *the Dragon Riders*, is one of the five Great Houses of the Core and the oldest surviving state in known human civilization.
+The Omnisphere Imperium, often called *the Imperium* or *the Dragon Riders*, is one of the five [Great Houses](./) of the Core and the oldest surviving state in known human civilization.
 
-The Imperium is widely recognized as the only surviving power from the age of the ancient Empire. Its roots extend even further back, to the centuries before the Empire united the Core, when the region that would become the Imperium was divided among smaller states known for metallurgy, engineering, and fierce competition over rare minerals and energy sources.
+The Imperium is widely recognized as the only surviving power from the age of the ancient Empire. Its roots extend even further back, to the centuries before the [Empire](../core/history/the-empire.md) united the Core, when the region that would become the Imperium was divided among smaller states known for metallurgy, engineering, and fierce competition over rare minerals and energy sources.
 
 In the modern Core, the Imperium is known for honor, duty, artistic excellence, military discipline, and a cultural philosophy that joins beauty with strength. Its words, “Fierce Beauty,” reflect this union of refinement and martial power.
 
@@ -224,7 +224,7 @@ The Imperium exploits these weaknesses through superior speed, precise ambushes,
 
 Mercenaries often find the Imperium difficult to work for at first.
 
-The Imperium does not believe in rewards without trust. New mercenary companies may struggle financially while attempting to prove their reliability and earn Imperial confidence.
+The Imperium does not believe in rewards without trust. New [mercenary](../mercenaries/) companies may struggle financially while attempting to prove their reliability and earn Imperial confidence.
 
 However, those who gain the trust and respect of the Imperium often find it to be one of the most generous employers in the Core.
 

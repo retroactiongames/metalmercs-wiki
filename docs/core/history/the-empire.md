@@ -10,7 +10,7 @@ To many, the Empire is remembered as a golden age of stability, prosperity, and 
 
 ## Overview
 
-Nearly every government in the modern Core claims some degree of legitimacy through a connection to the Empire. Dynasties trace their bloodlines to Empire-era nobility, governments preserve fragments of Empire law, and military traditions often claim descent from Empire-era doctrine. Yet few truly understand the systems that allowed the Empire to function.
+Nearly every government in the modern [Core](../) claims some degree of legitimacy through a connection to the Empire. Dynasties trace their bloodlines to Empire-era nobility, governments preserve fragments of Empire law, and military traditions often claim descent from Empire-era doctrine. Yet few truly understand the systems that allowed the Empire to function.
 
 The Empire remains the longest-lasting and most influential political entity in recorded history. Built gradually over centuries of expansion and consolidation, it governed a population vastly larger than that of the modern Core and possessed technological and industrial capabilities that modern powers struggle to comprehend.
 
@@ -24,7 +24,7 @@ Many technologies commonly used today are understood only in part, maintained th
 
 The Golden Empire was ruled by the Star Emperor, who served as the supreme political, military, and administrative authority of the known galaxy. While the Emperor possessed ultimate authority, the Empire itself was not governed as a single centralized state. Instead, it functioned through a vast hierarchy of noble houses, regional governments, and local institutions that administered Empire territory on behalf of the throne.
 
-The Empire encompassed all of what is now known as the Core and is believed to have extended far beyond it. Many worlds currently considered Fringe, or Frontier, or otherwise peripheral territories were likely fully integrated Empire's provinces during its height. The true extent of Empire territory remains unknown, as surviving records from the era are fragmentary and often contradictory.
+The Empire encompassed all of what is now known as the [Core](../) and is believed to have extended far beyond it. Many worlds currently considered Fringe, or Frontier, or otherwise peripheral territories were likely fully integrated Empire's provinces during its height. The true extent of Empire territory remains unknown, as surviving records from the era are fragmentary and often contradictory.
 
 Beneath the Star Emperor existed a complex network of noble houses that governed regions of Empire space as vassals. These houses controlled planets, systems, and entire sectors while owing loyalty, taxes, military service, and political obedience to the Empires government. Unlike the Great Houses of the modern Core, Empire-era houses were generally smaller in territorial scope and political influence. Power was distributed among a far greater number of noble families, creating a highly layered political structure that balanced local autonomy against the Empire's authority.
 
@@ -32,7 +32,7 @@ Many of these houses disappeared during the Fall and the centuries that followed
 
 Much of what is known about Empire-era governance originates from records preserved by the Imperium. Of the major powers that exist today, the Imperium is unique in having existed before, during, and after the Age of Empire. Long before the rise of the Star Emperor, the Imperium was itself an independent interstellar empire. At some point during the Empire's early expansion, it conquered and absorbed the Imperium.
 
-Though proud of its ancient heritage, the Imperium ultimately became one vassal among many within the larger Empire. During the Age of Empire, the territory controlled by the Imperium was significantly smaller than the territory it governs today. Nevertheless, its institutions, traditions, and historical archives survived where those of many other houses did not.
+Though proud of its ancient heritage, the Imperium ultimately became one vassal among many within the larger Empire. During the Age of Empire, the territory controlled by the [Imperium](../../factions/omnisphere-imperium.md) was significantly smaller than the territory it governs today. Nevertheless, its institutions, traditions, and historical archives survived where those of many other houses did not.
 
 This historical continuity has given the Imperium considerable influence over modern understanding of the Empire. As a result, many accepted accounts of Empire-era government, law, and society originate from Imperial records preserved by the Imperium itself, leading some historians to question whether modern interpretations of the Empire may reflect an Imperium-centered perspective.
 
@@ -54,7 +54,7 @@ The Empire had endured for centuries and possessed military forces that were wid
 
 Exactly how the Supremacy achieved this remains unknown.
 
-The official historical narrative holds that the Supremacy occupied much of the Core for several generations before eventually being defeated by Empire forces operating from exile. These returning exiles would later restore order, establish the Stellar Conclave, and lay the foundations of the modern political order.
+The official historical narrative holds that the Supremacy occupied much of the [Core](../) for several generations before eventually being defeated by Empire forces operating from exile. These returning exiles would later restore order, establish the Stellar Conclave, and lay the foundations of the modern political order.
 
 Yet even this account raises uncomfortable questions.
 
@@ -86,7 +86,7 @@ It was during this exile that the title of Star Regent first emerged.
 
 Rather than proclaiming a new Emperor, House Caledon's heirs chose to rule as regents, governing in his absence rather than claiming his authority for themselves. Officially, the Star Regent was never intended to replace the Emperor, but merely to safeguard the throne until it could be restored.
 
-When the exiles eventually returned to the Core during the Great Restoration, they retained this tradition. The restored government would be led by a Star Regent rather than an Emperor, a practice that continues to the present day.
+When the exiles eventually returned to the [Core](../) during the [Great Restoration](restoration.md), they retained this tradition. The restored government would be led by a Star Regent rather than an Emperor, a practice that continues to the present day.
 
 Few seriously believe the Last Emperor will ever return. Yet the symbolism remains important. The Star Regent does not sit upon the throne as Emperor, but beside it as its guardian.
 
@@ -110,7 +110,7 @@ No theory has succeeded in explaining all available evidence.
 
 Though centuries have passed since its fall, the Empire continues to shape every aspect of life in the modern Core.
 
-Ancient Empire infrastructure still forms the backbone of interstellar commerce. Lost Empire-era technologies remain among the most valuable treasures in known space. Great Houses derive prestige from claimed Empire ancestry. Entire industries are dedicated to recovering and studying Empire-era relics.
+Ancient Empire infrastructure still forms the backbone of interstellar commerce. Lost Empire-era technologies remain among the most valuable treasures in known space. [Great Houses](../../factions/) derive prestige from claimed Empire ancestry. Entire industries are dedicated to recovering and studying Empire-era relics.
 
 For many citizens, the Empire represents humanity's greatest achievement. For others, it is a warning.
 

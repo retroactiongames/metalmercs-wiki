@@ -29,9 +29,9 @@ related_entries:
 | :material-shield-lock: **Political Alignment** | Neutral under the Star Regency |
 | :material-book-open-page-variant: **Official Motto** | “To Know the Future.” |
 
-StarCom is the primary communications, navigation, and interstellar coordination authority of the Core Worlds.
+StarCom is the primary communications, navigation, and interstellar coordination authority of the [Core Worlds](../core/).
 
-Operating independently of the Great Houses under the protection of the Star Regency, StarCom maintains the infrastructure necessary for large-scale civilization throughout known space.
+Operating independently of the [Great Houses](./) under the protection of the [Star Regency](star-regent.md), StarCom maintains the infrastructure necessary for large-scale civilization throughout known space.
 
 Its responsibilities include:
 - interstellar communications
@@ -49,16 +49,16 @@ As a result, StarCom is widely regarded as one of the most essential institution
 
 ## Origins
 
-StarCom emerged during the early decades following the Great Restoration.
+StarCom emerged during the early decades following the [Great Restoration](../core/history/restoration.md).
 
-In the aftermath of the dark age, the Core suffered from:
+In the aftermath of the [Dark Age](../core/history/dark-age.md), the Core suffered from:
 - fragmented communications
 - unstable jump routes
 - isolated systems
 - collapsed navigation infrastructure
 - unreliable interstellar travel
 
-As House Caledon and the returning Vanguard forces reclaimed the Core, it became increasingly clear that no lasting civilization could survive without a unified communications and navigation network.
+As [House Caledon](star-regent.md) and the returning Vanguard forces reclaimed the [Core](../core/), it became increasingly clear that no lasting civilization could survive without a unified communications and navigation network.
 
 StarCom was therefore established to restore:
 - interstellar coordination
@@ -71,7 +71,7 @@ Over the centuries, the organization expanded from a reconstruction authority in
 
 ## Neutrality
 
-StarCom officially maintains strict political neutrality between the Great Houses.
+StarCom officially maintains strict political neutrality between the [Great Houses](./).
 
 Its infrastructure and services are made available equally throughout the Core under Regency charter.
 
@@ -126,7 +126,7 @@ The Directorate is responsible for:
 - cultural preservation
 - restoration-era documentation
 
-Because much of humanity’s earlier history was lost during the Collapse and the dark age, the Directorate frequently works with incomplete or contradictory records.
+Because much of humanity’s earlier history was lost during the Collapse and the [Dark Age](../core/history/dark-age.md), the Directorate frequently works with incomplete or contradictory records.
 
 As a result, many historical subjects remain disputed among scholars.
 
@@ -165,7 +165,7 @@ Their stated purpose is defensive rather than territorial.
 
 ## Relationship with the Regency
 
-StarCom maintains close institutional ties with House Caledon and the Star Regency.
+StarCom maintains close institutional ties with [House Caledon](star-regent.md) and the [Star Regency](star-regent.md).
 
 The Regency relies heavily upon StarCom infrastructure for:
 - communications
@@ -197,7 +197,7 @@ Even among critics, however, few seriously dispute the organization’s importan
 
 ## Beyond the Maps
 
-Unlike the Great Houses, StarCom maintains extensive exploration and survey programs beyond established Core territories.
+Unlike the [Great Houses](./), StarCom maintains extensive exploration and survey programs beyond established Core territories.
 
 As a result, StarCom personnel are often among the first to recognize discrepancies between popular assumptions and reality.
 

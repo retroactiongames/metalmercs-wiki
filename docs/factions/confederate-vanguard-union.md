@@ -24,9 +24,9 @@ key_philosophy: "Forged From Victory."
 | :material-tank: **Military Specialty** | Heavy Mech Assault |
 | :material-book-open-page-variant: **National Motto** | “Forged From Victory.” |
 
-The Confederate Vanguard Union, commonly referred to simply as *the Union*, is one of the five dominant powers of the Core Worlds.
+The Confederate Vanguard Union, commonly referred to simply as *the Union*, is one of the five dominant powers of the [Core Worlds](../core/).
 
-The Union is widely regarded as the most militarized state in the Core and possesses the largest standing mech force among the Great Houses. Its society is heavily shaped by military service, industrial labor, and state-directed nationalism.
+The Union is widely regarded as the most militarized state in the Core and possesses the largest standing mech force among the [Great Houses](./). Its society is heavily shaped by military service, industrial labor, and state-directed nationalism.
 
 Union culture emphasizes strength, sacrifice, discipline, and collective identity above individual ambition. Service to the state is regarded not merely as duty, but as the foundation of civilization itself.
 
@@ -36,7 +36,7 @@ While critics often describe the Union as authoritarian and expansionist, suppor
 
 The origins of the Confederate Vanguard Union trace back to the collapse of [the Old Empire](../core/old-empire.md) and the wars that followed.
 
-During the chaos of [the Collapse](../core/history/the-collapse.md) and the occupation of the Core by the Ophidian Supremacy, remnants of the Empire’s Vanguard military forces fled the Core. For several generations the survivors lived in exile before eventually being led back to reclaim the Core in [the Great Restoration](../core/history/restoration.md).
+During the chaos of [the Collapse](../core/history/the-collapse.md) and the occupation of the Core by the Ophidian Supremacy, remnants of the Empire’s Vanguard military forces fled the Core. For several generations the survivors lived in exile before eventually being led back to reclaim the Core in [the [Great Restoration](../core/history/restoration.md)](../core/history/restoration.md).
 
 Following the restoration and the destruction of the Ophidian Supremacy, the Star Regent was left with large portions of seized, ungoverned territories and granted statehood to his vanguard forces for their valiant actions during the war. The Confederate Vanguard Union was thus established to hold dominion over these new territories.
 
@@ -144,7 +144,7 @@ As a result, Confederate forces are frequently involved in:
 - frontier security operations
 - industrial protection contracts
 - territorial disputes
-- mercenary suppression actions
+- [mercenary](../mercenaries/) suppression actions
 
 Rival powers often accuse the Union of using “security operations” to expand its territorial influence.
 

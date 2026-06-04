@@ -33,7 +33,7 @@ related_entries:
 | :material-robot-industrial: **Military Specialty** | Advanced Electronics and Precision Warfare |
 | :material-book-open-page-variant: **National Motto** | “For Futures Yet To Come.” |
 
-Orion Corporate is one of the five Great Houses of the Core and the foremost technological power in known space.
+Orion Corporate is one of the five [Great Houses](./) of the Core and the foremost technological power in known space.
 
 Unlike the ancient aristocracies and military states that dominate much of the Core, Orion Corporate emerged during the dark age itself as a cooperative alliance dedicated to preserving knowledge, infrastructure, and civilization during a time of widespread collapse.
 
@@ -250,4 +250,4 @@ For this reason, Orion continues investing heavily in:
 - military innovation
 - exploration beyond the frontier
 
-Whether Orion Corporate ultimately becomes the architect of humanity’s future — or a civilization increasingly disconnected from its own humanity — remains a growing subject of debate throughout the Core Worlds.
+Whether Orion Corporate ultimately becomes the architect of humanity’s future — or a civilization increasingly disconnected from its own humanity — remains a growing subject of debate throughout the [Core Worlds](../core/).

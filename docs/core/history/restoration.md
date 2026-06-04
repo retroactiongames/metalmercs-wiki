@@ -1,8 +1,8 @@
 # The Great Restoration
 
-The Great Restoration was the centuries-long military, political, and economic campaign through which the descendants of the Empire's exiled survivors returned to the Core and reestablished interstellar civilization.
+The Great Restoration was the centuries-long military, political, and economic campaign through which the descendants of the [Empire](the-empire.md)'s exiled survivors returned to the [Core](../) and reestablished interstellar civilization.
 
-The Restoration ended the Dark Age, established the modern Great Houses, restored major trade networks, and created many of the institutions that continue to govern the Core today.
+The Restoration ended the [Dark Age](dark-age.md), established the modern [Great Houses](../../factions/), restored major trade networks, and created many of the institutions that continue to govern the Core today.
 
 To most citizens, it represents the rebirth of civilization.
 
@@ -10,7 +10,7 @@ To critics, it represents the moment one ruling elite replaced another.
 
 ## Overview
 
-According to accepted history, the descendants of the Empire's exiles returned from deep space under the leadership of House Caledon several generations after the Fall. Led by the Star Regent, heir to the bloodline of the Last Emperor, they launched a campaign to reclaim the Core and destroy the remaining forces of the Ophidian Supremacy.
+According to accepted history, the descendants of the [Empire](the-empire.md)'s exiles returned from deep space under the leadership of [House Caledon](../../factions/star-regent.md) several generations after the [Fall](the-empire.md#the-fall). Led by the [Star Regent](../../factions/star-regent.md), heir to the bloodline of the Last Emperor, they launched a campaign to reclaim the Core and destroy the remaining forces of the Ophidian Supremacy.
 
 Traditional accounts describe the Restoration as a heroic war of liberation in which the returning exiles freed humanity from generations of Ophidian occupation.
 
@@ -32,7 +32,7 @@ By the time the exiles returned, they possessed a unified leadership structure, 
 
 The exact location of their exile remains unknown.
 
-Many theories exist regarding where the exiles settled during the Dark Age, but no definitive evidence has ever been discovered.
+Many theories exist regarding where the exiles settled during the [Dark Age](dark-age.md), but no definitive evidence has ever been discovered.
 
 ## The Restoration Wars
 
@@ -52,11 +52,11 @@ The Restoration was not accomplished by House Caledon alone.
 
 Several major powers that had survived the Dark Age joined the campaign and became indispensable allies in the rebuilding of civilization.
 
-The Imperium cooperated with the returning forces while simultaneously expanding its own territory and influence. Drawing upon institutions that predated both the Empire and the Dark Age, it emerged from the Restoration as one of the dominant powers of the new order.
+The [Imperium](../../factions/omnisphere-imperium.md) cooperated with the returning forces while simultaneously expanding its own territory and influence. Drawing upon institutions that predated both the Empire and the Dark Age, it emerged from the Restoration as one of the dominant powers of the new order.
 
-The Starcrest Protectorate likewise joined the campaign. Originally founded as a defensive frontier command during the Dark Age, it expanded significantly during the Restoration and incorporated numerous systems into its growing sphere of influence.
+The [Starcrest Protectorate](../../factions/starcrest-protectorate.md) likewise joined the campaign. Originally founded as a defensive frontier command during the Dark Age, it expanded significantly during the Restoration and incorporated numerous systems into its growing sphere of influence.
 
-The Orion Corporate also participated extensively. Its scientific expertise, industrial capacity, and secure trade networks made it a critical partner in rebuilding interstellar civilization. During the Restoration, it expanded far beyond the handful of worlds that had formed the original Corporate.
+The [Orion Corporate](../../factions/orion-corporate.md) also participated extensively. Its scientific expertise, industrial capacity, and secure trade networks made it a critical partner in rebuilding interstellar civilization. During the Restoration, it expanded far beyond the handful of worlds that had formed the original Corporate.
 
 In addition to these established powers, Houses Aerin and Payne rose to prominence as loyal collaborators of the Restoration effort. Both houses distinguished themselves through military service and political support for the returning Regent. As a reward, they were granted sovereign territories and eventually recognized as Great Houses in their own right.
 
@@ -70,13 +70,13 @@ As the campaign expanded, enormous regions fell under the direct control of mili
 
 Rather than annex these territories directly, the Regent entrusted them to House Hawkins, whose commanders had served as some of the most trusted military leaders of the Restoration.
 
-These worlds were organized into a new political entity known as the Confederate Vanguard Union.
+These worlds were organized into a new political entity known as the [Confederate Vanguard Union](../../factions/confederate-vanguard-union.md).
 
 Originally intended as a frontier protectorate and buffer state, the Union gradually evolved into one of the most powerful nations in the Core.
 
 ## The Capture of Citadel
 
-For House Caledon, the symbolic center of the Restoration was always Citadel.
+For [House Caledon](../../factions/star-regent.md), the symbolic center of the Restoration was always [Citadel](../../places/citadel.md).
 
 As the ancient throne world of the Empire, its recapture carried immense political significance. Possession of Citadel provided legitimacy to the Restoration and reinforced House Caledon's claim as heir to the Empire's legacy.
 
@@ -88,17 +88,17 @@ Instead, the Regent retained the title of Star Regent, preserving the ancient tr
 
 ## Mercenaries and the Rebuilding of the Core
 
-Mercenary companies played a crucial role throughout the Restoration.
+[Mercenary companies](../../mercenaries/) played a crucial role throughout the Restoration.
 
 Many independent military organizations fought alongside Restoration forces, protected trade routes, eliminated pirate strongholds, and assisted in stabilizing newly reclaimed territories.
 
 In many regions, mercenary commands provided security long before permanent governments could be established.
 
-The importance of these forces helped elevate the status of the Mercenary Guild and contributed to the unique role mercenary organizations continue to play throughout the modern Core.
+The importance of these forces helped elevate the status of the [Mercenary Guild](../../mercenaries/guild/) and contributed to the unique role mercenary organizations continue to play throughout the modern Core.
 
 ## The Rise of StarCom
 
-The exact origins of StarCom remain a subject of debate.
+The exact origins of [StarCom](../../factions/starcom.md) remain a subject of debate.
 
 Most historians agree that the organization emerged during the later centuries of the Dark Age, though surviving records provide little clarity regarding its founding, leadership, or early development. References to independent navigators, communication networks, exploration groups, and relay stations appear throughout the historical record, but determining which of these organizations were direct predecessors of StarCom is difficult.
 
@@ -110,9 +110,9 @@ Several theories have been proposed. Some historians argue that StarCom emerged 
 
 No consensus exists.
 
-What is known is that StarCom played a significant role during the Restoration. As House Caledon and its allies expanded throughout the Core, StarCom assisted in restoring communication infrastructure, mapping navigation routes, and reconnecting isolated systems. These efforts greatly improved coordination between distant regions and accelerated the reestablishment of trade and governance.
+What is known is that [StarCom](../../factions/starcom.md) played a significant role during the Restoration. As [House Caledon](../../factions/star-regent.md) and its allies expanded throughout the Core, StarCom assisted in restoring communication infrastructure, mapping navigation routes, and reconnecting isolated systems. These efforts greatly improved coordination between distant regions and accelerated the reestablishment of trade and governance.
 
-Unlike the Great Houses, StarCom did not emerge as a territorial power. Instead, its influence grew through the infrastructure it maintained and the services it provided. As the Restoration progressed, its importance became increasingly difficult to ignore.
+Unlike the [Great Houses](../../factions/), [StarCom](../../factions/starcom.md) did not emerge as a territorial power. Instead, its influence grew through the infrastructure it maintained and the services it provided. As the Restoration progressed, its importance became increasingly difficult to ignore.
 
 By the end of the Restoration, StarCom had been formally recognized as an independent institution responsible for communications, navigation, exploration, and the maintenance of critical interstellar infrastructure throughout the Core.
 
@@ -126,7 +126,7 @@ As military conquest gave way to political reconstruction, the leaders of the vi
 
 The solution was the creation of a new political order based upon cooperation rather than direct imperial rule.
 
-The Stellar Conclave was established to provide a forum for diplomacy and conflict resolution. StarCom was entrusted with maintaining interstellar communications and navigation infrastructure. Trade routes were restored. Borders were formalized. The Great Houses were recognized as sovereign powers within a broader political framework.
+The Stellar Conclave was established to provide a forum for diplomacy and conflict resolution. [StarCom](../../factions/starcom.md) was entrusted with maintaining interstellar communications and navigation infrastructure. Trade routes were restored. Borders were formalized. The [Great Houses](../../factions/) were recognized as sovereign powers within a broader political framework.
 
 Together, these institutions formed the foundation of the modern Core.
 
@@ -136,7 +136,7 @@ The Great Restoration occupies a unique place in modern history.
 
 House Caledon portrays it as the fulfillment of a sacred duty and the restoration of civilization after centuries of darkness.
 
-The Great Houses emphasize their own contributions to the campaign and often celebrate the Restoration as the moment their nations achieved greatness.
+The [Great Houses](../../factions/) emphasize their own contributions to the campaign and often celebrate the Restoration as the moment their nations achieved greatness.
 
 Historians remain divided.
 
@@ -144,4 +144,4 @@ Some view the Restoration as humanity's greatest achievement since the Age of Em
 
 Few dispute its importance.
 
-Without the Great Restoration, the modern Core would not exist.
+Without the Great Restoration, the modern [Core](../) would not exist.

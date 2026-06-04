@@ -8,7 +8,7 @@ As a result, historians often disagree on where history ends and mythology begin
 
 ## The First Kingdoms
 
-The oldest surviving traditions originate within the Starcrest Protectorate.
+The oldest surviving traditions originate within the [Starcrest Protectorate](../../factions/starcrest-protectorate.md).
 
 According to Protectorate histories, the earliest known civilizations were a collection of rival kingdoms scattered across the region of space that would one day become Protectorate territory. These kingdoms fought wars, forged alliances, and established dynasties that endured for centuries.
 
@@ -28,11 +28,11 @@ The exact meaning of these stories has been debated for centuries.
 
 Modern historians generally regard the Titans as mythological figures, noting the complete absence of reliable evidence for their existence. Nevertheless, belief in the Blood of the Titans remains an important part of Protectorate culture.
 
-House Konnen, rulers of the Starcrest Protectorate, continue to trace their lineage to the ancient kings and are traditionally regarded as bearers of the Blood of the Titans. While few outside the Protectorate take such claims literally, the symbolism remains politically and culturally significant.
+House Konnen, rulers of the [Starcrest Protectorate](../../factions/starcrest-protectorate.md), continue to trace their lineage to the ancient kings and are traditionally regarded as bearers of the Blood of the Titans. While few outside the Protectorate take such claims literally, the symbolism remains politically and culturally significant.
 
 ## The Rise of the Imperium
 
-The next major period of recorded history begins with the rise of House Lytherius and the formation of the Imperium.
+The next major period of recorded history begins with the rise of House Lytherius and the formation of the [Imperium](../../factions/omnisphere-imperium.md).
 
 According to surviving accounts, the invention of the first Mech fundamentally transformed warfare. The technology gave House Lytherius an overwhelming military advantage over its rivals and allowed the fledgling Imperium to expand at an unprecedented rate.
 
@@ -40,13 +40,13 @@ Over the following centuries, the Imperium conquered much of known human space, 
 
 For many generations, the Imperium dominated human civilization.
 
-Though greatly diminished compared to its ancient height, the modern Imperium remains the only major power that can trace its existence directly back to this era.
+Though greatly diminished compared to its ancient height, the modern [Imperium](../../factions/omnisphere-imperium.md) remains the only major power that can trace its existence directly back to this era.
 
 ## Before the Empire
 
 At some point after the rise of the Imperium, a new power emerged.
 
-The details are unclear. Surviving records become sparse, contradictory, and increasingly difficult to verify. What is generally accepted is that a civilization larger and more powerful than the Imperium eventually conquered the known worlds and established what would later become the Golden Empire.
+The details are unclear. Surviving records become sparse, contradictory, and increasingly difficult to verify. What is generally accepted is that a civilization larger and more powerful than the Imperium eventually conquered the known worlds and established what would later become the [Golden Empire](the-empire.md).
 
 Who these conquerors were remains unknown.
 

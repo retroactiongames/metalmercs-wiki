@@ -5,7 +5,7 @@ category: Faction
 key_philosophy: "Order Through Prosperity."
 
 related_entries:
-  - title: The Star Regency
+  - title: The [Star Regency](star-regent.md)
     url: ../../core/star-regency/
   - title: History of the Core
     url: ../../core/history/
@@ -33,7 +33,7 @@ related_entries:
 | :material-lion: **Common Nickname** | The Lions |
 | :material-book-open-page-variant: **House Words** | “Wealth is Power.” |
 
-The Helios Sovereignty is one of the five Great Houses of the Core and among the wealthiest and most politically influential powers in known space.
+The Helios Sovereignty is one of the five [Great Houses](./) of the Core and among the wealthiest and most politically influential powers in known space.
 
 The Sovereignty is ruled jointly by the aristocratic Houses Aerin and Payne, whose families played a critical role in rebuilding interstellar civilization following the Great Restoration.
 
@@ -116,7 +116,7 @@ The Voice acts as:
 - strategic advisor
 - executive representative of the Regency
 
-In practice, many observers regard the Voice as responsible for much of the day-to-day governance of the Core Worlds.
+In practice, many observers regard the Voice as responsible for much of the day-to-day governance of the [Core Worlds](../core/).
 
 This longstanding relationship has granted the Sovereignty enormous political influence within Conclave affairs.
 

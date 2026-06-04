@@ -33,7 +33,7 @@ related_entries:
 | :material-handshake: **Strongest Alliance** | Omnisphere Imperium |
 | :material-book-open-page-variant: **Words** | “Smoke and Steel.” |
 
-The Starcrest Protectorate is one of the five Great Houses of the Core and among the most respected military powers in known space.
+The Starcrest Protectorate is one of the five [Great Houses](./) of the Core and among the most respected military powers in known space.
 
 Born from the surviving frontier defense forces of a civilization destroyed during the Collapse, the Protectorate built its identity around endurance, sacrifice, discipline, and the defense of civilization against chaos.
 

@@ -19,7 +19,7 @@ related_entries:
 > —  Words of House Caledon
 
 ![Regent Splash](../../assets/images/factions/star_regent_family-c.png)
-*House Caledon, the ruling lineage of the Stellar Conclave upon Citadel. Seated upon the Throne of the Core is the Star Regent Jacob Caledon, flanked by his heir apparent and eldest son to the left alongside the heir’s wife and children. To the Regent’s right stands his younger brother and his brother's wife, beside his own son. Honor Guard troops and ceremonial war mechs stand watch within the Hall of Ascension beneath the banners of the Conclave.*
+*House Caledon, the ruling lineage of the Stellar Conclave upon [Citadel](../places/citadel.md). Seated upon the Throne of the Core is the Star Regent Jacob Caledon, flanked by his heir apparent and eldest son to the left alongside the heir’s wife and children. To the Regent’s right stands his younger brother and his brother's wife, beside his own son. Honor Guard troops and ceremonial war mechs stand watch within the Hall of Ascension beneath the banners of the Conclave.*
 
 ## :material-shield-crown: Overview
 
@@ -32,9 +32,9 @@ related_entries:
 | :material-account-group: **Governing Alliance** | The Stellar Conclave |
 | :material-book-open-page-variant: **Words of House Caledon** | “Rule Above All.” |
 
-The Star Regency is the central governing authority of the Core Worlds and the political institution responsible for maintaining unity among the Great Houses.
+The Star Regency is the central governing authority of the [Core Worlds](../core/) and the political institution responsible for maintaining unity among the [Great Houses](./).
 
-Ruled by House Caledon from the capital world of Citadel, the Regency serves as both the symbolic continuation of the ancient Empire and the stabilizing force holding modern interstellar civilization together.
+Ruled by House Caledon from the capital world of [Citadel](../places/citadel.md), the Regency serves as both the symbolic continuation of the ancient Empire and the stabilizing force holding modern interstellar civilization together.
 
 Though the Great Houses maintain independent governments, militaries, territories, and political ambitions, all formally recognize the authority of the Star Regent and the legitimacy of the Regency.
 
@@ -42,9 +42,9 @@ In practice, the Regency functions less as a traditional empire and more as a sy
 
 ## House Caledon
 
-House Caledon traces its lineage to the final years of the Empire.
+House Caledon traces its lineage to the final years of the [Empire](../core/history/the-empire.md).
 
-According to Restoration-era historical records, the last Emperor fell defending the evacuation of the Empire’s surviving military forces during the Collapse. The precise details remain uncertain, though most surviving accounts describe a final defensive action carried out against the forces associated with the Ophidian Supremacy.
+According to [Restoration-era](../core/history/restoration.md) historical records, the last Emperor fell defending the evacuation of the Empire’s surviving military forces during the [Fall](../core/history/the-empire.md#the-fall). The precise details remain uncertain, though most surviving accounts describe a final defensive action carried out against the forces associated with the Ophidian Supremacy.
 
 During the evacuation and subsequent exile beyond known Core space, leadership of the surviving fleet is believed to have passed to the ancestors of House Caledon under the title of Star Regent.
 
@@ -52,7 +52,7 @@ How long the exiled fleet remained beyond the Core remains unclear.
 
 Most historians believe the exile lasted at least one generation, though some traditions claim it endured far longer.
 
-Centuries later, House Caledon returned to the Core alongside the surviving Vanguard forces during the Great Restoration.
+Centuries later, House Caledon returned to the Core alongside the surviving Vanguard forces during the [Great Restoration](../core/history/restoration.md).
 
 Following the reclamation of the Core Worlds, House Caledon established the modern Regency from Citadel and has ruled continuously ever since.
 
@@ -184,7 +184,7 @@ The memory of the Collapse and the dark age that followed remains deeply embedde
 
 ## Modern Outlook
 
-As tensions between the Great Houses continue to intensify, the authority of the Regency faces increasing strain.
+As tensions between the [Great Houses](./) continue to intensify, the authority of the Regency faces increasing strain.
 
 Frontier instability, growing militarization, economic rivalry, and political fragmentation have all placed new pressure upon the institutions established during the Great Restoration.
 

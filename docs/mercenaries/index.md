@@ -95,6 +95,8 @@ The Guild’s central headquarters are located on Drake’s Landing.
 
 ## Drake’s Landing
 
+→ See also: [Drake's Landing](../places/drakes-landing.md)
+
 Drake’s Landing is widely regarded as the mercenary capital of the Core.
 
 The world functions as:

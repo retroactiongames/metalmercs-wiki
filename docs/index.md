@@ -7,7 +7,7 @@ title: Corepedia
 > *"Knowledge is all that survives."*  
 > — StarCom Archival Directive 01
 
-![Corepedia](../assets/images/other/corepedia-a.png)
+![Corepedia](assets/images/other/corepedia-a.png)
 
 Welcome citizen to the official StarCom archival network.
 

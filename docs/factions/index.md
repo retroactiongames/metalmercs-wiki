@@ -64,6 +64,6 @@ The balance between these powers defines nearly every major conflict, alliance, 
 
 Although open war between the Great Houses is officially forbidden under Regency law, political rivalry remains constant. Competition over territory, industrial capacity, technological superiority, trade influence, and frontier influence continues to shape the modern era.
 
-As a result, [Mercenaries](../mercenaries/) flourish throughout the Core and frontier regions alike. Mercenary companies are frequently employed by all major Houses to conduct raids, border conflicts, security operations, deniable offensives, and proxy wars without risking direct military escalation between House governments.
+As a result, [Mercenaries](../mercenaries/) and [Mech combat](../mechs/) flourish throughout the Core and frontier regions alike. Mercenary companies are frequently employed by all major Houses to conduct raids, border conflicts, security operations, deniable offensives, and proxy wars without risking direct military escalation between House governments.
 
 This system of controlled indirect conflict has become one of the defining political realities of the modern Core.

@@ -38,7 +38,7 @@ The region is composed of several dozen densely populated and highly developed w
 
 Although commonly spoken of as a unified civilization, the Core is in practice a complex balance of competing powers, ancient traditions, military alliances, industrial interests, and political rivalries held together through diplomacy, mutual dependence, and the stabilizing authority of [House Caledon](../factions/star-regent.md).
 
-While the Core remains the most prosperous and technologically advanced region of known space, tensions between the Great Houses continue to shape nearly every aspect of interstellar politics.
+While the Core remains the most prosperous and technologically advanced region of known space, competition between the Great Houses continues to shape nearly every aspect of interstellar life. Trade disputes, territorial disagreements, industrial rivalries, and political ambitions frequently spill into open conflict. As a result, [Mercenaries](../mercenaries/) and [Mechs](../mechs/) have become central institutions of Core society. The Great Houses rely upon vast military forces, independent mercenary companies, and powerful war mechs not only to defend against pirates, bandits, and frontier raiders, but also to wage proxy conflicts, conduct raids, and pursue their interests without risking full-scale interstellar war.
 
 ## The Great Houses
 
@@ -58,7 +58,7 @@ Each maintains independent territory, militaries, economies, and political inter
 
 ## The Star Regency
 
-→ See also: [The Star Regency](../factions/star-regent.md)
+→ See: [The Star Regency](../factions/star-regent.md)
 
 The Core is formally governed by the Star Regent from the capital world of Citadel.
 
@@ -76,7 +76,7 @@ Critics occasionally argue that the Regency has become increasingly ceremonial i
 
 ## StarCom
 
-→ See also: [StarCom](../factions/starcom.md)
+→ See: [StarCom](../factions/starcom.md)
 
 No institution exerts greater infrastructural influence across the Core than StarCom.
 
@@ -128,7 +128,7 @@ Many historians believe the technological and industrial capabilities required t
 
 ## History
 
-→ See also: [The Empire](history/the-empire.md) and [The Dark Age](history/dark-age.md)
+→ See: [The Empire](history/the-empire.md) and [The Dark Age](history/dark-age.md)
 
 Much of the Core's earliest history has been lost to time.
 
@@ -163,7 +163,7 @@ These worlds exert substantial influence over military culture, trade, and merce
 
 ## Beyond the Core
 
-→ See also: [The Fringe](../society/fringe-worlds.md) and [The Frontier](../places/the-frontier.md)
+→ See: [The Fringe](../society/fringe-worlds.md) and [The Frontier](../places/the-frontier.md)
 
 Beyond the borders of the Core lie vast frontier regions containing:
 

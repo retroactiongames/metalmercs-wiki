@@ -6,7 +6,7 @@ These worlds often serve as diplomatic, commercial, or strategic hubs.
 
 ---
 
-## Citadel
+## [Citadel](../../places/citadel.md)
 
 Population: 4.2 Billion
 
@@ -16,7 +16,7 @@ Citadel serves as the political heart of the Core and hosts representatives from
 
 ---
 
-## Drake's Landing
+## [Drake's Landing](../../places/drakes-landing.md)
 
 Population: 1.8 Billion
 
@@ -26,7 +26,7 @@ Known for its free ports, massive orbital markets, and strong mercantile traditi
 
 ---
 
-## Titan Prime
+## [Titan Prime](../../places/titan-prime.md)
 
 Population: 2.6 Billion
 

@@ -18,7 +18,7 @@ related_entries:
 > *“Rule above all.”*  
 > —  Words of House Caledon
 
-![Regent Splash](../../assets/images/factions/star_regent_family.png)
+![Regent Splash](../../assets/images/factions/star_regent_family-c.png)
 *House Caledon, the ruling lineage of the Stellar Conclave upon Citadel. Seated upon the Throne of the Core is the Star Regent Jacob Caledon, flanked by his heir apparent and eldest son to the left alongside the heir’s wife and children. To the Regent’s right stands his younger brother and his brother's wife, beside his own son. Honor Guard troops and ceremonial war mechs stand watch within the Hall of Ascension beneath the banners of the Conclave.*
 
 ## :material-shield-crown: Overview

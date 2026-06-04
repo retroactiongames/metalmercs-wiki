@@ -7,6 +7,10 @@ title: Corepedia
 > *"Knowledge is all that survives."*  
 > — StarCom Archival Directive 01
 
+![Corepedia](../../assets/images/other/corepedia-a.png)
+
+
+
 Welcome citizen to the official StarCom archival network.
 
 The Corepedia is the largest surviving publicly accessible historical, technical, and political archive within civilized human space. Distributed through approved CoreNet terminals, relay hubs, educational institutions, and licensed vendor systems, this archive preserves the collective record of the Core and surrounding frontier regions.
@@ -17,14 +21,15 @@ StarCom historians, navigators, military analysts, archivists, and intelligence 
 
 The Corepedia contains records concerning:
 
-- The Great Houses and major political powers
-- Mercenary organizations and military commands
-- Interstellar conflicts and succession crises
-- Frontier regions and independent worlds
-- Military technologies, mech systems, and fleet doctrine
-- Historical figures, dynasties, and political leaders
-- StarCom communications and navigational history
-- Ancient Imperial infrastructure and recovered archives
+- [The Great Houses](factions/) and major political powers
+- [Mercenary Organizations](mercenaries/) and the Mercenary Guild
+- [Mechs of the Core](mechs/) and the war machines of modern civilization
+- [The Core](core/) and the structure of interstellar society
+- [Major Worlds](worlds/) and notable locations
+- [Military Forces](military/) including fleets and Battlestars
+- [Technology](technology/) and industrial development
+- [Historical Figures](people/) and notable leaders
+- [Core History](core/history/) from the Empire to the present day
 
 ## Content Disclaimer
 

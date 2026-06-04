@@ -238,6 +238,7 @@ nav:
       - Imperium Worlds: worlds/imperium-worlds.md
       - Neutral Worlds:
           - worlds/neutral/index.md
+          - Citadel: places/citadel.md
           - Drake's Landing: places/drakes-landing.md
           - Titan Prime: places/titan-prime.md
 

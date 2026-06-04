@@ -1,10 +1,10 @@
-<!-- Auto-generated Sarna-style mech reference pages. QKS data was treated as authoritative over spreadsheet-derived stats. -->
-
 # Helios Sovereignty Mechs
 
 → See also: [The Helios Sovereignty](../../factions/helios-sovereignty/)
 
 Sovereignty machines are prestige weapons as much as battlefield assets: imposing, polished, and expensive, with elite formations built around decisive strikes and symbols of noble power.
+
+Sovereignty mechs are slightly easier to transport and deploy than comparable mechs from other factions. Some Sovereignty mechs also have jump capabilities.
 
 ## Technical Readout Summary
 

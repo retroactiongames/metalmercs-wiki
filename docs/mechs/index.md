@@ -2,6 +2,8 @@
 
 # Mechs of the Core
 
+![Mechs in Battle](../../assets/images/mechs/mechs-in-battle.png)
+
 The Core is dominated by ancient mech traditions, house arsenals, mercenary salvage, and the constant pressure of war. The designs below are grouped by origin rather than by current owner: common designs remain in their own category, while faction-specific machines are listed under the Great House or state most associated with their development and doctrine.
 
 ## Core Mech Catalog

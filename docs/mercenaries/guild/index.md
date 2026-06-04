@@ -18,6 +18,8 @@ related_entries:
 > *“Where words bind war.”*  
 > — Guild motto
 
+![The Mercenary Guild](../../assets/images/mercs/merc-guild.png)
+
 ## :material-scale-balance: Overview
 
 |  |  |

@@ -1,5 +1,7 @@
 # The Dark Age
 
+![The Dark Ages](../../assets/images/other/dark-ages-b.png)
+
 The Dark Age was the turbulent period that followed the Fall of the Empire. Lasting for several centuries, it was marked by political fragmentation, economic collapse, isolation, and near-constant conflict. With the destruction of the Empire's government, military, and communications infrastructure, no authority remained capable of maintaining order across the Core.
 
 For many historians, the Dark Age represents the lowest point in recorded human history.

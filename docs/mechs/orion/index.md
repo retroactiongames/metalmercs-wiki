@@ -6,6 +6,8 @@
 
 Corporate mechs showcase Orion’s technical edge: prismatic weapons, advanced shielding, predictive systems, and carefully engineered battlefield efficiency.
 
+The shielding technology used by Corporate mechs is unique to the Corporate and gives their mechs endurance in longer fights that is unmatched across the other major factions.
+
 ## Technical Readout Summary
 
 | Mech | Model | Mass | Armor | Shields | Speed | Role | Primary Armament |

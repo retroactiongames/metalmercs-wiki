@@ -18,6 +18,8 @@ related_entries:
 > *“On Titan Prime, a pilot can become immortal… or explode before the second round.”*  
 > — Arena broadcast saying
 
+![Titan Prime](../../assets/images/other/titan-prime.png)
+
 ## :material-sword-cross: Overview
 
 |  |  |

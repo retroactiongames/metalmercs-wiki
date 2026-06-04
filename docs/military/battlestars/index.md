@@ -1,5 +1,7 @@
 # Battlestars
 
+![Battlestar](../../assets/images/battlestars/battlestar-generic-b.png)
+
 ## Relics of an Age Lost
 
 Battlestars are the largest warships operating within known space.

@@ -6,6 +6,8 @@
 
 Protectorate designs are brutal and workmanlike, favoring armor, intimidation, and close-range violence. Many are built to survive ugly fights on industrial worlds and contested borders.
 
+Protectorate mechs are heavier than comparable mechs of other factions, and the Protectorate yields super heavy mechs beyond the weight limits that other factions can produce.
+
 ## Technical Readout Summary
 
 | Mech | Model | Mass | Armor | Speed | Role | Primary Armament |

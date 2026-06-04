@@ -1,5 +1,7 @@
 # The Empire
 
+![The Empire](../../assets/images/other/the-empire.png)
+
 The Age of Empire represents the high-water mark of human civilization.
 
 For nearly two millennia, the Golden Empire united thousands of worlds through trade, administration, military power, and shared institutions. Its influence stretched across known space, connecting distant systems into a single political and economic order. Even centuries after its destruction, the Empire remains the foundation upon which nearly every modern government, culture, and institution in the Core is built.

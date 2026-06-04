@@ -1,10 +1,10 @@
-<!-- Auto-generated Sarna-style mech reference pages. QKS data was treated as authoritative over spreadsheet-derived stats. -->
-
 # Confederate Vanguard Union Mechs
 
 → See also: [The Confederate Vanguard Union](../../factions/confederate-vanguard-union/)
 
 Union designs emphasize durability, direct firepower, disciplined battlefield roles, and rugged logistics. Their mechs tend to favor practical weapons, thick armor, and formations built around coordinated pressure.
+
+Union mechs utilize advanced cooling systems and as a result carry more heatsinks than comparable mechs from other factions. Some Union mechs also have jump capabilities.
 
 ## Technical Readout Summary
 

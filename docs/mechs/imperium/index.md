@@ -1,10 +1,10 @@
-<!-- Auto-generated Sarna-style mech reference pages. QKS data was treated as authoritative over spreadsheet-derived stats. -->
-
 # Omnisphere Imperium Mechs
 
 → See also: [The Omnisphere Imperium](../../factions/omnisphere-imperium/)
 
 Imperium mechs reflect ancient traditions of martial spectacle and aristocratic warfare. Their machines often combine elegant mobility with vicious close-range killing power.
+
+Imperium mechs utilize advance arcanite engines making their mechs faster than comparable mechs from other factions.
 
 ## Technical Readout Summary
 

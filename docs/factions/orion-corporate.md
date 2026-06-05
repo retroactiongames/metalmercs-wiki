@@ -75,6 +75,18 @@ Through close cooperation with the Regency, Orion gained major political legitim
 
 Many historians believe the Restoration could not have succeeded as rapidly without Orion support.
 
+## Government
+
+The Orion Corporate is governed through a hybrid system that combines local autonomy with centralized coordination. Unlike most Great Houses, which concentrate authority within a ruling dynasty or military hierarchy, the Corporate traces its origins to an alliance of independent worlds that voluntarily united for mutual survival during the dark age.
+
+This legacy remains visible in its modern government. Each major member world maintains representation within the Corporate Council, a legislative body responsible for setting policy, coordinating large-scale initiatives, and resolving disputes between member systems. The council functions similarly to a parliamentary assembly, with representatives balancing local interests against the broader needs of the Corporate as a whole.
+
+As the Corporate expanded and governing a growing interstellar civilization became increasingly complex, a centralized executive office emerged to coordinate policy and provide long-term strategic leadership. This office eventually became associated with House Noddack, whose members have guided the Corporate for generations. While the Prodirector possesses significant authority, the position functions more as a chief executive and coordinator than as an absolute ruler.
+
+The result is one of the most decentralized governments among the Great Houses. Individual worlds retain substantial authority over local administration, economic policy, infrastructure, and internal affairs. Supporters argue that this system encourages innovation, flexibility, and local accountability. Critics contend that it can slow decision-making and make the Corporate less responsive during major crises.
+
+To Corporate citizens, however, this balance between local autonomy and centralized coordination reflects one of the state's founding principles: that cooperation produces stronger outcomes than domination.
+
 ## House Noddack
 
 The Orion Corporate is ruled by House Noddack, a family whose influence spans science, governance, military planning, and industrial administration. Unlike many noble houses of the Core, House Noddack derives its prestige less from military conquest or ancient bloodlines and more from generations of scientific achievement and public service.
@@ -159,7 +171,9 @@ The Orion Corporate fields one of the most technologically advanced militaries i
 
 Corporate commanders seek to understand the battlefield before committing to it. Reconnaissance networks, sensor arrays, battlefield simulations, and predictive analytics are employed extensively to identify weaknesses and exploit them with minimal losses. Corporate officers are trained to view unnecessary casualties as failures of planning rather than unavoidable costs of war.
 
-This philosophy has produced a military that excels at coordinated operations, long-range engagements, electronic warfare, and battlefield control. Orion formations are often capable of sharing targeting data, sensor information, and tactical updates across an entire combat theater, allowing units to react with remarkable speed and efficiency.
+This philosophy has produced a military that excels at coordinated operations, long-range engagements, electronic warfare, and battlefield control. Corporate formations are often capable of sharing targeting data, sensor information, and tactical updates across an entire combat theater, allowing units to react with remarkable speed and efficiency.
+
+The Corporate's decentralized political structure is also reflected in its military organization. Unlike most Great Houses, whose armed forces answer directly to a centralized authority, much of the Corporate's military strength remains distributed among planetary governments, regional magistrates, and local administrative authorities. While these forces are formally part of the larger Corporate military command, local leaders retain significant influence over their deployment and operations. As a result, assembling large expeditionary armies often requires the cooperation and approval of numerous political stakeholders. Supporters argue that this system prevents the concentration of military power in any single set of hands and encourages local accountability. Critics counter that it can slow mobilization efforts and complicate strategic decision-making during rapidly evolving crises.
 
 The Corporate's military strength is not without weaknesses. Corporate officers are frequently selected for their intelligence, education, and technical expertise, sometimes at the expense of intuition or battlefield aggression. Critics argue that Corporate commanders can become overly reliant upon planning and simulation, occasionally struggling when confronted with unpredictable opponents who refuse to behave as expected.
 

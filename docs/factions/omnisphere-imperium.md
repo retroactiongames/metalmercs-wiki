@@ -29,7 +29,7 @@ related_entries:
 | :material-crown: **Ruling House** | House Lytherius |
 | :material-account: **Current Ruler** | Imperator Jada Lytherius |
 | :material-map-marker: **Capital World** | Celestia Prime |
-| :material-account-group: **Population** | 10.3 billion |
+| :material-account-group: **Population** | 12.3 billion |
 | :material-robot-industrial: **Military Strength** | 220,000 mechs |
 | :material-heart: **Friendly Ties** | Starcrest Protectorate |
 | :material-sword-cross: **Hostilities** | Orion Corporate; Confederate Vanguard Union |
@@ -56,6 +56,16 @@ The defining moment in early Imperial history was the development of the first w
 The Imperium’s early conquests funded both military and artistic growth. Wealth from conquered territories supported the industrial base necessary to maintain mech armies, while also patronizing artists, poets, engineers, philosophers, and scholars.
 
 This fusion of martial supremacy and artistic achievement became one of the defining features of House Lytherius culture.
+
+### Matriarchal Tradition
+
+The Imperium is one of the few major powers of the Core where women traditionally occupy the highest positions of authority. This custom traces its origins to its first Imperator, Vyrexia, whose descendants established many of the noble traditions that continue to shape Imperial society.
+
+To the Lytherians, lineage is sacred. Noble houses maintain genealogical records stretching back centuries, and legitimacy is often derived from bloodline as much as law. Throughout Imperial history, succession disputes have toppled dynasties, fractured provinces, and ignited wars. As a result, the Imperium developed an intense cultural aversion to uncertainty in matters of inheritance.
+
+A common Lytherian saying holds that *"A father is claimed; a mother is known."* While modern science is fully capable of establishing ancestry, the tradition predates such technologies by centuries and remains deeply embedded in Imperial culture. Because maternal lineage is viewed as unquestionable, dynastic authority is often traced through women, and daughters are frequently favored as heirs. To lose track of a legitimate heir—or worse, to place the wrong heir upon a throne—is considered one of the gravest failures imaginable in Lytherian society. This tradition extends even to the Imperator herself. Throughout history, Imperators have commonly taken male consorts for the purpose of producing heirs, but those consorts are rarely considered part of the ruling dynasty. To the Lytherians, the children of an Imperator belong not to a family, but to the Imperium itself. From an early age they are educated, groomed, and prepared for service to the state, with their loyalty directed first toward the reigning Imperator and the Imperium rather than toward any paternal lineage. Fathers are generally expected to play little role in the upbringing of Imperial heirs, a custom that reinforces the belief that dynastic continuity flows through the maternal line alone. 
+
+This does not prevent men from inheriting titles or exercising power. Male nobles regularly serve as rulers, generals, governors, and statesmen. However, among the oldest Lytherian houses, women are often regarded as the safest custodians of dynastic continuity. The result is a society where female rulers are common, expected, and widely respected, though not universally required.
 
 ## The Old Empire and the Collapse
 
@@ -91,60 +101,43 @@ The modern Imperium has formally abandoned the most brutal of these practices. H
 
 ## Celestia Prime
 
-The capital of the Omnisphere Imperium is Celestia Prime, known throughout the Core as the “Jewel of the Imperium.”
+Many of the Imperium's greatest monuments, museums, military academies, temples, and historical archives are located on Celestia Prime. To Imperial citizens, the world is more than a capital—it is a living symbol of continuity stretching back thousands of years.
 
-Celestia Prime is a world of striking natural and architectural beauty, marked by:
-- towering mountains
-- sprawling forests
-- vast oceans
-- advanced military facilities
-- traditionally inspired art and architecture
-- major centers of Imperial culture
+The world escaped much of the devastation that consumed the Core during the Collapse, and many structures standing today predate the formation of several modern Great Houses.
 
-The planet’s economy thrives on both advanced technology and artistic production.
+## House Lytherius
 
-Celestia Prime embodies the Imperial ideal of “Fierce Beauty”: a world where refinement, military power, natural grandeur, and historical continuity exist side by side.
+The Omnisphere Imperium is ruled by House Lytherius, the oldest continuously governing dynasty in the Core and one of the oldest surviving political institutions in known human history. For more than two millennia, the house has guided the Imperium through periods of expansion, decline, invasion, and renewal, becoming inseparable from the state it governs.
 
-## Ruler and Leadership
+### Imperator Jada Lytherius
 
-The Imperium is ruled by House Lytherius from Celestia Prime.
+The current ruler of the Imperium is **Imperator Jada Lytherius**, a leader widely respected for her wisdom, patience, and long-term vision. Stoic and composed by nature, Jada rarely acts impulsively, preferring careful deliberation and strategic planning over dramatic displays of authority. While some rivals mistake her measured demeanor for indecision, few who know her well make that mistake twice.
 
-Its current ruler is Imperator Jada Lytherius, widely regarded as wise, stoic, careful, and politically measured.
+Under Jada's leadership, the Imperium has pursued a cautious and deliberate foreign policy, avoiding reckless conflicts while maintaining a reputation for responding to threats with overwhelming force when necessary. Her reign has emphasized stability, continuity, and the preservation of Imperial institutions.
 
-Under Jada’s leadership, the Imperium favors calculated action over impulsive escalation. It is slow to react when provoked, but always prepared to defend itself with formidable force when necessary.
+Like many Imperators before her, Jada never married. Instead, she took consorts in accordance with Lytherian tradition and bore four children with prominent regional leaders from within the Imperium. As Imperial custom dictates, her children were raised primarily within the institutions of House Lytherius and the state itself. To the Lytherians, heirs of the Imperator belong first to the Imperium and only secondarily to any individual family.
 
-House Lytherius traditionally favors consorts over marriage in order to preserve the ruling family lineage. Jada Lytherius has four children with at least two separate regional leaders from within the Imperium.
+### The Heirs of the Imperium
 
-In Lytherian tradition, children of the ruling line are regarded as belonging to the Imperium itself. Their primary familial bond is therefore with the Imperator and the state, rather than with their fathers.
+Jada's eldest sons, **Takarion Lytherius** and **Valtorian Lytherius**, rank among the Imperium's most respected military commanders. Both embody many of the traditional Lytherian virtues: discipline, patience, strategic thinking, and unwavering devotion to duty. Though similar in temperament, they possess distinct command styles and have earned reputations as formidable battlefield leaders.
 
-Jada’s children are:
-- Takarion Lytherius
-- Valtorian Lytherius
-- Sylara Lytherius
-- Rythor Lytherius
+The designated heir to the Imperium is **Sylara Lytherius**, whose talents lie not in warfare but diplomacy. Intelligent, thoughtful, and deeply idealistic, Sylara has become known throughout the Core for her efforts to resolve conflicts through negotiation rather than force. Her views often place her at odds with more traditional elements of the Imperial establishment, including members of her own family, who worry that her faith in diplomacy may prove inadequate in an increasingly dangerous age. Supporters, however, see her as the future of a changing Imperium.
 
-Takarion and Valtorian, the two eldest sons, are respected military tacticians and serve among the Imperium’s top commanders.
+The youngest child, **Rythor Lytherius**, stands apart from his siblings. A gifted warrior and talented mech pilot, Rythor possesses little interest in governance or court politics. He thrives on competition, tournaments, and the thrill of battle, often treating combat as a challenge to be mastered rather than a solemn duty. Though frequently frustrated by his responsibilities, he remains one of the most naturally gifted members of his generation and is widely admired by younger warriors throughout the Imperium.
 
-Sylara Lytherius is known as a diplomatic prodigy. Her preference for peaceful solutions sometimes places her at odds with more martial members of her family.
-
-Rythor, the youngest, is drawn more directly to combat and continues to refine his skills as a mech pilot.
+Together, the children of Jada Lytherius represent the competing visions that may one day shape the future of the Imperium: military strength, diplomatic reform, tradition, ambition, and the enduring legacy of House Lytherius itself.
 
 ## Society and Culture
 
-Imperial culture places great value on:
-- honor
-- duty
-- artistic excellence
-- discipline
-- beauty
-- martial skill
-- historical continuity
+Imperial culture is built around the pursuit of excellence. Honor, duty, discipline, artistry, scholarship, and martial skill are not viewed as separate virtues, but as different expressions of the same ideal: the continual refinement of oneself in service to a greater purpose.
 
-Many Imperial citizens are trained in artistic pursuits as well as practical or military disciplines.
+Unlike many societies of the Core, the Imperium does not draw a sharp distinction between warriors, artists, scholars, or statesmen. The ideal Imperial citizen strives to cultivate multiple disciplines throughout their life. A military commander may also be a poet. An engineer may study philosophy. An artist may be expected to understand strategy and history. To the Imperium, true mastery requires both strength and refinement.
 
-The Imperium’s ideal citizen is not merely a warrior, scholar, engineer, or artist, but someone who brings perfection to whatever role they occupy.
+This philosophy is reflected throughout Imperial society. Public spaces are designed not only to be functional, but beautiful. Military academies teach history and literature alongside tactics. Noble families sponsor artists, musicians, engineers, and scholars with the same enthusiasm they support military officers. Across the Imperium, there exists a widespread belief that anything worth doing is worth doing exceptionally well.
 
-This emphasis on perfection in all endeavors is one of the central features of Imperial culture.
+Honor and duty remain central pillars of Imperial identity. Citizens are taught from an early age that individual ambition must ultimately serve the stability and prosperity of the Imperium. Service to family, community, and state is regarded as a sacred obligation, and those who sacrifice personal gain for the greater good are often celebrated as role models.
+
+To outsiders, Imperial culture can appear proud, rigid, and even elitist. Imperial citizens generally regard such criticism as the inevitable consequence of maintaining high standards. In the Imperial view, civilization is not preserved through comfort or convenience, but through discipline, excellence, and the continual pursuit of perfection.
 
 ## The Eternal Flame
 
@@ -185,6 +178,16 @@ The Union views the Imperium as a serious military contender, particularly becau
 
 Relations with the Helios Sovereignty are generally reasonable, largely because geography limits direct conflict between them rather than because of deep cultural similarity.
 
+## Economy
+
+The Imperium possesses one of the oldest industrial economies in human space. Many of its economic foundations can be traced back centuries before the rise of the ancient Empire itself.
+
+Mining, metallurgy, advanced manufacturing, military production, and artistic craftsmanship remain central pillars of Imperial industry. While the Sovereignty dominates commerce and finance, and Orion Corporate leads in technological innovation, the Imperium is renowned for the quality of its production rather than the scale of its output.
+
+Imperial artisans, armorers, engineers, and manufacturers often spend years refining designs that other states would mass-produce. This pursuit of excellence increases costs but has earned Imperial goods a reputation for exceptional quality throughout the Core.
+
+To the Imperium, beauty and utility are not opposing ideals. A machine should function flawlessly. It should also be worthy of admiration.
+
 ## Military and Technology
 
 Imperium mechs possess a distinctive non-humanoid, serpentine style. This design tradition contributes to the Imperium’s popular nickname: “the Dragon Riders.”
@@ -219,6 +222,12 @@ Imperium mechs also frequently use:
 These weapons force opponents to manage overheating, internal damage, and mobility constraints.
 
 The Imperium exploits these weaknesses through superior speed, precise ambushes, and controlled disengagement.
+
+### The Dragon Riders
+
+Imperial mech pilots are often referred to throughout the Core as the Dragon Riders. The name originates from the distinctive serpentine designs favored by Imperial engineers, many of which resemble the dragons that occupy a central place within Imperial mythology and symbolism.
+
+Over time, the nickname became synonymous with the Imperium's style of warfare itself: swift, elegant, devastating, and difficult to pin down. Though originally coined by outsiders, many Imperial warriors have proudly embraced the title.
 
 ## Mercenary Relations
 

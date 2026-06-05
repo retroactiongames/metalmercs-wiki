@@ -5,7 +5,7 @@
 
 ## Overview
 
-The modern Core contains approximately 62 billion inhabitants spread across the territories of the Five Great Houses and several neutral worlds.
+The modern Core contains approximately 72 billion inhabitants spread across the territories of the Five Great Houses and several neutral worlds.
 
 While often described as the center of civilization, the Core occupies only a fraction of the territory once governed by the Golden Empire.
 
@@ -13,11 +13,11 @@ While often described as the center of civilization, the Core occupies only a fr
 
 | Nation | Population | Military Mechs | Battlestars |
 |----------|----------:|----------:|----------:|
-| Starcrest Protectorate | 7.2 Billion | 288,000 | 3 |
-| Helios Sovereignty | 9.7 Billion | 273,000 | 2 |
-| Orion Corporate | 11.4 Billion | 189,000 | 2 |
-| Confederate Vanguard Union | 14.8 Billion | 346,000 | 3 |
-| Omnisphere Imperium | 10.3 Billion | 220,000 | 2 |
+| Starcrest Protectorate | 9.2 Billion | 288,000 | 3 |
+| Helios Sovereignty | 11.7 Billion | 273,000 | 2 |
+| Orion Corporate | 13.4 Billion | 189,000 | 2 |
+| Confederate Vanguard Union | 16.8 Billion | 346,000 | 3 |
+| Omnisphere Imperium | 12.3 Billion | 220,000 | 2 |
 | Citadel | 4.2 Billion | N/A | N/A |
 | Drake's Landing | 1.8 Billion | N/A | N/A |
 | Titan Prime | 2.6 Billion | N/A | N/A |

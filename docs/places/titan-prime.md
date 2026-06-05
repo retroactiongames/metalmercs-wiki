@@ -15,7 +15,7 @@ related_entries:
 
 # Titan Prime
 
-> *“On Titan Prime, a pilot can become immortal… or explode before the second round.”*  
+> *“Win the crowds and you win the games.”*  
 > — Arena broadcast saying
 
 ![Titan Prime](../../assets/images/other/titan-prime.png)
@@ -29,7 +29,7 @@ related_entries:
 | :material-stadium: **Primary Function** | Gladiatorial Mech Combat |
 | :material-television-play: **Major Industry** | Broadcasting and Arena Sports |
 | :material-cash-fast: **Economic Driver** | Betting and Sponsorships |
-| :material-book-open-page-variant: **Common Reputation** | “The Gladiator World” |
+| :material-book-open-page-variant: **Words** | “Glory awaits the bold.” |
 
 Titan Prime is the most famous gladiatorial world in the Core and the undisputed center of professional mech combat sports.
 

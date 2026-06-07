@@ -12,17 +12,17 @@ The Union fields the largest military force among the Great Houses and is widely
 
 ## Overview
 
-| World | Population | Primary Role |
-|---------|---------:|---------|
-| Starhold | 2.9 Billion | Capital / Military Command |
-| Fortuna | 3.6 Billion | Industry |
-| Hammerfall | 0.8 Billion | Weapons Manufacturing |
-| Galvin's Forge | 0.5 Billion | Heavy Industry |
-| New Ramos | 1.9 Billion | Agriculture |
-| Daxton's Dominion | 1.8 Billion | Recruitment & Training |
-| Freedom | 0.3 Billion | Government |
-| Mercer's Gate | 0.6 Billion | Logistics |
-| Liberty's End | 2.4 Billion | Population Center |
+| World             |  Population | Primary Role               |
+| ----------------- | ----------: | -------------------------- |
+| Starhold          | 2.9 Billion | Capital / Military Command |
+| Fortuna           | 3.6 Billion | Industry                   |
+| Hammerfall        | 0.8 Billion | Weapons Manufacturing      |
+| Galvin's Forge    | 0.5 Billion | Heavy Industry             |
+| New Ramos         | 1.9 Billion | Agriculture                |
+| Daxton's Dominion | 1.8 Billion | Recruitment & Training     |
+| Freedom           | 0.3 Billion | Penal Colony               |
+| Mercer's Gate     | 0.6 Billion | Border Fortress World      |
+| Liberty's End     | 2.4 Billion | Autonomous Technology Hub  |
 
 **Total Population:** 14.8 Billion
 
@@ -116,15 +116,22 @@ Military service is deeply embedded within local culture.
 
 ## Freedom
 
+→ See: [Freedom](../union/freedom/)
+
 **Population:** 300 Million
 
-A small but politically important world.
+A harsh penal world where the Union sends its most dangerous criminals, insurgents, deserters, failed officials, and political dissidents.
 
-Freedom serves as the home of numerous governmental institutions and administrative agencies.
+Sentencing to Freedom is permanent. Those exiled there forfeit their citizenship, titles, inheritance, and legal ties to their former lives. Once transferred to Freedom, an individual belongs to the world for life and serves the Union through one of two paths: labor or military service.
 
-Its relatively small population belies its enormous influence within Union politics.
+Life on Freedom is deliberately unforgiving. Vast penal settlements, labor camps, military compounds, and fortified detention zones dominate much of the planet's habitable regions. Beyond the walls lies a hostile wilderness filled with dangerous native fauna and environmental hazards that make escape nearly impossible.
 
-Many of the policies that shape Union society originate here.
+Freedom is also one of the Union's most valuable resource worlds. Its mines produce vast quantities of strategic minerals and industrial materials under brutal conditions that claim countless lives each year. Those not assigned to the mines serve within the Freedom Corps, a harsh military organization recruited from the planet's exile population.
+
+Though often dismissed by regular military personnel as little more than criminals in uniform, the Freedom Corps has earned a reputation for fanatic discipline, extreme casualty tolerance, and unwavering loyalty. Deployed primarily along the frontier, its soldiers are expected to endure hardships and losses that would break most conventional units. Throughout Union history, a handful of Freedom Corps commanders have risen from exile to become celebrated heroes of the Union.
+
+The Union maintains Freedom not merely as a prison, but as a warning. Throughout Union space, the threat of exile to Freedom serves as a powerful deterrent against rebellion, sedition, desertion, and serious crime.
+
 
 ---
 
@@ -132,11 +139,13 @@ Many of the policies that shape Union society originate here.
 
 **Population:** 600 Million
 
-A major transportation and logistics hub.
+One of the most heavily fortified worlds in Union territory.
 
-Strategically located near several important transit routes, Mercer's Gate helps coordinate the movement of personnel, supplies, and equipment throughout Union territory.
+Strategically positioned along critical border regions, Mercer's Gate serves as a defensive bulwark against external threats and internal unrest. Massive fortress complexes, military bases, orbital defense platforms, and hardened command centers cover much of the planet.
 
-Military planners often describe it as the artery system of the Union.
+The world also houses major weapons factories, military training facilities, and logistics infrastructure that support Union military operations across nearby sectors.
+
+Mercer's Gate is often described by Union strategists as the shield of the Union—a world built for war and prepared to withstand siege.
 
 ---
 
@@ -144,11 +153,13 @@ Military planners often describe it as the artery system of the Union.
 
 **Population:** 2.4 Billion
 
-One of the largest civilian population centers in the Union.
+One of the most prosperous and independent worlds within the Confederate Vanguard Union.
 
-A world of sprawling cities, universities, and commercial districts, Liberty's End serves as an important cultural and economic center.
+Known for its sprawling metropolitan centers, advanced infrastructure, and thriving technological sector, Liberty's End enjoys a level of local autonomy uncommon within the highly centralized Union. Its citizens take pride in their traditions of self-governance and civic independence while remaining loyal members of the Union.
 
-While military service remains highly respected, Liberty's End demonstrates that the Union is more than simply an army with a government attached.
+The planet's universities, research institutions, and technology firms contribute significantly to Union economic and military development. Many advanced systems used throughout Union space originated on Liberty's End.
+
+Though culturally distinct from many of the Union's more militarized worlds, Liberty's End remains a valuable and influential member of the Union, providing both innovation and resources to support Union strength.
 
 ---
 

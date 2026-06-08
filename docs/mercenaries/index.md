@@ -25,9 +25,9 @@ related_entries:
 |                                                     |                                                 |
 | --------------------------------------------------- | ----------------------------------------------- |
 | :material-domain: **Common Name**                   | Metal Mercs                                     |
-| :material-map-marker: **Primary Hub**               | [Drake's Landing](../../places/drakes-landing/) |
+| :material-map-marker: **Primary Hub**               | [Drake's Landing](../places/drakes-landing/) |
 | :material-gavel: **Primary Authority**              | [Mercenary Guild](../mercenaries/guild/)          |
-| :material-robot-industrial: **Primary Equipment**   | [War Mechs](../../mechs/)            |
+| :material-robot-industrial: **Primary Equipment**   | [War Mechs](../mechs/)            |
 | :material-cash: **Primary Occupation**              | Private Military Contracting                    |
 | :material-book-open-page-variant: **Common Saying** | “No House Rules The Frontier.”                  |
 

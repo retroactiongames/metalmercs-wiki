@@ -22,282 +22,136 @@ related_entries:
 
 ## :material-sword-cross: Overview
 
-|  |  |
-|---|---|
-| :material-domain: **Common Name** | Metal Mercs |
-| :material-map-marker: **Primary Hub** | [Drake’s Landing](../places/drakes-landing.md) |
-| :material-gavel: **Primary Authority** | [Mercenary Guild](guild/) |
-| :material-robot-industrial: **Primary Equipment** | [War Mechs](../mechs/) |
-| :material-cash: **Primary Occupation** | Private Military Contracting |
-| :material-book-open-page-variant: **Common Saying** | “No House Rules The Frontier.” |
+|                                                     |                                                 |
+| --------------------------------------------------- | ----------------------------------------------- |
+| :material-domain: **Common Name**                   | Metal Mercs                                     |
+| :material-map-marker: **Primary Hub**               | [Drake's Landing](../../places/drakes-landing/) |
+| :material-gavel: **Primary Authority**              | [Mercenary Guild](../mercenaries/guild/)          |
+| :material-robot-industrial: **Primary Equipment**   | [War Mechs](../../mechs/)            |
+| :material-cash: **Primary Occupation**              | Private Military Contracting                    |
+| :material-book-open-page-variant: **Common Saying** | “No House Rules The Frontier.”                  |
 
-Mercenaries — commonly referred to throughout civilized space as *Metal Mercs* — are private military companies operating throughout the Core and frontier regions. Mercenary units are designed around the deployment of [mechs](../mechs/), as mechs form the foundation of all modern warfare in the Core.
+Mercenaries—commonly known throughout civilized space as *Metal Mercs*—are private military organizations operating throughout the Core and frontier regions. Built around the deployment of [mechs](../../technology/mechs/), mercenary companies undertake everything from frontier defense and anti-piracy operations to reconnaissance, convoy escort, industrial security, and large-scale military campaigns.
 
-Although officially independent, mercenary organizations play a central role in the political and military balance of the modern era.
+Although officially independent, mercenary forces have become one of the defining institutions of the modern age. While the Great Houses publicly avoid direct warfare under the authority of the Star Regency, mercenary companies provide a means through which conflicts can be fought, influence projected, and political objectives pursued without openly violating the peace.
 
-Mercenary companies are employed for:
-- security operations
-- frontier defense
-- anti-piracy campaigns
-- industrial protection
-- proxy conflicts
-- recon contracts
-- convoy escort
-- quiet work
-- private warfare
+Mercenary organizations vary enormously in size. At the top stand the four Greater Companies, military powers whose strength rivals that of the Great Houses themselves. Beneath them are the famous [Lesser Companies](../mercenaries/lesser-mercenary-units/), followed by hundreds of [Minor Mercenary Units](../mercenaries/minor-mercenary-units/) operating throughout civilized space. At the foundation of the profession are the countless [Free Jacks](../mercenaries/free-jacks/), independent pilots and small crews seeking contracts wherever work can be found.
 
-While the Great Houses officially prohibit open warfare against one another under the authority of the Star Regency, mercenary companies provide a means through which conflicts can occur without escalating into civilization-wide war.
+Throughout the frontier, mercenary companies are viewed with a mixture of admiration, suspicion, and necessity. To some worlds they are protectors. To others they are opportunists. In many regions they are simply the closest thing available to a standing army.
 
-As a result, mercenaries have become one of the defining institutions of modern Core society.
-
-Throughout the frontier, many civilians view mercenary companies as both protectors and predators — armed outsiders arriving under Guild seal, contract slate in hand, and reactor smoke on the horizon.
+Whatever their reputation, few institutions have shaped the modern Core more profoundly than the Metal Mercs.
 
 ## Origins
 
-Mercenary warfare expanded rapidly during the centuries following the Great Restoration.
+Mercenaries have existed throughout human history, including during the age of the Old Empire. For much of that era, however, they occupied a relatively minor role compared to the vast military forces maintained by the Empire's authorities.
 
-As civilization stabilized, tensions between the Great Houses increasingly shifted away from direct military confrontation and toward:
-- covert operations
-- frontier disputes
-- proxy conflicts
-- deniable warfare
+That changed with the Fall.
 
-Independent military companies proved ideal for these operations.
+The collapse of the Empire shattered the political and military order that had governed human space for centuries. Countless soldiers suddenly found themselves without employers, without nations, and often without any reliable means of support. At the same time, thousands of worlds lost the protection of Empire fleets and garrisons. Across known space, governments weakened, trade routes fractured, and entire regions descended into instability.
 
-Mercenaries allowed the Houses to:
-- project force
-- secure frontier systems
-- influence unstable regions
-- pursue political objectives
+Into this vacuum stepped pirates, raiders, warlords, private armies, and mercenaries.
 
-without openly violating Conclave law.
+Throughout the Dark Age, independent military companies became a common feature of life. Some protected vulnerable settlements and trade routes. Others fought for local rulers, corporate interests, or whoever could afford their services. Many drifted between the roles of soldier, salvager, privateer, and outright bandit as circumstances demanded.
 
-Over time, mercenary culture evolved into a permanent and highly influential part of interstellar civilization.
+By the time of the Great Restoration, mercenary culture had already become deeply entrenched throughout human space. The Restoration did not create the profession so much as transform it. Organizations such as the Mercenary Guild helped formalize contracts, establish standards, and bring greater legitimacy to an industry that had often operated in the gray space between military service and organized violence.
+
+Today, mercenary activity extends far beyond the boundaries of the Core. From the frontier worlds to the edge of explored space, independent military companies remain one of the most common and influential forces in human civilization.
+
 
 ## The Mercenary Guild
 
-Most recognized mercenary companies operate under the authority of the Mercenary Guild.
+→ See also: [Mercenary Guild](../mercenaries/guild/)
 
-The Guild functions as a semi-neutral regulatory authority responsible for:
-- contract arbitration
-- licensing
-- company registration
-- dispute mediation
-- reputation tracking
-- blacklisting
-- payment enforcement
+Most recognized mercenary companies operate under the authority of the Mercenary Guild, the neutral institution responsible for regulating private warfare throughout civilized space.
 
-The Guild officially operates independently from the Great Houses, though nearly every major power attempts to influence Guild operations to some extent.
+The Guild oversees company registration, contract enforcement, arbitration, reputation tracking, salvage rights, and operational disputes. Through its licensing systems and Open Board exchanges, it provides the framework that allows thousands of independent military organizations to operate across the Core and frontier regions.
 
-Without Guild recognition, a company may struggle to secure legitimate contracts through the Open Board or gain access to reliable salvage markets within civilized space.
+For many employers, a Guild seal represents legitimacy. For many mercenaries, it represents opportunity. Companies that maintain strong Guild records often gain access to better contracts, favorable salvage rights, and long-term relationships with major employers. Those that lose Guild standing may find themselves effectively locked out of civilized mercenary work.
 
-The Guild’s central headquarters are located on Drake’s Landing.
+Although the Guild commands only modest military forces of its own, its influence extends throughout human space. Few institutions have done more to transform mercenary warfare from a collection of armed companies into a profession.
 
-## Drake’s Landing
-
-→ See also: [Drake's Landing](../places/drakes-landing.md)
-
-Drake’s Landing is widely regarded as the mercenary capital of the Core.
-
-The world functions as:
-- a hiring center
-- contract exchange hub
-- mech repair world
-- training center
-- recruitment station
-- black market trade hub
-
-Thousands of independent pilots, technicians, officers, and mercenary companies pass through Drake’s Landing every year.
-
-The world possesses a reputation for:
-- opportunity
-- violence
-- corruption
-- ambition
-- independence
-
-Throughout the frontier, many aspiring mech pilots dream of one day building their own company on Landing and earning a verified steel registration through the Guild.
 
 ## Mercenary Companies
 
-Mercenary companies vary enormously in size and capability.
+Mercenary organizations vary enormously in size, capability, and influence.
 
-Some consist of only:
-- a handful of pilots
-- a transport vessel
-- a few aging mechs
+At the top of the profession stand the four [Greater Companies](../mercenaries/greater-mercenary-units/), military powers whose strength rivals that of the Great Houses themselves. Beneath them are the famous [Lesser Companies](../mercenaries/lesser-mercenary-units/), organizations large enough to shape regional conflicts and influence interstellar politics. Together, these elite commands represent the most powerful independent military forces in known space.
 
-Others rival the standing militaries of smaller planetary governments.
+The vast majority of professional mercenaries serve within [Minor Mercenary Units](../mercenaries/minor-mercenary-units/). Numbering in the hundreds, these companies range from single-company formations to reinforced wards capable of conducting extended military operations. Though smaller than the great commands, many possess long histories, respected commanders, and distinguished combat records.
 
-Many companies specialize in:
-- heavy assault
-- recon operations
-- frontier survival
-- anti-piracy warfare
-- urban combat
-- convoy protection
-- industrial security
+At the foundation of the profession are the countless [Free Jacks](../mercenaries/free-jacks/), independent pilots and small crews operating without the backing of a major company. Many never rise beyond a handful of mechs. Others eventually earn enough reputation to establish companies of their own.
 
-A company’s reputation is often more valuable than its military strength.
+Regardless of size, a mercenary company's most valuable asset is often its reputation. Reliable organizations gain access to better contracts, stronger employers, and more favorable salvage terms. Poor reputations can rapidly destroy a company's access to financing, recruits, and future work.
 
-Successful companies survive through:
-- reliability
-- professionalism
-- battlefield performance
-- loyalty
-- strategic reputation
+Among mercenaries, there is a common belief that machines win battles, but reputation wins careers.
 
-Poor reputations can rapidly destroy a company’s access to contracts, financing, and Open Board opportunities.
+## Mercenary Life
 
-## Free Jacks
+Life as a mercenary is often romanticized throughout the Core, but the reality is far less glamorous.
 
-Not all mercenaries belong to large companies or long-standing mercenary commands.
+Most mercenaries spend far more time negotiating contracts, maintaining equipment, training crews, and managing logistics than they do fighting. A successful company must function as both a military organization and a business. Ammunition must be purchased, reactors maintained, mechs repaired, pilots paid, and transport secured. A company that wins battles but cannot manage its finances rarely survives for long.
 
-Independent operators known as *Free Jacks* work outside permanent affiliations, taking contracts wherever work can be found.
+The profession attracts a wide variety of people. Former House soldiers, frontier militias, displaced nobles, salvagers, adventurers, and second-generation mercenaries can all be found beneath the banners of independent companies. Some seek wealth. Others seek freedom, glory, revenge, or simply a place to belong.
 
-Some Free Jacks operate alone in single mechs.
+Despite their reputation for independence, mercenary organizations are often built around loyalty and personal relationships. Crews may spend years or even decades serving alongside one another, creating bonds that frequently become stronger than national or political affiliations.
 
-Others form temporary crews or short-term charter groups assembled for specific contracts.
+Reputation occupies a central place in mercenary culture. A company known for honoring contracts, protecting its personnel, and treating employers fairly can secure work almost anywhere in civilized space. Companies that betray employers, abandon allies, or engage in unnecessary brutality often discover that their reputations travel faster than they do.
 
-Free Jacks are common throughout:
-- frontier systems
-- salvage zones
-- pirate regions
-- unstable trade routes
+This emphasis on reputation has produced a distinctive culture throughout the profession. Mercenaries frequently judge one another less by ideology or faction and more by competence, reliability, and battlefield conduct. Among veterans, a respected name is often considered more valuable than a powerful mech.
 
-Many eventually join larger companies after building enough reputation on the Open Board.
+As one old mercenary saying goes:
 
-Others remain fiercely independent throughout their careers.
+> *"A mech can be replaced. A reputation can't."*
 
-Within mercenary culture, Free Jacks possess a mixed reputation.
+## Drake's Landing
 
-Some are respected as adaptable frontier veterans capable of surviving without House sponsorship or major company support.
+→ See also: [Drake's Landing](../../places/drakes-landing/)
 
-Others are viewed as unreliable drifters, reactor gamblers, or walking debt barely holding their steel together long enough to survive another contract cycle.
+The heart of mercenary culture lies on Drake's Landing, the neutral world that serves as the profession's unofficial capital.
 
-Despite this reputation, many legendary mercenary commanders began their careers as Free Jacks operating from Drake’s Landing.
+Home to the Mercenary Guild and the largest concentration of mercenary companies in civilized space, Drake's Landing functions as a meeting place for pilots, recruiters, employers, mechanics, salvagers, and military contractors from every corner of the Core and Frontier. Its contract halls, Open Board exchanges, repair facilities, and training grounds form the center of the modern mercenary economy.
 
-## Mechs and Mercenary Life
+For generations, aspiring mercenaries have traveled to Drake's Landing seeking opportunity. Some arrive as Free Jacks looking for their first contract. Others come representing famous companies whose names are known across the Core. Regardless of status, nearly every mercenary eventually passes through Landing.
 
-Mechs are central to mercenary culture.
+Among mercenaries, there is a common saying:
 
-Owning and maintaining combat mechs is enormously expensive, making mech ownership both prestigious and financially dangerous.
-
-Many mercenary pilots are:
-- former military personnel
-- frontier survivors
-- displaced nobles
-- failed officers
-- salvagers
-- opportunists
-- ex-House pilots
-
-A successful company may spend years accumulating:
-- salvage
-- replacement parts
-- weapons
-- reactors
-- transport ships
-- experienced crew
-
-The destruction of even a single mech can financially cripple smaller companies.
-
-Many independent pilots spend most of their careers riding redline financially, one bad contract or failed salvage claim away from getting dry docked permanently.
-
-As a result, mercenary commanders often become highly pragmatic regarding:
-- risk
-- contract terms
-- salvage rights
-- reactor strain
-- battlefield engagement
-
-Among veteran mercs, there is a common saying:
-
-> *“A smart pilot knows when to punch out. A dead pilot keeps fighting.”*
-
-## Reputation and Morality
-
-Mercenary companies possess wildly different reputations throughout the Core.
-
-Some companies are viewed as:
-- honorable professionals
-- defenders of frontier settlements
-- reliable military contractors
-
-Others are little more than heavily armed criminals operating under legal cover.
-
-The line between:
-- mercenary
-- pirate
-- warlord
-- private army
-
-can become dangerously thin in unstable frontier regions.
-
-The Mercenary Guild officially condemns piracy and civilian attacks, though enforcement remains inconsistent outside major trade routes.
+> *"Every company starts on Landing. Not every company leaves."*
 
 ## Relationship with the Great Houses
 
-All five Great Houses employ mercenary forces to varying degrees.
+All five Great Houses make extensive use of mercenary forces.
 
-Officially, mercenary contracts are used primarily for:
-- frontier security
-- anti-piracy operations
-- infrastructure defense
+Officially, mercenary companies are employed for frontier defense, anti-piracy operations, convoy security, colonial expansion, and infrastructure protection. In practice, they frequently serve as instruments of influence in territorial disputes, proxy conflicts, covert operations, and political rivalries.
 
-Unofficially, many companies participate in:
-- proxy wars
-- political sabotage
-- territorial disputes
-- covert military operations
-- quiet work
+This relationship benefits both sides. Mercenary companies gain access to lucrative contracts, equipment, and political connections, while the Great Houses acquire military capabilities that can be deployed without fully committing their own armed forces.
 
-House sponsorship of mercenary companies is common, though often concealed through intermediaries and shell contracts.
+The relationship is not without tension. House leaders often view mercenaries as useful but unpredictable, while many mercenaries regard the Houses as employers rather than masters. Most companies maintain their independence carefully, knowing that excessive dependence upon a single patron can quickly transform a mercenary command into a House auxiliary in all but name.
 
-The Star Regency officially discourages excessive mercenary escalation, but most political observers recognize that mercenary warfare has become one of the primary mechanisms preventing open conflict between the Great Houses themselves.
-
-As one Guild analyst famously summarized:
-
-> *“The Houses call it peace because somebody else signs the contracts.”*
+Even the largest companies must navigate these relationships carefully. A contract may provide wealth and influence, but it can also draw a company into conflicts far larger than it intended to fight.
 
 ## Frontier Importance
 
-Beyond the Core, mercenary companies often represent the closest thing frontier systems possess to organized military protection.
+Nowhere are mercenaries more important than in the Frontier.
 
-Many isolated settlements rely upon mercenary forces for:
-- pirate defense
-- convoy escort
-- local security
-- emergency response
-- law enforcement
+Beyond the heavily populated worlds of the Core, many settlements lack the resources to maintain standing militaries capable of defending themselves against pirates, raiders, hostile neighbors, or local warlords. For these worlds, mercenary companies often provide the only practical source of military protection.
 
-In some regions, powerful mercenary companies effectively function as independent governments.
+Mercenaries escort convoys, defend colonies, suppress pirate activity, train local militias, and secure trade routes across vast regions where government authority is weak or nonexistent. Entire frontier economies depend upon their presence.
 
-This has made mercenary culture deeply intertwined with frontier identity.
+As a result, mercenaries are often viewed differently on the Frontier than within the Core. Core citizens may see them as opportunists or soldiers for hire. Frontier populations frequently view them as protectors, partners, and sometimes the only barrier between civilization and chaos.
 
-## Public Reputation
-
-Throughout civilized space, mercenaries are viewed with a mixture of:
-- admiration
-- suspicion
-- fear
-- romanticism
-- distrust
-
-To some, mercenaries represent freedom, independence, and opportunity beyond the rigid structures of the Great Houses.
-
-To others, they are profiteers who prolong instability for personal gain.
-
-Despite these criticisms, few deny the enormous influence mercenary companies now wield throughout the Core and frontier alike.
+It is this constant demand for security that ensures the profession continues to thrive far beyond the borders of the Great Houses.
 
 ## Modern Outlook
 
-As political tensions rise throughout the Core and instability spreads across frontier space, demand for mercenary services continues to increase.
+Mercenary activity remains at some of the highest levels seen since the Great Restoration.
 
-Many analysts within StarCom and the Regency fear that the growing dependence upon private military forces reflects a deeper weakening of interstellar political stability.
+Expanding frontier settlements, growing pirate activity, renewed competition for resources, and rising tensions between the Great Houses have created unprecedented demand for experienced military contractors. Many companies have prospered as a result, while new organizations appear on the Open Board every cycle.
 
-Others argue mercenaries have become an essential pressure valve preventing civilization from descending into open inter-house war.
+Yet many veterans view the future with caution. The political order established after the Great Restoration has preserved relative stability for centuries, but few believe it will last forever. Proxy conflicts are growing larger, contracts are becoming more dangerous, and some fear the Core is drifting toward a period of instability not seen since the Dark Age.
 
-Whatever the truth, one fact remains clear:
+For now, the Metal Mercs continue to thrive in the space between peace and war.
 
-the modern age of the Core belongs as much to the Metal Mercs as it does to the Great Houses themselves.
+> *"When the Houses stop talking, the contracts get bigger."*
+>
+> — Mercenary saying
+

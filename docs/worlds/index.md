@@ -14,4 +14,4 @@ While each Great House governs dozens of systems, several worlds stand above the
 
 ## Neutral Worlds
 
-- [Neutral Worlds](neutral-worlds.md)
+- [Neutral Worlds](neutral/)

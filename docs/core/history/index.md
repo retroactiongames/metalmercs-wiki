@@ -78,12 +78,14 @@ Most surviving traditions associate this collapse with the mysterious Ophidian S
 Descriptions of the Supremacy vary dramatically between surviving records.
 
 Some accounts describe:
+
 - an external invading civilization
 - non-human conquerors
 - entities emerging from deep space
 - an empire from beyond the frontier
 
 Other interpretations argue the Ophidians may have been:
+
 - rival human powers
 - a coalition of rebellious systems
 - a mythologized interpretation of civilizational collapse itself
@@ -104,6 +106,7 @@ Large portions of interstellar infrastructure failed or were abandoned. Many wor
 This period remains one of the least understood eras of human history.
 
 Many regions devolved into:
+
 - isolated planetary states
 - warlord territories
 - pirate enclaves
@@ -186,6 +189,7 @@ The returning Vanguard forces rapidly reclaimed much of the Core under the leade
 The Great Restoration marked the rebirth of large-scale interstellar civilization.
 
 Following the Restoration:
+
 - trade routes were re-established
 - jump networks stabilized
 - centralized governance returned

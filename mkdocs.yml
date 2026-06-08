@@ -63,10 +63,10 @@ nav:
       - mercenaries/index.md
       - Mercenary Guild: 
           - mercenaries/guild/index.md
-          - Charter: mercenaries/guild/charter.md
-          - Contracts: mercenaries/guild/contracts-and-arbitration.md
-          - Reputation: mercenaries/guild/reputation-and-blacklisting.md
-          - Salvage: mercenaries/guild/salvage-rights.md
+        #   - Charter: mercenaries/guild/charter.md
+        #   - Contracts: mercenaries/guild/contracts-and-arbitration.md
+        #   - Reputation: mercenaries/guild/reputation-and-blacklisting.md
+        #   - Salvage: mercenaries/guild/salvage-rights.md
       - Greater Mercenary Units: mercenaries/greater-mercenary-units.md
       - Lesser Mercenary Units: mercenaries/lesser-mercenary-units.md
       - Minor Mercenary Units: mercenaries/minor-mercenary-units.md

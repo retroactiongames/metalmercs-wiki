@@ -94,17 +94,22 @@ In this way, the title preserves one of the oldest traditions in the Core: the b
 
 ## The Ophidian Question
 
+## Historical Debate
+
 Scholars continue to debate the true nature of the Ophidian Supremacy.
 
-The orthodox position maintains that the Supremacy was a rival interstellar civilization whose defeat and subsequent collapse erased much of its legacy. Most universities, governments, and official historical institutions support this interpretation.
+The orthodox position maintains that the Supremacy was a rival interstellar civilization that invaded human space during the Fall of the Empire. According to this view, the subsequent defeat and collapse of the Supremacy erased much of its legacy, leaving only fragmentary records, archaeological evidence, and conflicting historical accounts. Most universities, governments, and official historical institutions support some variation of this interpretation.
 
 Others remain unconvinced.
 
-Alternative theories range from the plausible to the fantastical. Some suggest the Supremacy was not a single civilization but a coalition of hostile powers. Others argue that the Empire was already collapsing due to internal conflict, economic decline, or civil war, and that the Ophidians became a convenient explanation for a far more complicated disaster.
+Alternative theories range from the plausible to the fantastical. Some suggest the Supremacy was not a single civilization but a coalition of hostile powers operating under a common banner. Others argue that the Empire was already suffering from severe internal problems, including political fragmentation, economic decline, regional separatism, and civil conflict. In this interpretation, the Ophidian Supremacy may represent only one factor among many that contributed to the Empire's collapse.
 
-More fringe theories claim the Supremacy was non-human in origin, originated from beyond known space, or never existed at all.
+A smaller group of historians has proposed that the Supremacy was never a unified enemy at all. They argue that later generations transformed a complex period of internal collapse into the simpler narrative of a great external invasion. According to this theory, the "Ophidian Supremacy" may have become a historical metaphor for the forces that destroyed the Empire rather than a single identifiable civilization.
 
-No theory has succeeded in explaining all available evidence.
+More fringe theories claim the Supremacy was non-human in origin, arrived from beyond known space, or never existed in any form whatsoever.
+
+No theory has succeeded in explaining all available evidence, and the true nature of the Ophidian Supremacy remains one of the greatest unresolved questions in human history.
+
 
 ## Legacy
 

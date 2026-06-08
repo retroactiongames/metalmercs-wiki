@@ -15,6 +15,8 @@ For over a thousand years, military planners have repeatedly predicted the end o
 
 Mechs thrive because they solve many of the problems that limit conventional armies. They can operate in cities, mountains, forests, swamps, industrial zones, and other terrain that hinders tracked or wheeled vehicles. Their compact fusion cores allow them to operate for months or even years without refueling, dramatically reducing logistical demands and enabling operations deep behind enemy lines. Most designs can be deployed directly from dropships, or even orbital drops, and require far less supporting infrastructure than traditional armored formations.
 
+Perhaps most importantly, mechs concentrate an extraordinary amount of military capability into a single platform. A mech can engage enemy armor, infantry, fortifications, aircraft, and other mechs without requiring specialized variants or extensive support. While [conventional forces](../military/conventional-forces/) often rely upon separate formations of tanks, infantry, artillery, reconnaissance units, and air support working together, a single mech formation can perform many of those battlefield roles on its own. This flexibility allows military commanders to deploy decisive combat power rapidly and with far fewer personnel than a comparable conventional force.
+
 Equally important, mechs are resilient, self-sufficient, and highly adaptable. Damaged machines can often be repaired in the field, rebuilt from salvaged components, or kept operational long after conventional vehicles would be abandoned. Their combination of mobility, endurance, firepower, and battlefield presence has ensured their dominance across the worlds of the Core for centuries.
 
 ## Core Mech Catalog

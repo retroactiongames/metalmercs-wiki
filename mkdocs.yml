@@ -211,8 +211,8 @@ nav:
       - Industry: technology/industry.md
 
   - Military:
+      - Conventional Forces: military/conventional-forces.md
       - Military Organization: military/organization.md
-      - Military Ranks: military/ranks.md
       - Fleet Structure: military/fleet-structure.md
       - Battlestars: 
           - military/battlestars/index.md

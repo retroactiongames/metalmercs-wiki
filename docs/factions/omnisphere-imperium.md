@@ -19,7 +19,7 @@ related_entries:
 > — Imperial remembrance inscription
 
 ![Imperium Splash](../../assets/images/imperium/imperium_splash2.png)
-*State propaganda illustration depicting Imperator Jada Lytherius (center) flanked by her children: Taikario Lytherius (left), Sylara Lytherius (lower left), Valtoria Lytherius (right), and Rythor Lytherius (lower right), standing before the military and cultural power of the Omnisphere Imperium. Towering war machines, dragon banners, and the spires of the Imperial Core rise behind the ruling bloodline of House Lytherius.*
+*State propaganda illustration depicting Imperator Jada Lytherius (center) flanked by her children: Takarion Lytherius (left), Sylara Lytherius (lower left), Valtorian Lytherius (right), and Rythor Lytherius (lower right), standing before the military and cultural power of the Omnisphere Imperium. Towering war machines, dragon banners, and the spires of the Imperial Core rise behind the ruling bloodline of House Lytherius.*
 
 ## :material-dragon: Overview
 

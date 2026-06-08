@@ -2,15 +2,6 @@
 title: History of the Core
 category: History
 
-key_philosophy: "The past survives only in fragments."
-
-related_entries:
-  - title: The Core
-    url: ../overview/
-  - title: The Star Regency
-    url: ../star-regency/
-  - title: StarCom
-    url: ../../factions/starcom/
 ---
 
 # History of the Core

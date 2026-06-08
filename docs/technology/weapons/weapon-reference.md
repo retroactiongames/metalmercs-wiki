@@ -102,7 +102,7 @@ Scorchers are designed primarily to generate heat and reduce enemy cooling effic
 | [Impulse Cannons](../impulse-cannons/)                           |       |             |              |          |     ✓     |
 | [Rockets](../rockets/)                                           |   ✓   |      ✓      |       ✓      |     ✓    |     ✓     |
 | [Missiles](../missiles/)                                         |   ✓   |      ✓      |              |     ✓    |     ✓     |
-| [Scorchers](../scorchers/)                                       |       |             |              |     ✓    |           |
+| [Scorchers](../scorchers/)                                       |   ✓   |             |       ✓      |     ✓    |           |
 | [Smoke Shot](../smoke-shot/)                                     |       |             |       ✓      |          |           |
 | [Battle Fists](../battle-fists/)                                 |       |             |       ✓      |          |           |
 

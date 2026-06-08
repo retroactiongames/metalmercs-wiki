@@ -2,15 +2,6 @@
 title: The Core
 category: Civilization
 
-key_philosophy: "Rule Above All."
-
-related_entries:
-  - title: The Star Regency
-    url: ../star-regency/
-  - title: StarCom
-    url: ../factions/starcom/
-  - title: History of the Core
-    url: ../history/
 ---
 
 # The Core
@@ -148,18 +139,68 @@ The Dark Age eventually came to an end with the Great Restoration. According to 
 
 Most surviving historical records originate from the post-Restoration era. As a result, many details concerning the Empire, the Ophidian Supremacy, and the Dark Age remain subjects of ongoing scholarly debate.
 
-## Neutral Worlds
+## Geography and Regions
 
-Not all neutral powers exist beyond the Core. Several important worlds maintain special political statuses despite being located within Core space.
+Although commonly depicted as a single political entity, the Core is geographically divided into several broad regions.
 
-Among the most notable are:
+### The Prime Meridian
 
-* [Drake's Landing](../places/drakes-landing/), the mercenary hub of the Core and headquarters of the Mercenary Guild.
-* [Titan Prime](../places/titan-prime/), the famed gladiator world and home to some of the most prestigious arena competitions in known space.
+Most inhabited worlds of the Core lie within a dense galactic plane known as the **Prime Meridian**. This region contains the oldest trade routes, the greatest concentration of population, and the majority of the Core's industrial and military infrastructure.
 
-Though located within territory claimed by the Starcrest Protectorate, both worlds maintain long-standing neutral statuses recognized by the Great Houses and protected by interstellar custom. Their strategic locations, economic importance, and political neutrality make them important meeting grounds for merchants, mercenaries, diplomats, and travelers from across the Core.
+The Prime Meridian is traditionally divided into two subregions:
 
-These worlds exert substantial influence over military culture, trade, and mercenary activity throughout human space.
+#### Central Worlds
+
+The Central Worlds occupy the heart of the Core and are generally considered the most prosperous, stable, and heavily defended systems in known space.
+
+Notable Central Worlds include:
+
+* [Citadel](../places/citadel/), seat of the Star Regency
+* [Drake's Landing](../places/drakes-landing/), headquarters of the Mercenary Guild
+* Lumina, capital of the Helios Sovereignty
+* Celestia Prime, capital of the Omnisphere Imperium
+
+The Central Worlds benefit from dense trade networks, strong StarCom infrastructure, rapid military response capabilities, and some of the highest standards of living in human space.
+
+#### Outer Worlds
+
+Beyond the Central Worlds lie the Outer Worlds.
+
+These systems remain firmly within Core territory but are generally less developed, less densely populated, and more vulnerable to piracy, smuggling, and frontier unrest.
+
+Notable Outer Worlds include:
+
+* Khorhall, capital of the Starcrest Protectorate
+* Horizon's Reach, capital of Orion Corporate
+* Starhold, capital of the Confederate Vanguard Union
+
+The distinction between Central and Outer Worlds is not political but practical. While life in the Outer Worlds remains far safer than in the Frontier, citizens often experience weaker governmental oversight, longer supply routes, and greater exposure to raids originating from the Fringe.
+
+Worlds situated along the outermost edge of the Core are commonly referred to as **Border Worlds**. These systems serve as the first line of defense against piracy, bandit activity, and external threats emerging from the Fringe.
+
+### The Upper Meridian
+
+Above the Prime Meridian lies a secondary concentration of inhabited systems known as the **Upper Meridian**.
+
+Smaller than the Prime Meridian and roughly comparable in radius to the Central Worlds, the Upper Meridian contains a mixture of industrial, agricultural, and commercial systems. While generally stable and prosperous, these worlds tend to resemble the Outer Worlds in both population density and security.
+
+Though less politically influential than the Prime Meridian, the Upper Meridian remains an important contributor to the Core's economy and military manpower.
+
+### The Lower Meridian
+
+Below the Prime Meridian lies the **Lower Meridian**, a broad collection of systems somewhat larger than the Upper Meridian.
+
+The Lower Meridian contains a mixture of industrial worlds, mining systems, military outposts, and independent commercial hubs. Conditions vary considerably between systems, though most are comparable to the Outer Worlds in development and security.
+
+Among its most famous worlds is [Titan Prime](../places/titan-prime/), the renowned gladiator world whose arenas attract competitors and spectators from across human space.
+
+### Neutral Worlds
+
+A small number of worlds maintain special statuses recognized by all Great Houses regardless of their location.
+
+Among the most prominent are Drake's Landing and Titan Prime. Their neutrality, economic importance, and strategic value have made them important gathering places for merchants, mercenaries, diplomats, and travelers throughout the Core.
+
+Although the Great Houses periodically attempt to increase their influence over these worlds, centuries of custom and mutual interest have generally preserved their independence.
 
 ## Beyond the Core
 

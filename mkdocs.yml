@@ -192,27 +192,29 @@ nav:
   - Technology:
       - technology/index.md
       - Weapons:
-          - technology/weapons/index.md
-          - Autocannons: technology/weapons/autocannons.md
-          - Heavy Autoguns: technology/weapons/heavy-autoguns.md
-          - Machine Guns: technology/weapons/machine-guns.md
-          - Lasers: technology/weapons/lasers.md
-          - Prismatic Lasers: technology/weapons/prismatic-lasers.md
-          - Missiles: technology/weapons/missiles.md
-          - Rockets: technology/weapons/rockets.md
-          - Particle Weapons: technology/weapons/particle-weapons.md
-          - Gauss Weapons: technology/weapons/gauss-weapons.md
-          - Plasma Weapons: technology/weapons/plasma-weapons.md
-          - Melee Weapons: technology/weapons/melee-weapons.md
-          - Defensive Systems: technology/weapons/defensive-systems.md
+        - technology/weapons/index.md
+        - Reference Table: technology/weapons/weapon-reference.md
+        - Autoguns: technology/weapons/autoguns.md
+        - Lasers: technology/weapons/lasers.md
+        - Blasters: technology/weapons/blasters.md
+        - Prismatic Lasers: technology/weapons/prismatic-lasers.md
+        - High Energy Cannons: technology/weapons/high-energy-cannons.md
+        - Vulkan Cannons: technology/weapons/vulkan-cannons.md
+        - Magnetic Accelerator Cannons: technology/weapons/magnetic-accelerator-cannons.md
+        - Impulse Cannons: technology/weapons/impulse-cannons.md
+        - Rockets: technology/weapons/rockets.md
+        - Missiles: technology/weapons/missiles.md
+        - Scorchers: technology/weapons/scorchers.md
+        - Smoke Shot: technology/weapons/smoke-shot.md
+        - Battle Fists: technology/weapons/battle-fists.md
       - Space Travel: technology/space-warfare.md
       - Jump Technology: technology/jump-drive.md
       - Communications: technology/communications.md
       - Industry: technology/industry.md
 
   - Military:
-      - Conventional Forces: military/conventional-forces.md
       - Military Organization: military/organization.md
+      - Conventional Forces: military/conventional-forces.md
       - Fleet Structure: military/fleet-structure.md
       - Battlestars: 
           - military/battlestars/index.md

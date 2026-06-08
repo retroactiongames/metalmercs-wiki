@@ -1,5 +1,3 @@
-<!-- Auto-generated Sarna-style mech reference pages. QKS data was treated as authoritative over spreadsheet-derived stats. -->
-
 # Mechs of the Core
 
 > *"Fleets threaten worlds. Mechs take them."*  

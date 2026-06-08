@@ -2,60 +2,62 @@
 
 Jump drives are the foundation of interstellar civilization within the Core. Without them, communication, trade, military operations, and political authority across human space would collapse almost immediately. Despite their importance however, very few individuals fully understand how jump drives actually function.
 
-Modern civilization relies upon mathematical and technological principles inherited from the long ago, whose original discoveries remain only partially understood. While contemporary scientists and navigators can operate and maintain jump systems reliably, the deeper theoretical foundations behind faster-than-light travel remain among the greatest mysteries in human history. :contentReference[oaicite:0]{index=0}
+Modern civilization relies upon mathematical and technological principles inherited from the long ago, whose original discoveries remain only partially understood. While contemporary scientists and navigators can operate and maintain jump systems reliably, the deeper theoretical foundations behind faster-than-light travel remain among the greatest mysteries in human history.
 
 ## Hypercomplex Mathematics
 
-At the center of all jump technology are Hypercomplex Numbers, an advanced mathematical framework far beyond conventional real, imaginary, or complex mathematics.
+At the center of all jump technology lies Hypercomplex Mathematics, a field so strange that many scientists consider it less a branch of mathematics and more a discovered property of reality itself.
 
-Hypercomplex systems allow navigators to model spacetime geometries that would otherwise be impossible to calculate. These equations form the basis for:
-- faster-than-light travel
-- gravitational prediction
-- jump corridor stabilization
-- paradox resolution
-- temporal correction
-- high-dimensional navigation
+Hypercomplex equations routinely produce valid solutions by passing through mathematical states that appear impossible within conventional mathematics. Certain values loop back upon themselves. Others generate answers that seem to depend upon events that have not yet occurred. Some solutions can only be reached by accepting contradictions that should not be mathematically valid.
 
-Modern computers are incapable of deriving these equations independently. Instead, navigational systems rely heavily upon ancient calculation libraries, inherited formula sets, and partially understood computational heuristics. :contentReference[oaicite:1]{index=1}
+Despite this apparent absurdity, the mathematics works.
 
-Most navigators and engineers treat Hypercomplex mathematics as an applied science rather than a fully understood field of study.
+Its most important application is the solution of highly chaotic gravitational systems. Problems involving multiple stars, planets, moons, and other gravity wells rapidly become too complex for conventional mathematical methods. Yet Hypercomplex calculations consistently produce stable navigational solutions, even in situations where no reliable solution should be possible.
 
-## Chaotic Numbers
+Modern navigators rely upon these calculations every day to predict gravitational interactions, stabilize jump corridors, and traverse distances that would otherwise be impossible. Few, however, can adequately explain why the equations function as reliably as they do.
 
-One of the most important components of jump mathematics is the use of Chaotic Numbers.
+Most mathematicians therefore treat Hypercomplex mathematics less as an invention and more as a discovery. The equations are known to work. The deeper reason remains one of the greatest unanswered questions in human history.
 
-Chaotic Numbers encode entire dynamic systems within recursive mathematical structures, allowing navigators to model unstable gravitational environments that would normally be impossible to predict accurately. They are especially critical in solving variations of the Three-Body Problem, where the interactions of multiple stars, planets, moons, and gravity wells produce unpredictable trajectories. :contentReference[oaicite:2]{index=2}
+### Chaotic Numbers
 
-Rather than calculating a single path through space, Chaotic Numbers allow jump systems to account for entire fields of possible outcomes simultaneously. This permits ships to safely navigate regions of extreme gravitational complexity while avoiding catastrophic instability.
+One of the most important branches of Hypercomplex Mathematics is the study of Chaotic Numbers.
 
-Modern navigators often describe Chaotic calculations as less "predicting" the future and more "constraining" the range of acceptable realities through which a ship may travel.
+Chaotic Numbers allow navigators to model gravitational systems that would otherwise be effectively impossible to predict. They are particularly important in solving variations of the Three-Body Problem, where the interactions of multiple stars, planets, moons, and gravity wells produce outcomes that rapidly exceed the capabilities of conventional mathematics.
 
-## Paradoxical Numbers
+What makes Chaotic Numbers remarkable is not merely their accuracy, but their consistency. Even in situations where conventional models diverge into countless possibilities, Chaotic calculations repeatedly converge upon stable navigational solutions.
 
-Paradoxical Numbers form the second major pillar of jump mathematics.
+No modern scientist fully understands why this occurs.
 
-Where Chaotic Numbers manage unstable systems, Paradoxical Numbers address the causality violations inherent to faster-than-light travel itself. These equations allow spacetime to fold in ways that appear to violate conventional temporal order while maintaining broader physical consistency. :contentReference[oaicite:3]{index=3}
+Many navigators describe Chaotic calculations as less a method of predicting the future and more a process of eliminating futures that cannot occur. The mathematics does not identify a single outcome. Instead, it progressively narrows possibilities until only stable solutions remain.
 
-Without Paradoxical calculations, relativistic effects would make practical interstellar civilization impossible. Instead, jump drives effectively bypass conventional time dilation by routing vessels through higher-dimensional spacetime geometries.
+Without Chaotic Numbers, reliable jump navigation would be impossible. The vast network of trade routes, military corridors, and interstellar travel lanes that connect the Core could not exist.
 
-The exact mechanism by which this occurs remains poorly understood. Even highly trained navigators often describe Paradoxical mathematics as functioning more like controlled contradiction than conventional computation.
 
-Small errors in paradoxical calculations can produce dangerous anomalies known as drift phenomena, in which vessels emerge slightly displaced in space or time relative to their intended destination.
+### Paradoxical Numbers
 
-## The Feyn-Rachis Equation
+Paradoxical Numbers form the second major branch of Hypercomplex Mathematics.
 
-The best known ancient jump equation is the Feyn-Rachis Equation, which integrates Chaotic and Paradoxical mathematics into a unified jump framework.
+Where Chaotic Numbers address complexity, Paradoxical Numbers address contradiction.
 
-This equation governs:
-- jump initiation
-- spacetime folding
-- corridor stability
-- temporal synchronization
-- exit point resolution
+Faster-than-light travel appears to violate fundamental assumptions about causality. Under conventional physics, information cannot travel faster than light without producing paradoxes involving time, sequence, and observation. Yet jump drives function reliably despite these apparent impossibilities.
 
-Although every major faction uses derivatives of the Feyn-Rachis framework, no modern civilization fully understands its original derivation. Most navigational academies teach the equation operationally rather than theoretically.
+Paradoxical calculations provide the mathematical framework that makes such travel possible.
 
-Among mathematicians, the Feyn-Rachis Equation is often regarded less as a human invention and more as a discovered property of reality itself.
+The equations routinely generate solutions that appear internally contradictory. Certain values depend upon future states. Others seem to require information that should not yet exist. Despite this, the resulting navigational solutions consistently produce stable jumps.
+
+Even among professional navigators, Paradoxical mathematics has a reputation for being less intuitive than Chaotic calculations. Many describe it as a branch of mathematics that functions not by resolving contradictions, but by containing them.
+
+Without Paradoxical Numbers, faster-than-light travel would remain theoretically impossible. With them, it merely remains unexplained.
+
+### The Feyn-Rachis Equation
+
+The best-known ancient jump equation is the Feyn-Rachis Equation, a mathematical framework that unifies Chaotic and Paradoxical calculations into a single navigational model.
+
+Every modern jump drive ultimately relies upon some derivative of the Feyn-Rachis framework. The equation governs the initiation of jumps, the formation and stabilization of jump corridors, the synchronization of temporal effects, and the resolution of a vessel's eventual exit point.
+
+Despite its importance, no modern civilization fully understands the equation's original derivation. Navigational academies teach its application extensively, yet the deeper mathematical principles behind it remain largely inaccessible.
+
+Among mathematicians, the Feyn-Rachis Equation is often regarded less as a human invention and more as a discovered feature of reality itself. Like gravity or geometry, it appears to describe something fundamental about the structure of the universe rather than something humanity created.
 
 ## Jump Corridors and Navigation
 
@@ -69,18 +71,14 @@ For this reason, long-range exploration into the Frontier remains dangerous desp
 
 ## Computational Limitations
 
-One of the greatest limitations of modern civilization is that current computational systems cannot independently recreate the original mathematical breakthroughs.
+Modern civilization's greatest limitation is not the jump drive itself, but the mathematics that supports it.
 
-Instead, navigational systems depend heavily upon:
-- inherited equation libraries
-- pre-calculated solutions
-- historical route data
-- partially understood predictive systems
-- human navigators trained to interpret instability patterns
+While navigators can operate existing systems and engineers can maintain them, very few institutions possess the knowledge necessary to develop entirely new jump frameworks. Most navigation relies upon inherited equation libraries, centuries of accumulated route data, and ancient computational methods whose underlying principles are only partially understood.
 
-As a result, modern humanity can operate jump technology reliably but cannot easily improve upon it.
+As a result, navigational archives have become strategic assets comparable to fleets, industrial worlds, and Battlestars. Governments devote enormous resources to protecting jump records, refining corridor maps, and preserving mathematical knowledge accumulated over generations.
 
-This technological stagnation contributes heavily to the political and military structure of the modern Core. Established jump routes, navigational archives, and Engineer-era infrastructure represent strategic resources of immense importance.
+This dependence on inherited knowledge contributes heavily to the technological stagnation of the modern Core. Humanity can maintain the systems it inherited. Improving upon them is far more difficult.
+
 
 ## Cultural Impact
 
@@ -90,6 +88,6 @@ To most civilians, jump travel appears almost mystical. Ships vanish into folded
 
 As a result, jump navigation occupies an unusual place between science and mythology within Core culture. Navigators, mathematicians, and jump engineers are often viewed with a mixture of admiration, suspicion, and superstition.
 
-Many religious traditions interpret Hypercomplex mathematics as evidence of deeper cosmic truths or divine structures hidden beneath reality itself. Some even believe the ancient engineers that discovered the math behind jump technology did not invent jump mathematics, but merely discovered laws of existence far older than humanity.
+Many religious traditions interpret Hypercomplex mathematics as evidence of deeper cosmic truths or divine structures hidden beneath reality itself.
 
 Despite centuries of use, humanity still does not fully understand the forces that allow it to cross the stars.

@@ -234,7 +234,9 @@ nav:
       - Protectorate Worlds: worlds/protectorate-worlds.md
       - Sovereignty Worlds: worlds/sovereignty-worlds.md
       - Corporate Worlds: worlds/corporate-worlds.md
-      - Union Worlds: worlds/union-worlds.md
+      - Union Worlds: 
+          - worlds/union/index.md
+          - Freedom: worlds/union/freedom.md
       - Imperium Worlds: worlds/imperium-worlds.md
       - Neutral Worlds:
           - worlds/neutral/index.md

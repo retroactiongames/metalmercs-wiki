@@ -9,7 +9,7 @@ While each Great House governs dozens of systems, several worlds stand above the
 - [Starcrest Protectorate Worlds](protectorate-worlds.md)
 - [Helios Sovereignty Worlds](sovereignty-worlds.md)
 - [Orion Corporate Worlds](corporate-worlds.md)
-- [Confederate Vanguard Union Worlds](union-worlds.md)
+- [Confederate Vanguard Union Worlds](union/index.md)
 - [Omnisphere Imperium Worlds](imperium-worlds.md)
 
 ## Neutral Worlds

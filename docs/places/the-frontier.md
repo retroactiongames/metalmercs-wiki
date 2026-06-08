@@ -1,5 +1,9 @@
 # The Frontier
 
+> *"The frontier begins where the defenders end."*
+> 
+> — Union military saying
+
 Beyond the Fringe Worlds lies the Frontier, a vast and poorly documented region of human space extending far beyond the effective authority of the Great Houses. Unlike the Core and Fringe, the Frontier possesses no unified political structure, stable trade network, or commonly accepted territorial boundaries. Much of the region remains only partially charted, while countless systems are known solely through fragmented reports, outdated navigation data, and rumor.
 
 Knowledge of the Frontier within the Core is limited. Most information originates from StarCom exploration records, long-range traders, salvage expeditions, mercenary companies, and occasional diplomatic contact with isolated worlds. Even this information is often incomplete or decades out of date due to the immense distances involved and the unreliability of interstellar communication beyond established Core routes.

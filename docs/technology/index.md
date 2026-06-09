@@ -10,6 +10,6 @@ Technology in the Core is defined by powerful relic industries, ancient engineer
 ## Major Technology Entries
 
 - [Mechs](../mechs/)
-- [Weapons](weapons.md)
+- [Weapons](weapons/)
 - [Space Warfare](space-warfare.md)
 - [Jump Technology](jump-drive.md)

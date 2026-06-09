@@ -43,9 +43,19 @@ With nearly nineteen billion citizens, immense industrial wealth, and one of the
 
 Unlike the Union, Protectorate, or Imperium, the Helios Sovereignty was not forged primarily through conquest. Its power emerged from administration, commerce, and reconstruction.
 
-In the aftermath of the Great Restoration, House Caledon and the Vanguard armies reclaimed vast regions of the Core. Military victories alone, however, could not rebuild civilization. Trade routes had to be restored. Taxes collected. Communications networks rebuilt. Governments established.
+In the aftermath of the Great Restoration, House Caledon and the Vanguard armies reclaimed vast regions of the Core. Military victories alone, however, could not rebuild civilization. Trade routes had to be restored. Communications networks repaired. Governments established. Economic systems stabilized. The countless worlds reconnected by the Restoration needed administrators as desperately as they needed soldiers.
 
-These responsibilities increasingly fell upon the merchants, financiers, navigators, and administrators who would eventually form the Sovereignty. Over generations, the institutions built to restore civilization accumulated immense wealth and influence. Administrators became aristocrats. Merchant families became noble dynasties. What had once been a practical coalition of bureaucrats, financiers, and traders gradually evolved into a culture that celebrated wealth, status, refinement, and political influence as virtues in their own right.
+These responsibilities increasingly fell upon the merchants, financiers, navigators, and bureaucratic institutions that would eventually form the Helios Sovereignty.
+
+House Caledon relied heavily upon these organizations to coordinate reconstruction throughout the recovering Core. They restored commerce between isolated worlds, re-established safe travel along major jump routes, rebuilt economic systems shattered during the Dark Age, and helped construct many of the administrative institutions that continue to govern interstellar civilization today.
+
+Through this process, the ruling Houses Aerin and Payne accumulated enormous wealth, influence, and political authority. What began as a practical coalition of merchants, navigators, and administrators gradually evolved into one of the most powerful governments in human space.
+
+Over generations, many of the families responsible for rebuilding civilization transformed into a new aristocracy. Administrators became nobles. Merchant dynasties became ruling houses. Wealth, influence, education, and political sophistication became the defining virtues of Sovereignty culture.
+
+Supporters argue that the Sovereignty earned its position through centuries of competent governance and economic stewardship. Critics contend that it has drifted from its original reconstruction ideals, becoming increasingly elitist, aristocratic, and detached from the realities faced by ordinary citizens.
+
+Nevertheless, few dispute the Sovereignty's historical importance. Many of the institutions that underpin modern civilization—from trade networks and financial systems to interstellar administration itself—owe their existence in part to the efforts of the organizations that would become the Helios Sovereignty.
 
 ## Houses Aerin and Payne
 

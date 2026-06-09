@@ -10,7 +10,11 @@
 
 Blasters are advanced energy weapons most closely associated with the Omnisphere Imperium.
 
-Unlike conventional lasers, blasters fire tightly focused bursts of high-energy plasma capable of delivering significant damage while generating comparatively little heat. This combination of efficiency and striking power has made blasters a hallmark of Imperium military doctrine.
+Unlike conventional lasers, which project a continuous beam, blasters fire discrete packets of concentrated energy. These luminous bolts travel across the battlefield as visible bursts of destructive force, giving blasters their distinctive appearance and reputation.
+
+What makes blasters unique is their ability to store energy before combat. A blaster can accumulate up to three charges in advance, allowing pilots to unleash a devastating opening volley the moment battle begins. This capability gives blaster-equipped mechs exceptional alpha-strike potential, enabling them to inflict disproportionate damage during the first moments of an engagement.
+
+Once these stored charges are expended, however, blasters recharge at a rate comparable to conventional lasers while generally delivering less sustained damage over time. As a result, blasters excel at sudden violence rather than prolonged exchanges of fire.
 
 Although blasters are technically available outside Imperium space, their manufacture remains closely controlled, and relatively few examples are found beyond Imperial borders.
 
@@ -18,13 +22,15 @@ Although blasters are technically available outside Imperium space, their manufa
 
 ## Battlefield Role
 
-Blasters emphasize efficient damage delivery and sustained combat effectiveness.
+Blasters are designed for decisive engagements rather than prolonged firefights.
 
-Compared to lasers, blasters typically inflict less damage per shot but generate significantly less heat. This allows pilots to maintain a higher volume of fire over extended engagements without overwhelming their cooling systems.
+The ability to begin combat with multiple stored charges makes them exceptionally effective during ambushes, flanking attacks, and rapid assaults. A formation equipped with blasters can deliver an overwhelming burst of firepower before an opponent has an opportunity to respond, often crippling key targets within seconds.
 
-Imperium commanders often favor blasters for line units and disciplined formations expected to fight prolonged battles of maneuver and attrition. Their efficiency also makes them popular among veteran pilots who value consistency and reliability over overwhelming alpha-strike capability.
+This characteristic aligns closely with traditional Imperium doctrine. Imperial forces frequently emphasize mobility, initiative, and aggressive maneuver warfare. Fast mechs armed with blasters can strike suddenly, inflict heavy damage, and disengage before an enemy can effectively retaliate.
 
-While blasters lack the raw destructive power of High Energy Cannons or the versatility of Prismatic Lasers, few weapons can match their balance of firepower, efficiency, and endurance.
+The weapon's weaknesses become apparent during longer engagements. Once its stored charges have been exhausted, a blaster's sustained damage output generally falls below that of comparable laser systems. Commanders who fail to achieve decisive results early may find themselves at a disadvantage as a battle drags on.
+
+For this reason, blasters are often associated with attack-and-feint tactics, breakthrough operations, and rapid strikes against vulnerable targets. In the hands of skilled pilots, a well-coordinated blaster assault can decide a battle before it truly begins.
 
 ---
 

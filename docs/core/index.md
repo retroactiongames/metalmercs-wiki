@@ -31,6 +31,16 @@ Although commonly spoken of as a unified civilization, the Core is in practice a
 
 While the Core remains the most prosperous and technologically advanced region of known space, competition between the Great Houses continues to shape nearly every aspect of interstellar life. Trade disputes, territorial disagreements, industrial rivalries, and political ambitions frequently spill into open conflict. As a result, [Mercenaries](../mercenaries/) and [Mechs](../mechs/) have become central institutions of Core society. The Great Houses rely upon vast military forces, independent mercenary companies, and powerful war mechs not only to defend against pirates, bandits, and frontier raiders, but also to wage proxy conflicts, conduct raids, and pursue their interests without risking full-scale interstellar war.
 
+## Why the Core Matters
+
+For most of human space, the Core is more than a region. It is the center of political authority, economic power, military strength, and cultural influence.
+
+The Great Houses, Star Regency, StarCom, Mercenary Guild, and many of the most important institutions in modern civilization all trace their authority to the Core. Decisions made on its worlds often shape events thousands of light-years away.
+
+To supporters, the Core represents humanity's greatest achievement since the Great Restoration.
+
+To critics, it represents a wealthy collection of successor states living among the ruins of a greater civilization.
+
 ## The Great Houses
 
 Five dominant powers comprise the political foundation of the modern Core:
@@ -71,51 +81,25 @@ Critics occasionally argue that the Regency has become increasingly ceremonial i
 
 No institution exerts greater infrastructural influence across the Core than StarCom.
 
-Officially neutral and operating independently of the Great Houses, StarCom maintains:
+Officially neutral and operating independently of the Great Houses, StarCom maintains the communications relays, navigational archives, hyperspace routing systems, merchant traffic networks, and deep-space observation infrastructure upon which modern civilization depends.
 
-- communications relays
-- navigational archives
-- hyperspace routing systems
-- merchant traffic coordination
-- deep-space observation networks
-- strategic intelligence systems
+The organization emerged during the early years of the Great Restoration and has since become indispensable to interstellar society. Few governments trust one another completely, but all of them trust StarCom's networks because there is no practical alternative.
 
-The organization emerged during the early years following the Great Restoration and has since become indispensable to interstellar civilization.
-
-Without StarCom, large-scale communication and coordinated governance across the Core would be impossible.
-
-Its unofficial motto remains widely recognized throughout civilized space:
-
-> *“To Know the Future, Trust in StarCom.”*
+The organization emerged during the early years following the Great Restoration and has since become indispensable to interstellar civilization. Without StarCom, large-scale communication and coordinated governance across the Core would be impossible.
 
 ## Civilization and Society
 
-The Core contains the largest concentration of population, industry, military infrastructure, and scientific development in known space.
+The Core contains the largest concentration of population, industry, military infrastructure, and scientific development in known space. Compared to the frontier regions beyond the Core, living standards are generally higher and political institutions more stable. However, increasing tensions between the Great Houses, expanding frontier instability, piracy, economic rivalry, and political extremism continue to threaten the long-term stability of the region.
 
-Most citizens of the Core live within:
-- massive planetary arcologies
-- industrial hive-cities
-- orbital habitats
-- heavily developed metropolitan worlds
-
-Compared to the frontier regions beyond the Core, living standards are generally higher and political institutions more stable.
-
-However, increasing tensions between the Great Houses, expanding frontier instability, piracy, economic rivalry, and political extremism continue to threaten the long-term stability of the region.
+Despite frequent political tensions, most citizens experience the Core as a period of relative peace and prosperity. Interstellar trade is common, communications are reliable, and travel between major worlds is routine. While individual House cultures vary considerably, shared institutions such as the Star Regency, StarCom, the Mercenary Guild, and centuries of economic integration have produced a broadly recognizable Core identity.
 
 ## Warfare
 
-Modern warfare throughout the Core is dominated by:
-
-- mechanized combat
-- mercenary operations
-- limited territorial conflicts
-- strategic industrial warfare
-- covert operations
-- proxy engagements
+Modern warfare throughout the Core is dominated by mechanized combat, mercenary operations, limited territorial conflicts, covert actions, proxy wars, and strategic competition between the Great Houses.
 
 [Mechs](../technology/mechs/) form the backbone of nearly all modern ground combat forces. Meanwhile, [mercenary companies](../society/mercenaries/) — commonly referred to throughout civilized space as “Metal Mercs” — play a major role in frontier security, deniable military operations, and inter-house conflicts. Large-scale [space warfare](../military/space-warfare/) remains comparatively rare.
 
-Many historians believe the technological and industrial capabilities required to sustain massive fleet warfare were partially lost during the Empire's collapse and the long dark age that followed. As a result, modern powers generally avoid direct fleet attrition whenever possible.
+The technological and industrial capabilities required to sustain massive fleet warfare were partially lost during the Empire's collapse and the long dark age that followed. As a result, modern powers generally avoid direct fleet attrition whenever possible.
 
 ## History
 
@@ -129,7 +113,7 @@ At its height, the Empire represented the largest and most powerful civilization
 
 Sometime around 4000 AE, the Empire collapsed during a catastrophic conflict associated with the mysterious Ophidian Supremacy. The exact nature of the Supremacy remains one of the greatest unanswered questions in human history. Traditional accounts describe the Ophidians as the force responsible for the destruction of the Empire and the subsequent occupation of much of the Core. However, surviving records from the era are fragmentary, contradictory, and often separated from the events they describe by centuries.
 
-Very little direct evidence of the Supremacy has ever been discovered. Some historians believe the Ophidians were a rival interstellar civilization that invaded from beyond known space. Others argue they were merely one factor among many in a broader collapse caused by internal conflict, economic decline, or civil war. More speculative theories range from the Supremacy being non-human in origin to the possibility that it never existed at all.
+Very little direct evidence of the Supremacy has ever been discovered. Some historians believe the Ophidians were a rival interstellar civilization that invaded from beyond known space. Others argue they were merely one factor among many in a broader collapse caused by internal conflict, economic decline, or civil war. Some historians argue the Ophidian Supremacy became a historical metaphor for a broader collapse rather than a single identifiable enemy.
 
 Whatever the truth, the Fall was followed by several centuries of chaos known as [The Dark Age](history/dark-age.md).
 
@@ -206,14 +190,7 @@ Although the Great Houses periodically attempt to increase their influence over 
 
 → See: [The Fringe](../society/fringe-worlds.md) and [The Frontier](../places/the-frontier.md)
 
-Beyond the borders of the Core lie vast frontier regions containing:
-
-* isolated colonies
-* mining worlds
-* pirate territories
-* mercenary enclaves
-* independent settlements
-* abandoned systems
+Beyond the borders of the Core lie vast frontier regions containing isolated colonies, mining worlds, pirate territories, mercenary enclaves, independent settlements, and abandoned systems.
 
 While formally connected to the Core through trade and StarCom infrastructure, many frontier regions operate with limited oversight from the Great Houses. Some maintain close economic ties with the Core, while others are effectively independent in all but name.
 
@@ -239,4 +216,6 @@ Although the Core contains more than sixty billion inhabitants, most worlds rema
 
 A typical Core world may contain one or two enormous cities surrounded by vast regions of wilderness, agricultural land, mining territories, abandoned Imperial infrastructure, and frontier settlements.
 
-As a result, exploration, piracy, salvage operations, and mercenary activity remain common even within House territory.
+This pattern dates back to both the Empire and the Dark Age. Many worlds possess infrastructure designed to support populations far larger than those that currently inhabit them, while others contain enormous abandoned districts whose original purpose has long been forgotten.
+
+As a result, even heavily populated worlds often retain a frontier character beyond their major urban centers.

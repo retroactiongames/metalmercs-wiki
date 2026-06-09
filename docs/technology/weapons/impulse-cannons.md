@@ -12,7 +12,9 @@ Impulse Cannons are advanced energy weapons developed exclusively by the Orion C
 
 Unlike conventional energy weapons, which project beams or plasma discharges, Impulse Cannons fire a precisely timed energy impulse that forces field-aligned energy into a temporary solid-state configuration. For a brief period, this artificial construct behaves much like a physical projectile, allowing it to strike targets with tremendous force before rapidly losing coherence.
 
-The unusual nature of the projectile produces a distinctive cold signature that has led to the persistent misconception that Impulse Cannons fire "ice slugs." In reality, the weapon fires no physical ammunition at all.
+The field alignment responsible for creating the projectile also produces a secondary effect: the temporary suppression of local entropy. As particle motion slows dramatically within the immediate vicinity of the slug, surrounding matter experiences rapid cooling. Air moisture crystallizes, surfaces frost over, and targets struck by the weapon are often coated in ice-like residue.
+
+This phenomenon has led to the widespread belief that Impulse Cannons fire "ice slugs." In reality, the weapon fires no physical ammunition at all. The apparent freezing effect is merely a byproduct of the entropy-suppressing field that gives the projectile its temporary mass-like properties.
 
 Though expensive and technologically demanding to manufacture, Impulse Cannons are widely regarded as one of the most sophisticated weapon systems currently fielded in the Core.
 
@@ -26,7 +28,11 @@ At short and moderate ranges, the projectile's field alignment remains highly co
 
 This behavior creates a unique engagement profile. Unlike most long-range weapons, which maintain relatively consistent performance throughout their effective range, Impulse Cannons become progressively less destructive at extreme distances. Skilled pilots therefore seek to engage targets at ranges where the projectile remains largely intact while still exploiting the weapon's superior reach.
 
-Because the field-aligned slug suppresses local entropy and thermal motion, impacts are frequently accompanied by rapid cooling effects and frost formation. These visual phenomena have contributed to the popular myth that Impulse Cannons employ cryogenic ammunition, despite the weapon being entirely energy-based.
+Because the projectile suppresses local entropy, its passage is frequently accompanied by visible freezing effects. Air surrounding the slug can momentarily crystallize, leaving a brief trail of frost and condensation in its wake. Targets struck by an Impulse Cannon often exhibit flash-freezing around the impact site, with armor plates becoming coated in ice before rapidly thawing.
+
+The effect is highly localized. The entropy-suppressing field falls off exponentially with distance from the projectile and exists only for a fraction of a second. Nevertheless, the visual spectacle has contributed to the enduring myth that Impulse Cannons fire cryogenic ammunition or frozen projectiles.
+
+Corporate physicists are quick to point out that neither explanation is correct. The weapon does not create cold so much as briefly remove motion itself.
 
 The weapon's combination of efficiency, precision, and advanced engineering has made it a favorite among Orion Corporate forces, particularly elite units that emphasize coordinated engagements and superior battlefield information.
 

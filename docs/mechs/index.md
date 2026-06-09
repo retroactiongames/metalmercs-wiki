@@ -17,6 +17,36 @@ Perhaps most importantly, mechs concentrate an extraordinary amount of military 
 
 Equally important, mechs are resilient, self-sufficient, and highly adaptable. Damaged machines can often be repaired in the field, rebuilt from salvaged components, or kept operational long after conventional vehicles would be abandoned. Their combination of mobility, endurance, firepower, and battlefield presence has ensured their dominance across the worlds of the Core for centuries.
 
+## History and Origins
+
+The origins of the modern mech predate both the Great Restoration and the rise of the Empire itself.
+
+The earliest predecessors were crude machines: powered industrial exoskeletons used for heavy labor, mining, construction, and hazardous environments. During periods of conflict, some of these machines were armored and armed, producing a variety of primitive combat walkers that historians often describe as little more than mobile pillboxes. Though impressive for their time, these early designs were slow, cumbersome, and of limited military value.
+
+The true revolution came centuries later with the rise of the civilization that would eventually become the Omnisphere Imperium.
+
+Imperial engineers pioneered several technologies that transformed the concept of the mech from an engineering curiosity into the dominant battlefield platform of human civilization. Advances in lightweight high-strength alloys dramatically reduced structural mass while increasing durability. Neural interface systems allowed pilots to control machines with unprecedented precision and responsiveness. Most importantly, the development of compact fusion reactors provided enough energy to power massive armored machines while simultaneously supporting advanced mobility systems and energy weapons.
+
+Combined together, these innovations produced the first true war mechs.
+
+By modern standards these early machines would likely be classified as medium mechs, yet their impact on warfare was extraordinary. They possessed mobility that conventional armored vehicles could not match, firepower capable of reducing fortifications, and operational endurance measured in months rather than days. Defenses that had dominated warfare for generations suddenly became vulnerable.
+
+The strategic consequences were immediate. The Imperium expanded rapidly, leveraging its technological superiority to dominate neighboring powers and establish itself as the largest and most influential state of its age. As Imperial influence spread, so too did mech technology. Rival nations began developing their own designs, and within a few centuries war mechs had become a common feature of military forces throughout known space.
+
+Today, mechs are so deeply integrated into military doctrine that many citizens struggle to imagine warfare without them. Entire civilizations have risen and fallen beneath their shadow.
+
+### The Lytherian Debate
+
+Not all historians agree that the Imperium truly invented the first war mech.
+
+The traditional Imperial account credits Lytherian engineers with the creation of the first practical combat walker and the technologies that made modern mech warfare possible. This remains the dominant historical interpretation.
+
+Some scholars, however, question whether the early Imperium possessed the scientific and industrial base necessary to achieve such a dramatic technological breakthrough independently. Alternative theories suggest that the Lytherians may have acquired, adapted, or reverse-engineered earlier technologies developed elsewhere.
+
+A few historians have even proposed that primitive mech technology may predate the Imperium entirely, originating from civilizations whose names have long since been lost.
+
+No conclusive evidence has emerged to settle the debate. Whatever their ultimate origin, the appearance of the first true war mechs permanently transformed human history and altered the balance of power throughout the Core.
+
 ## Core Mech Catalog
 
 | Category | Designs | Notes |

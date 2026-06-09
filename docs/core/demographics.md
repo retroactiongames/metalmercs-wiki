@@ -5,9 +5,13 @@
 
 ## Overview
 
-The modern Core contains approximately 72 billion inhabitants spread across the territories of the Five Great Houses and several neutral worlds.
+The modern Core contains approximately 72 billion inhabitants spread across the territories of the Five Great Houses, the Star Regency, and several independent worlds.
 
-While often described as the center of civilization, the Core occupies only a fraction of the territory once governed by the Golden Empire.
+Although it represents the political, economic, and cultural center of human civilization, the Core occupies only a fraction of the territory once governed by the ancient Empire. Much of humanity's former domain was lost during the Fall, the Dark Age, and the centuries of fragmentation that followed.
+
+Population is distributed unevenly throughout the region. Some worlds contain billions of inhabitants and vast urban centers, while others support only a few million settlers scattered across isolated colonies and industrial outposts. Even among the most developed systems, settlement patterns are often concentrated around major population centers rather than spread evenly across planetary surfaces.
+
+This combination of high population, uneven development, and enormous territorial scale creates a Core that often feels both crowded and empty at the same time. Bustling cities, orbital habitats, and industrial megacomplexes may exist only a few hundred kilometers from wilderness regions that remain effectively untouched.
 
 ## Population by Major Power
 
@@ -22,32 +26,24 @@ While often described as the center of civilization, the Core occupies only a fr
 | Drake's Landing | 1.8 Billion | N/A | N/A |
 | Titan Prime | 2.6 Billion | N/A | N/A |
 
-**Total Known Population:** ~62 Billion
+**Total Known Population:** ~72 Billion
 
-## The Myth of Crowded Worlds
+## Settlement Patterns
 
-Despite their large populations, most Core worlds are not covered by cities.
+Despite containing tens of billions of inhabitants, most Core worlds are far less densely populated than outsiders often imagine.
 
-Many planets contain:
+Population tends to concentrate within major cities, industrial corridors, arcology complexes, orbital habitats, and transportation hubs. Beyond these regions, settlement density frequently declines rapidly. Vast wilderness areas, mountain ranges, forests, deserts, oceans, and uninhabited territories remain common even on heavily populated worlds.
 
-- vast wilderness regions
-- mountain ranges
-- forests
-- deserts
-- abandoned imperial infrastructure
-- isolated settlements
+Many planets also contain large areas of abandoned infrastructure dating back to the Empire or the Dark Age. Forgotten industrial facilities, depopulated settlements, abandoned transit networks, and partially reclaimed urban districts can be found throughout the Core. In some cases, modern governments maintain only a fraction of the infrastructure originally constructed on a world.
 
-A planet with one billion inhabitants may still possess entire continents that remain sparsely populated.
+As a result, a planet with a population of one billion inhabitants may still possess entire continents that remain sparsely settled or rarely visited.
 
-## Uneven Development
+This uneven pattern of development helps explain the continued existence of frontier communities, pirate enclaves, hidden facilities, and unexplored regions even within nominally civilized territory. The Core may be the center of human civilization, but much of it remains surprisingly vast and only partially occupied.
 
-Most population is concentrated in:
+## Urbanization
 
-- major cities
-- industrial belts
-- arcology complexes
-- orbital infrastructure
+Most Core citizens live in cities.
 
-Outside these regions, settlement density often drops dramatically.
+The largest metropolitan regions contain hundreds of millions of inhabitants spread across planetary capitals, arcology networks, orbital habitats, and industrial districts. These population centers serve as the economic and political engines of the Great Houses.
 
-This uneven development contributes to the continued existence of frontier settlements, pirate activity, unexplored regions, and lost Imperial facilities even within Core territory.
+Outside the major cities, however, population density often falls dramatically. Many citizens spend their entire lives in a single metropolitan region and may never travel beyond their home world.

@@ -141,26 +141,17 @@ To outsiders, Imperial culture can appear proud, rigid, and even elitist. Imperi
 
 ## The Eternal Flame
 
-Fire occupies a central spiritual and cultural role within the Imperium.
+Fire occupies a central place within Imperial culture, philosophy, and symbolism.
 
-Imperial philosophy associates flame with:
-- civilization
-- continuity
-- knowledge
-- sacrifice
-- memory
-- human survival
+To the Lytherians, flame represents far more than heat or light. It symbolizes civilization itself: knowledge preserved across generations, memory carried through history, sacrifice made for future descendants, and the enduring will of humanity to survive.
 
-Many Imperial ceremonies involve:
-- great braziers
-- torch processions
-- eternal flames
-- ceremonial burning rites
-- fire-lit military vigils
+This symbolism is rooted in the Imperium's understanding of its own history. Imperial tradition teaches that while much of civilization collapsed during the Dark Age, the Imperium preserved a fragment of the old world and carried that flame forward until order could be restored. Whether interpreted literally or metaphorically, the image remains one of the most powerful symbols in Imperial identity.
 
-This symbolism is closely tied to the Imperium’s belief that it preserved the last surviving flame of civilization during the dark age while much of the Core descended into ruin.
+Eternal flames burn within military academies, government buildings, memorials, and temples throughout the Imperium. State ceremonies frequently involve torch processions, ceremonial braziers, and fire-lit vigils honoring both historical heroes and fallen soldiers.
 
-The dragon imagery commonly associated with the Imperium derives partly from this philosophy. Dragons represent both destructive power and the guarded fire of civilization itself.
+The dragon imagery associated with House Lytherius is closely connected to this philosophy. In Imperial thought, dragons are not merely creatures of destruction. They are guardians of civilization's flame, protectors of knowledge, and symbols of the immense responsibility that accompanies power.
+
+To outsiders, these traditions can appear theatrical or romanticized. To the Lytherians, they serve as a constant reminder that civilization survives only so long as someone is willing to tend the fire.
 
 ## Politics and Diplomacy
 
@@ -188,40 +179,23 @@ Imperial artisans, armorers, engineers, and manufacturers often spend years refi
 
 To the Imperium, beauty and utility are not opposing ideals. A machine should function flawlessly. It should also be worthy of admiration.
 
-## Military and Technology
+## Weapons and Doctrine
 
-Imperium mechs possess a distinctive non-humanoid, serpentine style. This design tradition contributes to the Imperium’s popular nickname: “the Dragon Riders.”
+The Imperium's military philosophy reflects the same pursuit of excellence that shapes its culture.
 
-Imperial battlefield doctrine emphasizes:
-- agility
-- speed
-- hit-and-run attacks
-- precision ambushes
-- heat damage
-- overwhelming opening volleys
+Rather than emphasizing overwhelming numbers or industrial efficiency, Imperial doctrine focuses on precision, mobility, initiative, and mastery. Commanders are encouraged to view warfare as both a science and an art, rewarding creativity, discipline, and adaptability over rigid adherence to doctrine.
 
-Although many Imperium mechs are lightly armored, they are extremely fast within their weight classes.
+This philosophy is reflected in the distinctive appearance and performance of Imperial war machines. Lytherian mechs favor sleek, serpentine designs that sacrifice some armor protection in exchange for exceptional speed and agility. Their machines are often among the fastest in their weight class, allowing Imperial forces to dictate the terms of engagement and exploit weaknesses before an opponent can respond.
 
-Their signature technology is the advanced arcanite engine, which grants above-average speed and mobility.
+The Imperium's signature technological achievement is the advanced arcanite engine, a propulsion system that provides superior mobility without sacrificing battlefield endurance. Combined with generations of refinement in neural interfaces, metallurgy, and weapons engineering, these systems have produced some of the most feared combat machines in the Core.
 
-This mobility allows Imperial forces to strike quickly, disengage, and re-engage on favorable terms.
+Imperial forces rarely seek prolonged battles of attrition. Instead, they prefer rapid strikes, precision ambushes, concentrated opening volleys, and carefully timed withdrawals. Victory is achieved not by overpowering an opponent directly, but by controlling the flow of battle itself.
 
-## Blasters and Heat Warfare
+This doctrine is reinforced by the Imperium's distinctive weapon systems. The most famous of these is the Blaster, a burst-fire energy weapon that stores multiple charges before releasing them in a devastating opening volley. While blasters are less efficient than conventional lasers during extended engagements, they excel at delivering overwhelming damage during the first moments of combat. Imperial commanders frequently use this advantage to strike hard, disengage, and reposition before an enemy can effectively respond.
 
-One of the Imperium’s most distinctive weapon systems is the Blaster, a burst-damage laser weapon.
+Imperial forces also make extensive use of heat warfare. Scorchers, High Energy Cannons, and other thermal weapons are employed not merely to damage opponents, but to overwhelm cooling systems, restrict mobility, and gradually reduce battlefield effectiveness. Once an enemy begins struggling with heat management, Imperial units exploit the resulting weaknesses through superior speed and maneuverability.
 
-Blasters accumulate and store multiple charges, then discharge them simultaneously during an attack. This allows a single opening volley to strike with two or three times the force of a conventional laser burst.
-
-Blasters are useful in prolonged battles, but they are especially dangerous during the first moments of an engagement, when Imperial forces can unleash concentrated fire and then withdraw to recharge.
-
-Imperium mechs also frequently use:
-- High Energy Cannons
-- Torchers
-- heat-focused weapon systems
-
-These weapons force opponents to manage overheating, internal damage, and mobility constraints.
-
-The Imperium exploits these weaknesses through superior speed, precise ambushes, and controlled disengagement.
+Throughout the Core, Imperial mech pilots are often known as the **Dragon Riders**. Originally coined by outsiders, the nickname refers both to the serpentine appearance of Imperial mechs and to their style of warfare: swift, elegant, disciplined, and devastating when allowed to strike on their own terms.
 
 ### The Dragon Riders
 
@@ -241,20 +215,25 @@ As a result, mercenaries who successfully establish themselves with the Imperium
 
 ## Public Reputation
 
-Throughout the Core, the Omnisphere Imperium is viewed as:
-- ancient
-- honorable
-- beautiful
-- disciplined
-- aristocratic
-- militarily formidable
-- culturally refined
+The Omnisphere Imperium inspires stronger opinions than almost any other power in the Core.
 
-Its admirers view it as a living remnant of humanity’s lost greatness.
+To its supporters, the Imperium represents the highest ideals of civilization. Its citizens point to centuries of cultural achievement, military excellence, scientific innovation, and political stability as evidence that the Lytherian model has endured where countless others have failed. Many view the Imperium as the closest surviving connection to the greatness of the ancient Empire.
 
-Its critics see it as proud, rigid, and overly attached to mythologized traditions.
+Critics see something different.
 
-Even among critics, however, the Imperium’s survival through the dark age and its role in the development of war mechs grant it a historical stature few powers can rival.
+Outside observers often accuse the Imperium of arrogance, elitism, and excessive reverence for its own traditions. Imperial nobles are frequently portrayed as believing themselves intellectually, culturally, and morally superior to the rest of the Core. While Imperials generally reject such accusations, their confidence rarely does much to discourage them.
+
+Relations with other powers are similarly complex. Union citizens often view the Imperium as proud and detached. Protectorate citizens tend to respect its military accomplishments while questioning its aristocratic culture. Corporate analysts admire Imperial engineering but criticize what they see as a reluctance to embrace disruptive innovation. Within the Sovereignty, opinions range from admiration for Imperial refinement to frustration with its traditionalism.
+
+Even among its critics, however, there remains a certain degree of respect.
+
+The Imperium's military academies are among the most prestigious in human space. Its engineers continue to produce some of the finest war machines in the Core. Its artists, scholars, and philosophers exert influence far beyond its borders.
+
+As a result, many citizens hold two contradictory views simultaneously: they may dislike the Imperium, but they rarely dismiss it.
+
+As one popular saying puts it:
+
+> *"Everyone complains about the Imperium. Nobody ignores it."*
 
 ## Modern Outlook
 

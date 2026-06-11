@@ -75,6 +75,8 @@ nav:
   - Mechs:
       - mechs/index.md
       - Battlefield Roles: mechs/battlefield-roles.md
+      - Mech Pilots: mechs/mech-pilots.md
+      - Salvage and Recovery: mechs/salvage-and-recovery.md
       - Common Mechs:
         - mechs/common/index.md
         - Bulldog: mechs/common/bulldog.md
@@ -215,6 +217,7 @@ nav:
   - Military:
       - Military Organization: military/organization.md
       - Conventional Forces: military/conventional-forces.md
+      - Dropships: military/dropships.md
       - Fleet Structure: military/fleet-structure.md
       - Battlestars: 
           - military/battlestars/index.md
@@ -230,6 +233,7 @@ nav:
           - Justice: military/battlestars/justice.md
           - Eternity's Arcanum: military/battlestars/eternitys-arcanum.md
           - Aetherius V: military/battlestars/aetherius-v.md
+      - Military Academies: military/academies.md
 
   - Major Worlds:
       - worlds/index.md

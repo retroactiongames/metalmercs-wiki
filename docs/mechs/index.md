@@ -7,16 +7,6 @@
 
 The Core is dominated by ancient mech traditions, house arsenals, mercenary salvage, and the constant pressure of war. The designs below are grouped by origin rather than by current owner: common designs remain in their own category, while faction-specific machines are listed under the Great House or state most associated with their development and doctrine.
 
-## Why Mechs Dominate the Battlefield
-
-For over a thousand years, military planners have repeatedly predicted the end of the mech. Every time, reality has proven otherwise. While tanks, aircraft, and conventional vehicles remain important parts of modern armies, the mech occupies a unique role that no other platform has successfully replaced. A single trained pilot can command hundreds or even thousands of tons of armored firepower while retaining the flexibility, initiative, and adaptability of an individual soldier.
-
-Mechs thrive because they solve many of the problems that limit conventional armies. They can operate in cities, mountains, forests, swamps, industrial zones, and other terrain that hinders tracked or wheeled vehicles. Their compact fusion cores allow them to operate for months or even years without refueling, dramatically reducing logistical demands and enabling operations deep behind enemy lines. Most designs can be deployed directly from dropships, or even orbital drops, and require far less supporting infrastructure than traditional armored formations.
-
-Perhaps most importantly, mechs concentrate an extraordinary amount of military capability into a single platform. A mech can engage enemy armor, infantry, fortifications, aircraft, and other mechs without requiring specialized variants or extensive support. While [conventional forces](../military/conventional-forces/) often rely upon separate formations of tanks, infantry, artillery, reconnaissance units, and air support working together, a single mech formation can perform many of those battlefield roles on its own. This flexibility allows military commanders to deploy decisive combat power rapidly and with far fewer personnel than a comparable conventional force.
-
-Equally important, mechs are resilient, self-sufficient, and highly adaptable. Damaged machines can often be repaired in the field, rebuilt from salvaged components, or kept operational long after conventional vehicles would be abandoned. Their combination of mobility, endurance, firepower, and battlefield presence has ensured their dominance across the worlds of the Core for centuries.
-
 ## History and Origins
 
 The origins of the modern mech predate both the Great Restoration and the rise of the Empire itself.
@@ -46,6 +36,42 @@ Some scholars, however, question whether the early Imperium possessed the scient
 A few historians have even proposed that primitive mech technology may predate the Imperium entirely, originating from civilizations whose names have long since been lost.
 
 No conclusive evidence has emerged to settle the debate. Whatever their ultimate origin, the appearance of the first true war mechs permanently transformed human history and altered the balance of power throughout the Core.
+
+## Why Mechs Dominate the Battlefield
+
+For over a thousand years, military planners have repeatedly predicted the end of the mech. Every time, reality has proven otherwise. While tanks, aircraft, and conventional vehicles remain important parts of modern armies, the mech occupies a unique role that no other platform has successfully replaced. A single trained pilot can command hundreds or even thousands of tons of armored firepower while retaining the flexibility, initiative, and adaptability of an individual soldier.
+
+Mechs thrive because they solve many of the problems that limit conventional armies. They can operate in cities, mountains, forests, swamps, industrial zones, and other terrain that hinders tracked or wheeled vehicles. Their compact fusion cores allow them to operate for months or even years without refueling, dramatically reducing logistical demands and enabling operations deep behind enemy lines. Most designs can be deployed directly from dropships, or even orbital drops, and require far less supporting infrastructure than traditional armored formations.
+
+Perhaps most importantly, mechs concentrate an extraordinary amount of military capability into a single platform. A mech can engage enemy armor, infantry, fortifications, aircraft, and other mechs without requiring specialized variants or extensive support. While [conventional forces](../military/conventional-forces/) often rely upon separate formations of tanks, infantry, artillery, reconnaissance units, and air support working together, a single mech formation can perform many of those battlefield roles on its own. This flexibility allows military commanders to deploy decisive combat power rapidly and with far fewer personnel than a comparable conventional force.
+
+Equally important, mechs are resilient, self-sufficient, and highly adaptable. Damaged machines can often be repaired in the field, rebuilt from salvaged components, or kept operational long after conventional vehicles would be abandoned. Their combination of mobility, endurance, firepower, and battlefield presence has ensured their dominance across the worlds of the Core for centuries.
+
+### Air Power and the Mech Revolution
+
+Military historians often compare the modern mech to the combat aircraft of earlier eras.
+
+Before the rise of mech warfare, air superiority was widely regarded as the decisive factor in major conflicts. Aircraft possessed unmatched speed, reconnaissance capability, and striking power. Armored formations, logistics hubs, and frontline positions could be devastated by concentrated air attacks long before ground forces arrived.
+
+Despite their advantages, aircraft suffered from fundamental limitations. They required extensive support infrastructure, including airfields, maintenance facilities, fuel depots, spare parts, and highly trained ground crews. Aircraft could remain over a battlefield only briefly before returning to base to refuel or rearm, and even heavily armed strike craft were vulnerable to anti-air systems, interceptor aircraft, and adverse environmental conditions.
+
+The emergence of modern war mechs fundamentally altered this equation.
+
+A mech possesses many of the battlefield advantages traditionally associated with aircraft while eliminating many of their weaknesses. Mechs deliver extraordinary firepower, advanced sensors, rapid tactical response, and overwhelming battlefield presence without requiring permanent access to airfields or extensive logistical networks. Unlike aircraft, they can remain deployed for weeks, months, or even years at a time. They can operate in adverse weather, occupy strategic terrain, secure objectives, and maintain a continuous military presence.
+
+As a result, military doctrine throughout the Core increasingly shifted away from reliance upon air superiority as the primary determinant of victory. Aircraft remain valuable for reconnaissance, rapid transport, interception, and specialized strike missions, but modern commanders generally regard mechs as the decisive instrument of battlefield control.
+
+### Pilot Survival and Long-Term Operations
+
+Modern mechs are designed not only as combat platforms but also as long-duration operational shelters capable of sustaining their pilots during extended deployments.
+
+Because mech units frequently operate far from established supply lines, most military and mercenary designs include comprehensive survival equipment intended to support pilots for weeks after becoming isolated from friendly forces. Standard equipment typically includes emergency rations, water reserves, purification systems, medical supplies, shelter components, environmental protection gear, navigation tools, communications equipment, and personal defense weapons.
+
+Ejection systems are generally designed to carry the most critical survival equipment with the pilot. Most modern escape pods contain emergency food supplies, medical kits, distress beacons, survival tools, and environmental protection systems sufficient to sustain a pilot until rescue arrives.
+
+Even when damaged or immobilized, mechs often serve as highly effective survival shelters. Functional reactors can continue supplying power for life-support systems, communications equipment, environmental controls, and sensor arrays long after a machine is no longer combat-capable. In many circumstances, remaining inside a disabled mech is significantly safer than attempting to reach civilization on foot.
+
+This self-sufficiency has shaped military doctrine throughout the Core. A disabled mech is not necessarily considered a lost asset. Recovery teams routinely retrieve damaged machines weeks or even months after combat operations conclude, provided the pilot survives and the chassis remains recoverable. Salvage, reconstruction, and battlefield recovery have therefore become integral parts of mech warfare and contribute significantly to the remarkable longevity of many famous machines.
 
 ## Core Mech Catalog
 

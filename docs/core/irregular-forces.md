@@ -109,7 +109,7 @@ The Great Houses also frequently employ mercenary units to supplement military o
 
 The boundary between mercenary and irregular force is not always clear. Not every raid or ambush is necessarily the work of irregular forces. The Great Houses and other powerful interests frequently employ mercenary units as proxy forces. Although rival governments often recognize the true sponsors behind such operations, the use of mercenaries helps contain disputes that might otherwise escalate into open war. Raids, sabotage, border actions, and industrial strikes carried out by mercenary forces have become an accepted, if unofficial, part of interstate competition throughout much of the Core.
 
-As a result, organizations publicly or officially identified as bandits, raiders, separatists, or local militias may in reality be acting on behalf of larger political powers. The forces visible on the battlefield are not always the powers directing them.
+As a result, organizations publicly or officially identified as bandits, raiders, separatists, or local militias may in reality be acting on behalf of larger political powers.
 
 As one popular Outer Worlds saying puts it:
 

@@ -1,0 +1,36 @@
+<nav class="md-nav md-nav--secondary" aria-label="On this page">
+
+  {% if page and page.toc %}
+    <label class="md-nav__title" for="__toc">On this page</label>
+
+    <ul class="md-nav__list" data-md-component="toc">
+      {% for toc_item in page.toc %}
+        {% if toc_item.children %}
+          {% for child in toc_item.children %}
+            <li class="md-nav__item">
+              <a href="{{ child.url }}" class="md-nav__link">{{ child.title }}</a>
+            </li>
+          {% endfor %}
+        {% endif %}
+      {% endfor %}
+    </ul>
+  {% endif %}
+
+  {% if page and page.meta and page.meta.key_philosophy %}
+    <div class="mm-side-card mm-side-card-red">
+      <div class="mm-side-card-title">Key Philosophy</div>
+      <p>{{ page.meta.key_philosophy }}</p>
+    </div>
+  {% endif %}
+
+  {% if page and page.meta and page.meta.related_entries %}
+    <div class="mm-side-card">
+      <div class="mm-side-card-title">Related Entries</div>
+
+      {% for entry in page.meta.related_entries %}
+        <a class="mm-related-link" href="{{ entry.url }}">{{ entry.title }} ›</a>
+      {% endfor %}
+    </div>
+  {% endif %}
+
+</nav>

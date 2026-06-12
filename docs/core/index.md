@@ -212,10 +212,14 @@ To many historians, it represents civilization's most successful remnant.
 
 ## Demographics and Settlement
 
+→ See also: [Demographics](demographics.md) and [Irregular Forces](irregular-forces.md)
+
 Although the Core contains more than sixty billion inhabitants, most worlds remain surprisingly undeveloped outside major population centers.
 
-A typical Core world may contain one or two enormous cities surrounded by vast regions of wilderness, agricultural land, mining territories, abandoned Imperial infrastructure, and frontier settlements.
+A typical Core world may contain one or two enormous cities and a handful of smaller settlements, surrounded by vast regions of wilderness, agricultural land, mining territories, abandoned Empire-era infrastructure, and isolated communities.
 
 This pattern dates back to both the Empire and the Dark Age. Many worlds possess infrastructure designed to support populations far larger than those that currently inhabit them, while others contain enormous abandoned districts whose original purpose has long been forgotten.
 
-As a result, even heavily populated worlds often retain a frontier character beyond their major urban centers.
+As a result, even heavily populated worlds often contain enormous regions that remain lightly settled, poorly surveyed, or rarely visited.
+
+These vast and often sparsely monitored regions have also contributed to the persistence of bandits, pirates, smugglers, separatists, and other irregular forces throughout the Core. While the Great Houses maintain powerful militaries and extensive security networks, the sheer scale of inhabited space makes complete oversight impossible. Many remote regions, abandoned facilities, and forgotten settlements remain beyond the routine reach of government authorities, providing opportunities for both legitimate communities and those operating outside the law.

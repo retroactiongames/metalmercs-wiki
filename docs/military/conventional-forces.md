@@ -2,9 +2,11 @@
 
 # Conventional Forces
 
-> *"A battalion of tanks and infantry can hold a town. A column of mechs can take it."*
+> *"The battlefield belongs to mechs, but world belongs to whoever controls the roads, cities, and supply depots."*
 >
-> — Common military saying
+> — Imperium strategic doctrine
+
+![Conventional forces](../assets/images/military/conventional-forces-1.png)
 
 While [War Mechs](../../mechs/) dominate modern warfare throughout the Core, they do not operate entirely alone. Every major power maintains vast conventional military forces consisting of aerospace fighters, gunships, armored vehicles, support units, and infantry.
 
@@ -31,6 +33,8 @@ Within planetary atmospheres, aerospace fighters provide close air support, reco
 ---
 
 ## Gunships and Dropships
+
+![Gunships](../assets/images/military/gunships-1.png)
 
 Gunships and dropships form the backbone of military mobility.
 
@@ -89,6 +93,8 @@ Despite these limitations, artillery remains invaluable for area denial, defensi
 ---
 
 ## Infantry
+
+![Infantry](../assets/images/military/infantry-1.png)
 
 Infantry remains the most numerous military force in the Core.
 

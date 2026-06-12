@@ -4,6 +4,8 @@
 >
 > — Mercenary Guild saying
 
+![Salvage Operations](../assets/images/mechs/salvage-1.png)
+
 Throughout the Core, battlefield recovery and salvage operations are considered essential components of warfare. The immense cost of mech construction, combined with centuries of technological decline and resource scarcity, has ensured that few machines are ever considered truly disposable.
 
 Most military contracts include detailed salvage clauses specifying ownership rights for disabled enemy equipment, battlefield debris, spare parts, and intact chassis. Among mercenary companies, salvage rights are often considered nearly as important as financial compensation.

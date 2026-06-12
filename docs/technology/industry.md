@@ -1,8 +1,8 @@
 # Industry
 
-> *"Civilizations are remembered for their armies. They are built by their factories."*
+> *"Every mech, every starship, and every city begins as ore in the ground and steel in a factory."*
 >
-> — CoreNet Encyclopedia
+> — Core Infrastructure Authority
 
 ## Overview
 

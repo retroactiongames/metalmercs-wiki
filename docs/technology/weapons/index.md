@@ -1,10 +1,10 @@
 # Weapons
 
-> *"The pilot wins battles. The weapon merely decides how."*
+> *"Show me a mech's weapons and I'll tell you how its pilot intends to fight."*
 >
-> — Mercenary saying
+> — Mercenary Guild instructor
 
-The worlds of the Core field an enormous variety of weapon systems, ranging from simple ballistic cannons to advanced energy weapons dating back to the age of the Great Restoration.
+The war machines of the Core field an enormous variety of weapon systems, ranging from simple ballistic cannons to advanced energy weapons dating back to the age of the Great Restoration.
 
 Although thousands of individual weapon models exist, most military systems can be grouped into a handful of major weapon families. Each family reflects a different approach to battlefield combat, with strengths, weaknesses, and tactical roles that have remained largely unchanged for centuries.
 

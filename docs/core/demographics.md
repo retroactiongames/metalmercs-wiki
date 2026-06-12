@@ -1,6 +1,7 @@
 # Demographics of the Core
 
-> *"A billion souls may inhabit a world, yet most of its surface may never know their footprints."*
+> "Most inhabited worlds are known by their cities. Everything beyond them is often a matter of rumor, survey records, and old maps."
+>
 > — StarCom Survey Office
 
 ## Overview
@@ -30,15 +31,23 @@ This combination of high population, uneven development, and enormous territoria
 
 ## Settlement Patterns
 
+→ See also: [Irregular Forces](irregular-forces.md)
+
 Despite containing tens of billions of inhabitants, most Core worlds are far less densely populated than outsiders often imagine.
 
 Population tends to concentrate within major cities, industrial corridors, arcology complexes, orbital habitats, and transportation hubs. Beyond these regions, settlement density frequently declines rapidly. Vast wilderness areas, mountain ranges, forests, deserts, oceans, and uninhabited territories remain common even on heavily populated worlds.
 
-Many planets also contain large areas of abandoned infrastructure dating back to the Empire or the Dark Age. Forgotten industrial facilities, depopulated settlements, abandoned transit networks, and partially reclaimed urban districts can be found throughout the Core. In some cases, modern governments maintain only a fraction of the infrastructure originally constructed on a world.
+Most worlds are better understood as networks of settlements rather than uniformly developed planets. A handful of major cities often contain the majority of a world's population, connected by transportation corridors, mining operations, industrial facilities, agricultural regions, military installations, and smaller communities scattered across the globe.
 
-As a result, a planet with a population of one billion inhabitants may still possess entire continents that remain sparsely settled or rarely visited.
+Many planets also contain large quantities of abandoned infrastructure dating back to the Empire, the Dark Age, or earlier colonial eras. Forgotten mining camps, depopulated settlements, abandoned military bases, obsolete transit networks, and partially reclaimed urban districts can be found throughout the Core. Some have been documented and preserved. Others have simply been forgotten.
 
-This uneven pattern of development helps explain the continued existence of frontier communities, pirate enclaves, hidden facilities, and unexplored regions even within nominally civilized territory. The Core may be the center of human civilization, but much of it remains surprisingly vast and only partially occupied.
+As worlds age, layers of development accumulate. New cities are built atop old foundations. Industrial regions expand and contract. Colonies are founded, abandoned, and resettled. Entire communities may disappear without significantly affecting a planet's overall population statistics.
+
+For this reason, few worlds are comprehensively mapped beyond their inhabited regions. Governments maintain detailed records of major population centers and critical infrastructure, but many remote regions remain poorly surveyed. Old records are often incomplete, contradictory, or centuries out of date.
+
+As a result, a planet with a population of one billion inhabitants may still contain vast stretches of wilderness, abandoned facilities, forgotten settlements, and regions that no living resident has personally explored.
+
+The Core may be the center of human civilization, but much of it remains surprisingly vast, layered with history, and only partially occupied.
 
 ## Urbanization
 

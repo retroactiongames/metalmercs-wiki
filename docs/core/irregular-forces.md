@@ -44,11 +44,11 @@ Bandits are among the most common irregular threats throughout the Core.
 
 These groups survive through robbery, extortion, smuggling, protection rackets, and attacks against isolated settlements or transportation routes. Most begin as small criminal organizations, though successful groups can grow into regional powers controlling substantial territory.
 
-While minor bands may rely primarily upon conventional vehicles and infantry, larger organizations frequently field mechs acquired through theft, salvage, black market purchases, battlefield recovery, or defections from legitimate military forces. Veteran mech pilots are highly valued and often command considerable authority within bandit hierarchies.
+Bandit organizations emerge from many sources. Some are founded by criminals and opportunists seeking profit, while others originate from failed separatist movements, collapsing frontier communities, abandoned military formations, or mercenary companies that have fallen upon hard times. Throughout history, poorly disciplined companies, abandoned garrisons, and unpaid soldiers have occasionally drifted into piracy, banditry, or outright rebellion.
+
+While smaller organizations may rely primarily upon conventional vehicles and infantry, larger groups frequently field mechs acquired through theft, salvage, black market purchases, battlefield recovery, or defections from legitimate military forces. Veteran mech pilots are highly valued and often command considerable authority within bandit hierarchies.
 
 Many prominent bandit leaders are former mercenaries, discharged soldiers, failed revolutionaries, or local strongmen. As a result, some organizations possess surprisingly sophisticated military capabilities despite their criminal origins.
-
-Although individual groups rarely threaten major governments, they can significantly disrupt local economies and force entire regions into isolation.
 
 ## Pirates
 
@@ -82,9 +82,11 @@ While some movements remain peaceful, others develop into major military organiz
 
 ## Mercenary Operations
 
-Many mercenary contracts throughout the Core do not involve wars between the Great Houses.
+[Mercenaries](../../mercenaries/) are employed extensively throughout the Core, both in the suppression of irregular forces and in proxy conflicts between the Great Houses.
 
-Mercenary companies frequently find employment combating irregular forces. Governments, corporations, settlements, and private citizens often lack the resources necessary to maintain permanent military forces in every region under their control. Hiring mercenaries allows them to respond quickly to emerging threats without sustaining the enormous expense of a standing army.
+### Security and Suppression
+
+Even the Great Houses cannot continuously patrol every trade route, investigate every report of suspicious activity, or maintain garrisons in every remote settlement. Mercenary units therefore serve as a flexible reserve force, allowing clients to respond rapidly to developing situations without sustaining the enormous expense of expanding their standing militaries. Governments, corporations, settlements, and private citizens regularly hire mercenaries to combat pirates, bandits, smugglers, separatists, and other irregular forces.
 
 Common contracts include:
 
@@ -97,9 +99,21 @@ Common contracts include:
 * recovery of stolen property
 * reconnaissance of hostile territories
 
-For many mercenary organizations, irregular forces provide a steady source of employment during periods of relative peace. Entire companies have built their reputations hunting pirate fleets, destroying bandit strongholds, and protecting remote settlements.
+Many assignments involve lengthy search operations, anti-piracy patrols, and the systematic elimination of hostile strongholds hidden within remote regions. Others involve border disputes, covert raids, security operations, military advising, or deniable actions carried out on behalf of larger powers.
 
-Ironically, the boundary between mercenary and irregular force is not always clear. Throughout history, poorly disciplined companies, abandoned garrisons, and unpaid soldiers have occasionally drifted into piracy, banditry, or outright rebellion.
+As a result, irregular forces remain one of the largest sources of employment for mercenary organizations throughout human space, though they are far from the only source.
+
+### Proxy Warfare
+
+The Great Houses also frequently employ mercenary units to supplement military operations, wage proxy conflicts, provide plausible deniability, secure remote territories, and respond to emerging threats.
+
+The boundary between mercenary and irregular force is not always clear. Not every raid or ambush is necessarily the work of irregular forces. The Great Houses and other powerful interests frequently employ mercenary units as proxy forces. Although rival governments often recognize the true sponsors behind such operations, the use of mercenaries helps contain disputes that might otherwise escalate into open war. Raids, sabotage, border actions, and industrial strikes carried out by mercenary forces have become an accepted, if unofficial, part of interstate competition throughout much of the Core.
+
+As a result, organizations publicly or officially identified as bandits, raiders, separatists, or local militias may in reality be acting on behalf of larger political powers. The forces visible on the battlefield are not always the powers directing them.
+
+As one popular Outer Worlds saying puts it:
+
+> *"The difference between a bandit, a rebel, and a merc is who signs the paycheck."*
 
 ## Government Response
 
@@ -107,20 +121,20 @@ The Great Houses devote considerable resources to combating irregular threats.
 
 Military patrols, intelligence operations, security forces, local defense organizations, and licensed mercenary units continuously work to suppress criminal and insurgent activity. Strategic transportation corridors, major cities, industrial centers, and critical infrastructure receive particularly heavy protection.
 
-Despite these efforts, complete eradication has proven impossible. Every successful operation removes one threat, but new groups inevitably emerge elsewhere. A destroyed pirate fleet may scatter into several smaller organizations. A defeated bandit leader may simply be replaced by another. Suppressed insurgencies often reappear years later under new leadership.
+The distribution of irregular forces is not uniform throughout the Core. Activity tends to be lowest within the Central Worlds of the Prime Meridian, where population density, military presence, law enforcement, and surveillance infrastructure are at their greatest. Worlds such as Citadel and the capital worlds of the Great Houses maintain extensive security networks that make it exceedingly difficult for bandits, pirates, or irregular mech formations to operate openly.
 
-For most governments, irregular forces are not a problem to be solved permanently but a reality to be managed continuously. Success is measured not by elimination, but by containment.
+This does not mean irregular activity is entirely absent. Smuggling, organized crime, espionage, and other covert operations still occur even within the most secure systems. However, heavily armed groups rarely survive for long once detected. Any significant bandit force, pirate base, or unauthorized mech formation discovered near a major population center would likely face an immediate and overwhelming response from local authorities.
+
+Beyond the Central Worlds, irregular forces become increasingly common. The Outer Worlds, Upper Meridian, and Lower Meridian generally possess lower population densities, fewer security assets, and larger expanses of lightly monitored territory. These conditions provide greater opportunities for bandits, pirates, smugglers, separatists, and other irregular organizations to establish strongholds and evade authorities.
 
 ## A Permanent Reality
 
-Throughout history, governments have attempted to eliminate piracy, banditry, smuggling, and insurgency.
+Despite centuries of anti-piracy campaigns, military operations, and law enforcement efforts, complete eradication of irregular forces in the Core has proven impossible. Every successful operation removes one threat, but new groups inevitably emerge elsewhere. A destroyed pirate fleet may scatter into several smaller organizations. A defeated bandit leader may simply be replaced by another. Suppressed insurgencies often reappear years later under new leadership.
 
-None have fully succeeded.
+For most governments, irregular forces are not a problem to be solved permanently but a reality to be managed continuously. Success is measured not by elimination, but by containment.
 
 As long as worlds remain vast, borders remain porous, and authority remains imperfect, irregular forces will continue to emerge wherever opportunities exist. Some are motivated by greed, others by desperation, ideology, ambition, or simple survival. Their causes vary, but their presence remains remarkably consistent across cultures and eras.
 
-The existence of irregular forces is not merely a consequence of weak government. It is a consequence of scale. Human civilization spans hundreds of worlds, countless settlements, and immense territories that cannot be watched at all times.
+For many citizens, irregular forces are a distant concern encountered only through news reports and security briefings. For others, particularly those living in remote settlements and isolated regions, they are an everyday reality.
 
-For many citizens, irregular forces are a distant concern encountered only through news reports and security briefings. For frontier communities, remote colonies, and isolated settlements, they are an everyday reality.
-
-The Core may be the center of human civilization, but beyond the lights of its cities there will always be places where the law grows thin and other powers take its place.
+The Core may be the center of human civilization, but beyond the reach of its institutions there will always be places where other powers take root.

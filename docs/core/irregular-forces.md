@@ -1,6 +1,6 @@
 # Irregular Forces
 
-> *"No government can be everywhere. Someone always moves into the places it is not."*
+> *"No government can be everywhere."*
 >
 > — Mercenary Guild Handbook
 

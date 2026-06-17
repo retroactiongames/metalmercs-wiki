@@ -104,12 +104,11 @@ Others remain unconvinced.
 
 Alternative theories range from the plausible to the fantastical. Some suggest the Supremacy was not a single civilization but a coalition of hostile powers operating under a common banner. Others argue that the Empire was already suffering from severe internal problems, including political fragmentation, economic decline, regional separatism, and civil conflict. In this interpretation, the Ophidian Supremacy may represent only one factor among many that contributed to the Empire's collapse.
 
-A smaller group of historians has proposed that the Supremacy was never a unified enemy at all. They argue that later generations transformed a complex period of internal collapse into the simpler narrative of a great external invasion. According to this theory, the "Ophidian Supremacy" may have become a historical metaphor for the forces that destroyed the Empire rather than a single identifiable civilization.
+A smaller group of historians has proposed that the Supremacy was never a unified enemy at all and may never have truly existed as a distinct civilization. They argue that later generations transformed a complex period of internal collapse into the simpler narrative of a great external invasion. According to this theory, the "Ophidian Supremacy" may have become a historical metaphor for the many forces that contributed to the Empire's destruction rather than a single identifiable civilization.
 
-More fringe theories claim the Supremacy was non-human in origin, arrived from beyond known space, or never existed in any form whatsoever.
+More fringe theories claim the Supremacy was non-human in origin, arrived from beyond known space. Among some legends surrounding the Supremacy are claims that its agents possessed the ability to control minds or compel loyalty. In some versions, victims are said to have fallen under a form of strange influence. In others, the Supremacy is portrayed as possessing the ability to corrupt thoughts or seize control of a person's will entirely. Such claims are generally regarded as folklore, superstition, or later embellishments added to an already poorly understood period of history.
 
-No theory has succeeded in explaining all available evidence, and the true nature of the Ophidian Supremacy remains one of the greatest unresolved questions in human history.
-
+Regardless of their true origin or nature, no theory has succeeded in explaining all available evidence, and the true nature of the Ophidian Supremacy remains one of the greatest unresolved questions in human history.
 
 ## Legacy
 
